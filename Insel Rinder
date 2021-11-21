@@ -32,7 +32,7 @@ Eurylochos befahl uns: „Männer! Endlich scheint alles besser zu werden! Lasst
              „Nein“, erklärte ich meinen Kameraden. „Denkt an die Worte: ‚Hütet euch vor Helios Rindern‘. Glaubt mir, dies sind keine normalen Tiere. Wir sollten sie nicht essen.“ Doch die anderen verlachten mich nur und machten sich an die Jagd. Ich währenddessen streifte über die Insel. Mir fiel auf, dass es hier einige große und gute Bäume gab. 
                 ****[...]
                 Nachdenklich strich ich über ihre Rinde. 
-                    *****[sammelt holz ein]
+                    *****[Ich fälle Bäume]
                     Vielleicht sollte ich sie fällen? Und wenn wir sie nur für Feuerholz nutzen würden – sie würden uns sicher gute Dienste erweisen. Also machte ich mich an die Arbeit und fällte mehrere Stämme. Diese brachte ich zurück zu Odysseus, der sie interessiert musterte. „Mir kommt eine Idee, [Name d. Spielenden]“, sagte er. „Lass uns ein Floß bauen.“
                         „Warum das?“, wollte ich wissen. 
                             ******Ich nickte ihm zu und half im dabei ein gutes Floß zu bauen.
@@ -40,11 +40,11 @@ Eurylochos befahl uns: „Männer! Endlich scheint alles besser zu werden! Lasst
                             ******Verwundert, ob dieser Antwort schüttelte ich den Kopf.
                             „Ich verstehe dich nicht, Odysseus. Warum ein Floß bauen, wenn wir ein Schiff haben?“ Mit diesen Worten wandte ich mich von ihm ab, um nachzusehen, wie weit meine Kameraden waren.
                                 ********[...]
-                    *****[sammelt kein Holz ein]
+                    *****[Ich fälle keine Bäume]
 -Kopfschüttelnd ging ich zu dein Weiden. Das Holtz sollte einfach Holz bleiben. Was waren das nur für Ideen? Bei den Weiden konnte ich die Mannschaft feiern sehen. Der Geruch von Fleisch drang in meine Nase. Die Sonne senkte sich langsam dem Horizont entgegen als plötzlich ein heller Blitz einschlug. Erschrocken zuckte ich zusammen. Eine Gestalt erschien. Sie war groß und leuchtend hell wie die Sonne. Mit tiefer Stimme sprach der Mann: „Wie könnt ihr es wagen, Sterbliche, meine Rinder zu essen! Wisst ihr denn nicht, dass ihr euch an Helios Rindern vergangen habt? Dafür werdet ihr nun büßen müssen!“
-->Rinder_weiter_1
+->Rinder_Kampf
 
-===Rinder_weiter_1
+===Rinder_Kampf
 Mit diesen Worten hob der Sonnengott seine Hände und streckte sie gen Himmel. 
 Was sollten wir nun tun? Wir sprangen auf und begannen zu rennen. 
     *[Ich renne schnell]
@@ -87,10 +87,12 @@ Erleichtert ließen wir uns in den warmen, weichen Sand fallen.
                 Kurz runzelte Odysseus die Stirn, doch dann lachte er nur und winkte ab. „Mach dir keine Sorgen! Hier ist das Paradies auf Erden. Du wirst es im Paradies doch noch ein bisschen aushalten, oder?“ Damit beendete er das Gespräch, um weiter mit Kalypso zu reden.    
                 ****„Ich halte es hier nicht mehr aus!“, rief ich verzweifelt.
                 Doch Odysseus lachte nur und winkte ab. „Mach dir keine Sorgen! Hier ist das Paradies auf Erden. Du wirst es im Paradies doch noch ein bisschen aushalten, oder?“ Damit beendete er das Gespräch, um weiter mit Kalypso zu reden.
--Ich schaffte es also nicht Odysseus zu überzeugen. Stattdessen schien es mir eher als sei Keil zwischen uns getrieben wurden. Wir sprachen kaum mehr miteinander und Odysseus widmete seine Aufmerksamkeit nur noch Kalypso, sodass ich viele Tage einsam am Strand verbrachte – immer in der Sehnsucht nach Ithaka. Doch ohne Boot konnte ich nicht nachHause segeln. Eines Morgens jedoch kam Kalypso aufgeregt zu uns. Ihr Haar war unordentlich und sie weinte. „Liebster Odysseus“, sprach sie und nahm seine Hand, „In der Nacht sind mir die Götter im Traum erschienen und sie befahlen mir, dich freizulassen. Du sollst nach Hause ziehen, nach Ithaka.“ Bei diesen Worten blinzelte Odysseus mehrmals. Während mein Herz schneller schlug. Das war meine Chance nach Hause zurückzukehren! Also bekräftigte ich: „Ja, Odysseus! Wir sollten uns auf den Heimweg machen“ Ein wenig traurig stimmte mir dieser zu und wir setzten unsere Heimreise für den nächsten Tag an.
-    ->Rinder_Ende
+-Ich schaffte es also nicht Odysseus zu überzeugen. Stattdessen schien es mir eher als sei Keil zwischen uns getrieben wurden. Wir sprachen kaum mehr miteinander und Odysseus widmete seine Aufmerksamkeit nur noch Kalypso, sodass ich viele Tage einsam am Strand verbrachte – immer in der Sehnsucht nach Ithaka. Doch ohne Boot konnte ich nicht nachHause segeln. Eines Morgens jedoch kam Kalypso aufgeregt zu uns. Ihr Haar war unordentlich und sie weinte. 
+       *[...]
+       „Liebster Odysseus“, sprach sie und nahm seine Hand, „In der Nacht sind mir die Götter im Traum erschienen und sie befahlen mir, dich freizulassen. Du sollst nach Hause ziehen, nach Ithaka.“ Bei diesen Worten blinzelte Odysseus mehrmals. Während mein Herz schneller schlug. Das war meine Chance nach Hause zurückzukehren! Also bekräftigte ich: „Ja, Odysseus! Wir sollten uns auf den Heimweg machen“ Ein wenig traurig stimmte mir dieser zu und wir setzten unsere Heimreise für den nächsten Tag an.
+       ->Rinder_Ende
     
 ===Rinder_Ende
 Damit war unser Abschied besiegelt. Kalypso gab uns ein Boot, welches sie von den Göttern geschenkt bekommen hatte. Beim Abschied hielt sie Odysseus Hände und sagte zu ihm: „Ich werde dich nicht vergessen, Odysseus, Irrfahrer der Meere. Du hast mir, die an diese Insel gebunden ist, viel Freude gebracht. Mögest du und dein Kamerad den Heimweg finden!“ Damit küsste sie ihn auf die Wange. Odysseus und ich bestiegen das Schiff und winkten der schönen Kalypso zum Abschied. Nach und nach wurde die Insel Ogygia kleiner bis sie schließlich ganz verschwand und wir wieder auf dem weiten Meer allein waren. 
-->END
+->Map
     
