@@ -1,6 +1,8 @@
 INCLUDE Insel Rinder
 INCLUDE Intro1
 INCLUDE Outro
+INCLUDE Insel Kirke
+
 
 
 ->INTROANFANG
@@ -10,5 +12,5 @@ Vor euch seht ihr unseren Schiffsweg. Wir schifften von Insel zu Insel und hofft
     ->Insel_der_Rinder
 *Die Insel Kirke
     ->Insel_Kirke
-===Insel_Kirke
+
     ->END

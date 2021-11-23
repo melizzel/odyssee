@@ -1,0 +1,200 @@
+===Insel_Kirke ===
+Die See war ruhig. Nichts bewegte sich und die Mannschaft langweilte sich auf dem Deck. Ich jedoch beobachtete Odysseus. Er trug einen ledernen Sack eng an die Brust gepresst. Ich zog die Augenbrauen zusammen. Woher hatte er diesen Sack? Mir war er noch nie aufgefallen. Ich trat näher an Odysseus heran:
+
+->Sack_Gespraech
+
+/* === Greet_Odysseus===
+
+* 'Ruhige See, nicht wahr[?'] mein Freund?' sprach ich ihn an. 
+'Name, ja, recht hast du' antwortete er mir abwesend und starrte weiter auf das Meer hinaus.  
+* 'Wie geht es dir[?'], mein Freund?'
+'Ach, es gibt vieles Nachzudenken.' */
+
+=== Sack_Gespraech ===
+
+// Er strich sich langsam mit der Hand über die Schläfe.
+
+*'Was hat es mit diesem Sack auf sich?' []fragte ich ihn.
+
+'Name d. Spielenden, welch einen Sack meinst du?'
+Auf den Sack zeigend wiederholte ich meine Frage. Odysseus lachte laut auf und winkte ab. „Ach, [Name des Spielenden] lass das nur meine Sorge sein. Kümmere dich um die Mannschaft! Sie scheint mir doch sehr träge zu sein.“ 
+
+Ich schüttelte den Kopf, denn nichts anderes hatte ich von Odysseus erwartet. Wann immer er ein Geheimnis bewahren konnte, verriet er dies auch nicht. So sprach ich ihn auf die Stimmung der Mannschaft an:
+
+**„Odysseus! Was sollen wir tun? Die Mannschaft ist unzufrieden[..."], denn seit der kleinen Insel, die nur du besichtigt hast, haben wir kein Land mehr gesehen. Wir müssen uns beeilen und den Weg nach Hause finden. Sollen wir mit dem Rudern beginnen?“ 
+
+->Odysseus_Vorbeigehen
+
+**„Odysseus, verrate uns einfach, was in dem Beutel ist. Wir sind unglücklich[..."], denn wir können kaum mehr weitersegeln. Was hast du von der kleinen Insel mitgebracht? Ist es ein Schatz, den du in deinem Beutel versteckst?“ 
+->Odysseus_Vorbeigehen
+
+*'Odysseus, was ist in diesem Sack?'[] fragte ich ihn.
+
+Odysseus legte den Kopf schief und antwortete: „[Name des Spielenden] meinst du diesen Sack? So lass diesen Sack meine Sorge sein.“
+
+„Doch Odysseus! Du hast den Sack von einer kleinen Insel mitgenommen und jetzt trägst du ihn ständig mit dir herum. Ist nicht etwas Wichtiges in ihm?“
+„Und wenn es dies wäre, so würde es dich nichts angehen!“
+
+**Wütend stapfte ich auf und rief: „Wie kannst du mir dies verheimlichen!["] Schon seit Jahren begleite ich dich. Ich folgte dir in den Krieg gegen Troja und sitze nun hier auf diesem Schiff fest. Habe ich nicht das Anrecht zu wissen, was du vor uns verheimlichst?“
+
+->Odysseus_Vorbeigehen
+
+Nun brauste Odysseus auf und wies mich mit den Worten: „Ich bin dein Herr. Du hast mir Folge zu leisten, sonst wirst du niemals deine Heimat Ithaka wiedersehen“ auf. 
+**„Warum geht mich dies nichts an?“[], fragte ich mit verschränkten Armen. „Bin ich nicht dein Vertrauensmann? Habe ich dir je schlecht gedient?“
+
+Odysseus beschwichtigte mich mit ein paar schnellen Worten, doch ich flehte ihn weiter an, mir zu offenbaren, was sich in dem Sack befand. Eine innere Stimme sagte mir, dass der Inhalt des Sackes für unsere Weiterfahrt noch wichtig werden könnte. 
+
+->Odysseus_Vorbeigehen
+
+=== Odysseus_Vorbeigehen ===
+Doch Odysseus hörte nicht auf meine Bedenken und mein Flehen. Stattdessen gähnte er ungeniert und sagte mir im Vorbeigehen: „Es wird alles gut werden. Wann habe ich dich je enttäuscht? Ich habe schon einen Plan, wie wir weitersegeln können. Doch erstmal lass mich ausruhen. Nachher werde ich mich um alles kümmern.“ Mit diesen Worten legte er sich an das Heck des Schiffes. Den Sack ließ er dabei nicht los, sondern hielt ihn weiter fest. Bald schlief Odysseus ein und ich betrachtete ihn von meinem Platz auf dem Schiff aus. Was sollte nun geschehen? Die Neugierde zwickte mich und ich wollte unbedingt wissen, was sich Geheimnisvolles in dem Sack versteckte. Sollte ich es wagen…? 
+
+-> Sack_Nehmen
+
+=== Sack_Nehmen ===
+
+*[Sack öffnen]Ich schlich zu Odysseus und schaffte es ihm den Sack aus den Armen zu entwinden. Das weiche Leder schmiegte sich an meine Haut und der Sack fühlte sich leicht an – viel zu leicht, als würde nicht darin stecken. Vorsichtig öffnete ich den Sack. ->Heftiger_Wind_zur_Insel
+
+*[Sack zulassen]Hin und hergerissen beobachtete ich Odysseus, doch konnte ich mich nicht dazu entschließen ihm den Sack zu entreißen. Die Angst erwischt zu werden war zu groß. So wartete ich ab und nach einer geraumen Weile erwachte unser Anführer wieder. Er streckte sich und winkte mich zu sich. „Jetzt Spieler wirst du sehen, wie ich es schaffe, dass wir schnell weiterreisen können. Pass nur auf uns folge mir.“ Schweigend lief ich hinter Odysseus her. Dieser steuerte Bug des Schiffes an. Was er wohl vor hatte? Doch plötzlich kam er ins Stolpern. Schlaftrunken, wie er war, stolperte er über seine eigenen Füße und fiel mit einem Schrei auf die Holzplanken. Den Sack ließ er im Fall jedoch los. Dieser flog durch die Luft und öffnete sich… ->Heftiger_Wind_zur_Insel
+
+=== Heftiger_Wind_zur_Insel ===
+
+Ein heftiger Wind erfasste urplötzlich das Schiff. Wir wurden herumgewirbelt und die Haare standen mir zu Berge. Immer weiter trieb uns der Wind über die See. Mühevoll klammerte ich mich an einen Mast. Wasser lief mir über das Gesicht, meine Kleidung war vollkommen durchnässt. Im Wind meinte ich ein Lachen zu hören und ein Gesicht zu erkennen. Dann wurde mir klar, was sich im Sack befunden hatte: Aiolos, der Herr der Winde! Wie Odysseus es geschafft hatte diesen einzufangen, das wusste ich nicht, doch Aiolos war wütend über seine Gefangenschaft. So schüttelte er unser Schiff durch und ließ es lange nicht zu Ruhe kommen. Die Zeit verfloss zäh und ich betete zu den Göttern, dass sie mich den nächsten Tag noch erleben lassen würden. Mit viel Glück – ein Glück, was Odysseus immer wieder zu begleiten schien – ließ das Toben des Herrschers der Winde nach. Langsam beruhigte sich die See und wir entdeckten eine Insel. Gemeinsam beschlossen wir dorthin zu segeln. So kamen wir an einem feinen Sandstrand an und beratschlagten, was nun zu tun sein. Odysseus schlug vor, dass wir uns in zwei Gruppen aufteilen sollten: Eine Gruppe würde die Insel erkunden, während die andere am Schiff auf sie warten würde. 
+Ich entschied mich dafür… 
+
+*… die Insel zu erkunden. 
+->Kirke_Insel_erkunden
+
+*… beim Schiff zu warten.
+->Kirke_Schiff_warten
+
+=== Kirke_Insel_erkunden ===
+So machte ich mich mit meinen anderen Kameraden auf den Weg. Zuerst schlugen wir uns einen Weg ins Insel innere. Die Insel war voller Leben. Dichte, grüne Pflanzen versperrten uns oft den Weg und oft konnte ich Vögel zwitschern hören. Auch anderen Tieren begegneten wir und manchmal vermeinte ich sogar einen Löwen oder ein anderes Raubtier zu sehen. Doch wir wurden alle nicht angegriffen. Vollkommen friedlich lang dieses Eiland vor uns. Nach und nach verloren wir unsere Anspannung und begannen zu scherzen. Ich konnte mich nicht satt sehen an dem Leben, um mich herum. Bald darauf erkannte ich bekannte und unbekannte Kräuter. 
+
+*[Kräuter pflücken] Ich pflückte ein paar von ihnen. 
+//Kräuter gesammelt {met_blofeld: "I saw him. Only for a moment." }
+->Kraeuter_erhalten->Kirke_Insel_Geraeusche
+
+*[Weiter gehen] Ich ignorierte sie und ging weiter.  
+//Kräuter NICHT gesammelt
+->Kirke_Insel_Geraeusche
+
+=== Kirke_Insel_Geraeusche ===
+
+Einer meiner Kameraden stockte und ließ uns innehalten. „Hört ihr das?“, fragte er. 
+//SOUND EINFÜGEN?
+
+*„Ja..., ich kann es hören.["] Es scheint mir, als ob jemand singe. Aber solch einen lieblichen Gesang habe ich noch nie vernommen.“
+->Kirke_Erkundungstrupp
+*„Nein, was soll ich hören?“[] sagte ich und schaute ihn fragend an. Mein Kamerad schüttelte den Kopf und ließ mich nochmals lauschen, dann vernahm ich es auch. Ganz leise konnte ich einen Gesang hören. Es war so ein lieblicher Gesang, wie ich ihn noch nie vernommen hatte.
+->Kirke_Erkundungstrupp
+
+=== Kirke_Erkundungstrupp ===
+
+Gemeinsam hörten wir wie bezaubert der fremde Stimme zu, dann drängten immer mehr Männer darauf, herauszufinden, wer dort sang.
+
+*[Sich anschließen] Ich schloss mich ihnen an.
+->Kirke_Essen
+
+*[Kameraden umstimmen] Ich versuchte meine Kameraden umzustimmen.
+So sagte ich: „Lasst euch nicht täuschen. Diese Insel erscheint mir viel zu ruhig. Bedenkt doch: Wer soll auf dieser Insel singen? Mir ist das nicht geheuer!“ Doch die anderen hörten nicht auf mich, sondern ließen mich an Ort und Stelle stehen. Sie folgten dem Gesang. 
+->Kirke_Zurueck_zum_Schiff
+//Wo führt das hin?
+
+=== Kirke_Essen ===
+Schnell fanden wir einen ausgetretenen Pfad und folgten ihn zu einem prächtigen Haus. Es bestand aus vielen Hallen und war wunderbar geschmückt. Vor dem Haus stand eine der schönsten Frauen, die ich je gesehen habe. Goldenes Haar floss über ihren Rücken und von ihrer Haltung und Statur konnte ich deutlich erkennen, dass sie von adliger Abstammung war. Einladend öffnete die Frau ihre Arme und stellte sich vor: „Willkommen auf meiner Insel, meine Herren! Mein Name ist Kirke und ich bin die Herrin dieser Insel. Seid meine Gäste. Drinnen ist der Tisch gedeckt und meine Dienerinnen werden sich gerne um euch kümmern.“ Mit diesen Worten schritt Kirke voran. Ihre Dienerinnen – alles junge Frauen – führten uns in einen reich gedeckten Speisesaal. Wir konnten unser Glück gar nicht fassen. So viel Essen hatten wir seit den Siegesfeiern in Troja nicht mehr gesehen. Wir setzen uns an die Tische und Kirke lud uns ein mit dem Essen zu beginnen und uns nicht zurückzuhalten.
+Mein Nebensitzer beugte sich zu mir und wollte mir eine Platte mit Fleisch reichen.
+
+*„Oh, ich habe im Moment keinen Appetit.“ []erwiderte ich. 
+Kopfschüttelnd wandte sich mein Sitznachbar ab, während ich nervös auf dem Stuhl herumrutschte. Die Insel war schön – beinahe zu schön. Ein ungutes Gefühl breitete sich in meinem Magen aus. Etwas sagte mir, dass es nicht klug wäre, die Speisen zu essen, doch spürte ich Kirkes Blick auf mir. Deshalb entschuldigte ich mich, dass ich meine Notdurft verrichten musste und bald zurückkehren würde. So trat ich aus dem Haus der Kirke heraus. 
+->Kirke_Odysseus_Hilfe_holen
+
+* Freudig bedankte ich mich und griff zu.[] 
+Das Fleisch war so zart, dass es mir beinahe auf der Zunge zerfloss. Mehr und mehr Fleisch stopfte ich in mich herein und auch meine Kameraden aßen immer ungenierter. Plötzlich lachte Kirke und rief: „Wie soll es auch anders sein? Männer sind Schweine! Seht euch das nur an! Sie fressen, wie Schweine und sie benehmen sich wie Schweine. So müssen sie nur noch deren Äußeres teilen!“ So hob die hübsche Frau einen Stab und rief Wörter in einen fremden Sprache. Sofort fiel das Fleisch aus meinen Händen. Ich spürte ein Kribbeln auf meinem ganzen Körper. Er wurde länger, meine Arme und Beine kürzer. Die Finger verschwanden und an ihrer statt hatte ich nun Klauen. Erschrocken wollte ich aufschreien, doch nur ein Grunzen kam aus meinem Maul. Ich blicke mich um und stellte fest, dass meine Kameraden und ich in Schweine verwandelt wurden. Hilflos grunzte ich vor mich hin, während die Dienerinnen uns hämisch lachend aus der Halle in einen Stall trieben. Dort wurde ich mit meinen Kameraden in den Dreck eingesperrt. „Hier bleibt ihr nun für immer!“, rief eine der Frauen uns zu. 
+//Pflanzen gesammelt?
+{Kraeuter_erhalten: 
+->Kirke_selbst_zurueckverwandeln 
+- else: 
+->Kirke_nicht_selbst_zurueckverwandeln 
+}
+
+=== Kirke_nicht_selbst_zurueckverwandeln ===
+Das Tor zum Stall schloss sich und ich blieb im Matsch mit meinen Kameraden stehen. Meine Beine wollten mein Gewichtig beinahe nicht tragen und Gestank drang in meine Nase. Doch was sollte ich sonst tun? Ich hatte keine Möglichkeit mich zu befreien und so konnte ich nur abwarten, ob mich Odysseus erretten würde – doch darauf würde ich nicht Wetten.
+->Kirke_Schwein_sein
+
+=== Kirke_selbst_zurueckverwandeln ===
+Unsere Lage schien aussichtlos. Da fielen mir die Pflanzen ein, die ich eingesammelt hatte. Ich warf meine Tasche, die noch um meinen Schweinekörper geschlungen war, ab und suchte die Kräuter heraus. Schnell fraß ich sie. Wieder spürte ich das Kribbeln der Verwandlung. Als Mensch kniete ich keuchend im Matsch, während meine anderen Kameraden jämmerlich grunzten. „Schweigt. Ich werde Odysseus zu Hilfe holen!“, flüsterte ich ihnen zu und schlich mich aus dem Stall.
+->Kirke_Odysseus_Hilfe_holen
+
+=== Kirke_Odysseus_Hilfe_holen ===
+Sofort begann ich zu rennen. Ich rannte durch den Dschungel der Insel und doch hatte ich das Gefühl verfolgt zu werden. Es war mir als würden unsichtbare Augen auf mich gerichtet sein. Trotzdem schaffte ich es auf den Sandstrand. Dort traf ich auf Odysseus, der mir freudig zu winkte. Außer Atem wollte ich ihm von Kirke erzählen, doch Odysseus ließ mich nicht zu Wort kommen, sondern verlachte mich als Feigling. 
+->Kirke_Zurueck_zum_Schiff
+
+=== Kirke_Schiff_warten ===
+Nach dem Sturm stand mir nicht der Sinn nach Erkundungen. Also spazierte ich zusammen mit Odysseus den Strand entlang. Wir redeten über alte Zeiten und fragten uns, ob die Schafe auf Ithaka wieder lammen würden, als wir eine Gestalt in der Ferne wahrnahmen. Langsam gingen wir auf die Gestalt zu. Es war ein Mann mit lockigen, braunen Haar. Er trug Schuhe mit Flügeln und schon bei dem ersten Blick wurde uns klar, dass es sich nur um den göttlichen Hermes handeln konnte. Ehrfürchtig begrüßten wir ihn. Hermes sagte zu uns: „Listenreicher Odysseus! Auf welch eine Insel hat es euch nur verschlagen? Ihr seid auf Kirkes Insel, der Insel der bekannten Zauberin. Lass mich euch meine Hilfe anbieten.“
+
+*„Oh, ehrenvoller Hermes!"[] nickte ich freudig und sprach anstelle Odysseus. Wie gern nehmen wir Eure Hilfe an!“ Hermes schien mit meiner Ansprache zufrieden zu sein, denn er antwortete: „Euer Gefolgsmann spricht wohl, Odysseus. Nun lasst mich dafür euch dies geben.“ Er hielt uns mehrere Kräuter hin, die ich einsteckte. 
+->Kraeuter_erhalten->Kirke_Zurueck_zum_Schiff
+
+*Bevor Odysseus etwas sagen konnte, hielt ich ihn zurück. Mir war nicht wohl[...] dabei die Hilfe von Göttern anzunehmen, denn schon oft hatten sie uns auf unserer Reise betrogen. Dies sagte ich auch Hermes. Erbost antwortete der Götterbote: „Kleiner Mensch, was erlaubst du dir? So bietet dir ein Gott Hilfe an und du nimmst sie nicht an? Du wirst sehen, was du davon haben wirst! Mögest du für ewig bei den Schweinen weilen!“ Dann schlug er die Haken zusammen. Die Flügel an seinen Schuhen bewegten sich und Hermes flog gen Himmel davon. Odysseus und ich blickten ihm nach, bis er verschwunden war. ->Kirke_Zurueck_zum_Schiff
+
+=== Kraeuter_erhalten === //Kräuter erhalten {Kraeuter_gesammelt: "I have them."}
+->->
+
+=== Kirke_Zurueck_zum_Schiff ===
+
+*[...]Nachdenklich und beunruhigt machten wir uns wieder auf dem Weg zum Schiff. Dort setzen wir uns zu den anderen Männern und warteten auf unseren Erkundungstrupp.
+ ->Kirke_Mann_erscheint
+
+
+=== Kirke_Mann_erscheint ===
+*[...]Bald darauf erschien einer der Männer. Ich erkannte ihn: Es war einer der Ängstlichen, die sich immer versteckten, vollkommen erschrocken blieb er vor uns stehen und brachte hervor: „Odysseus schnell! Du musst uns helfen! Die Zauberin Kirke hat sich unserer bemächtigt. Wir haben sie singen gehört, sind ihrer Stimme und der Einladung zum Essen gefolgt, doch dann verwandelten sich alle in Schweine.“ 
+->Kirke_Ereignisse_erfahren
+
+=== Kirke_Ereignisse_erfahren ===
+„Und warum bist du kein Schwein?“, fragte Odysseus. 
+
+„Weil ich so klug war mich zu verstecken. Ich traue einer so schönen Frau nicht und bin deshalb noch draußen geblieben. Dort habe ich die Verwandlung mitangesehen“, rief der Mann aus und betrauerte seine Kameraden. 
+
+Odysseus jedoch winkte uns und befahl: „Das können wir nicht mit unseren Kameraden machen lassen! Lasst uns zu Kirke gehen und sie zwingen alle wieder zurück zu verwandeln.“ 
+
+Damit forderte er den Boten auf uns den Weg zu zeigen. Dieser ging zitternd voran. Schnell führte uns durch den Dschungel voran zu Kirkes Haus. Prachtvoll ragte es vor uns auf und die schöne Kirke begrüßte uns überschwänglich. Mit wippenden Zopf führte sie uns zusammen mit ihren Dienerinnen in die Speisehalle. Der Geruch des Essens ließ mir das Wasser im Mund zusammenlaufen. Mit ausgebreiteten Armen forderte uns Kirke zum Essen auf. 
+
+{Kraeuter_erhalten: Der Anblick der Speisen ließ meinen Magen knurren, doch ich blieb standhaft. Bevor Odysseus sich von dem Fleisch nehmen konnte, stieß ich ihn an. „Odysseus, denkt an die Kräuter des Hermes. Er hat sie uns nicht umsonst gegeben!“ Damit gab ich ihm die Hälfte der Kräuter und schluckte meinen Anteil selbst. Der bittere Geschmack ließ mich den angeekelt den Mund verziehen.} 
+
+//Passt nicht ganz? Entweder oder?
+Nun stupste ich Odysseus an und schüttelte den Kopf. Auf keinen Fall durften wir etwas von dem Essen zu uns nehmen. Wir mussten jetzt handeln. Odysseus sah mich verwundert an. 
+
+Flüsternd und mit einem ängstlichen Blick auf Kirke, die uns von der Ferne beobachtete, flüsterte ich ihm zu: „Odysseus, vergiss den Boten und unsere Kameraden nicht. Du darfst jetzt nicht schwach werden. Wir müssen sie befreien. Jetzt ist der richtige Zeitpunkt.“
+
+Odysseus nickte zustimmend und gab mir Recht, auch wenn ich glaubte, dass er beinahe wieder alles vergessen hatte. So sprang er auf, rannte zu unserer Gastgeberin, zog sein Schwert und hielt es ihr an die Kehle. Mit lauter Stimme bedrohte er sie: „Kirke! Dein Spiel ist erkannt. Wir werden uns nicht von deinem Zauber blenden lassen. Ich weiß, was du mit meinen treuen Gefolgsleuten getan hast. Verwandele sie zurück. Auf der Stelle.“ Die Zauberin, überrascht von Odysseus Angriff, wollte sich zuerst herausreden, doch Odysseus ließ dies nicht zu. Ein feines Blutrinnsal lief den schlanken Hals Kirkes entlang als sie schließlich aufgab.
+
+„Du muss Odysseus sein. Niemand anderes kann mich sonst bezwingen“, sagte sie und befahl ihren Dienerinnen die Schweine hereinzuholen. Mit einem Schwenk ihres Zauberstabes wurden die Schweine wieder zu Männern.
+->Kirke_alle_wiedervereint
+
+=== Kirke_Schwein_sein ===
+Ich weiß nicht, wie viel Zeit ich als Schwein verbracht habe, aber die tierische Natur übermannte mich immer mehr. Bald grunzte ich und wühlte im Dreck. Ich konnte nichts dagegen ausrichten. Doch irgendwann öffnete sich die Tür zu unserem Stall. Mit groben Worten und einer Peitsche wurden wir wieder in die Speisehalle gedrängt. „Ob sie uns nun schlachten werden?“, ging es mir durch den Kopf. Aber in der Halle bot sich ein ganz anderes Bild: Odysseus stand mit gezogenem Schwert vor der Zauberin und bedrohte sie. Er befahl ihr uns freizulassen. Ich verstand ihren Wortwechsel nicht genau, doch schließlich hob Kirke ihren Zauberstab, schwang ihn und ich spürte meine Nase wachsen und meinen Leibesumfang abnehmen. Ich wurde wieder zu einem Menschen! Ein Blick auf meine armen Leidensgenossen sagte mir, dass wir alle mit diesem Glück gesegnet waren.
+->Kirke_alle_wiedervereint
+
+=== Kirke_alle_wiedervereint ===
+Erleichtert fielen wir uns alle in die Arme und freuten uns, dass wir einander wieder hatten. Am liebsten wäre ich schnell von der Insel herunter, doch Kirke sagte zu Odysseus: „Nun, listenreicher, du hast mich besiegt. Wie wäre es, wenn ihr zu einer Feier bleibt. Ich bin sonst nur von meinen Dienerinnen umgeben und würde gerne eure Geschichten hören.“ Fragend wandte sich Odysseus an mich. Ich seufzte auf und sagte: 
+
+*„Gerne, große Zauberin, würden wir mit euch feiern.["] Doch meine Kameraden und ich haben weitere Bedenken, ob Ihr Eure Zauberkunst noch an uns versucht.“ Daraufhin lachte Kirke und antwortete: „Nein, kleiner Diener des großen Odysseus. Ich werde euch nicht mehr verzaubern. Das schwöre ich bei den Göttern. Sie sollen meine Zeugen sein!“ Mit diesen Schwur besänftigt stimmte auch ich einer Feier zu. Erneut konnte sich unsere Mannschaft satt essen und Kirke unterhielt Odysseus persönlich. Die Zeit verfolgt schnell und bald darauf kam der Abschied. 
+->Kirke_Weg_von_der_Insel
+
+* „Oh große Zauberin, gern würden wir bei euch bleiben, doch unser Weg ist noch weit.["] Viel zu lange warten wir darauf, dass wir unser geliebtes Ithaka wiedersehen können. Habt Erbarmen mit uns und lasst uns schnell wieder weiterziehen.“ Kirke schien über meine Antwort nicht glücklich zu sein, doch ließ sie uns ziehen. Wahrscheinlich ahnte sie, dass ich ihr nicht vollkommen vertraute.
+->Kirke_Weg_von_der_Insel
+
+=== Kirke_Weg_von_der_Insel ===
+Ich war glücklich die Planken des Schiffes wieder unter meinen Füßen zu spüren. Ein frischer Meereswind umwehte mich und ich konnte nur hoffen, dass wir keine Umwege mehr fahren mussten. 
+->END
+
+
+
+
+
+
+
+
+
+
