@@ -267,30 +267,95 @@ Dann schlug er die Haken zusammen. Die Flügel an seinen Schuhen bewegten sich u
 
 
 === Kirke_Mann_erscheint ===
-*[...]Bald darauf erschien einer der Männer. Ich erkannte ihn: Es war einer der Ängstlichen, die sich immer versteckten, vollkommen erschrocken blieb er vor uns stehen.
+//Was ist wenn der Spielende selbst kurz Schwein war?
 
-Der Ängstliche: "Odysseus schnell! Du musst uns helfen! Die Zauberin Kirke hat sich unserer bemächtigt. Wir haben sie singen gehört, sind ihrer Stimme und der Einladung zum Essen gefolgt, doch dann verwandelten sich alle in Schweine." 
+*[...]Bald darauf erschien einer der Männer. Ich erkannte ihn: Es war einer der Ängstlichen, die sich immer versteckten. Vollkommen erschrocken blieb er vor uns stehen. Sein Gesicht war weiß.
+
 ->Kirke_Ereignisse_erfahren
 
 === Kirke_Ereignisse_erfahren ===
-Odysseus: "Und warum bist du kein Schwein?" 
+*"Hast du was entdeckt?"
 
-„Weil ich so klug war mich zu verstecken. Ich traue einer so schönen Frau nicht und bin deshalb noch draußen geblieben. Dort habe ich die Verwandlung mitangesehen“, rief der Mann aus und betrauerte seine Kameraden. 
+Kamerad: "Ich… ja… wir haben ganz furchtbares entdeckt. Erst war die Insel wunderschön und dann erkannten wir ihren Schrecken."
+->Kirke_Ereignisse_erfahren
+*"Wo sind die anderen?"
 
-Odysseus jedoch winkte uns und befahl: „Das können wir nicht mit unseren Kameraden machen lassen! Lasst uns zu Kirke gehen und sie zwingen alle wieder zurück zu verwandeln.“ 
+Kamerad: "Sie sind… oh … es ist so schlimm… sie sind im Stall. Schweine sind sie!"
+->Kirke_Ereignisse_erfahren
+*"Was ist geschehen, du siehst ja so erschrocken aus!"
 
-Damit forderte er den Boten auf uns den Weg zu zeigen. Dieser ging zitternd voran. Schnell führte uns durch den Dschungel voran zu Kirkes Haus. Prachtvoll ragte es vor uns auf und die schöne Kirke begrüßte uns überschwänglich. Mit wippenden Zopf führte sie uns zusammen mit ihren Dienerinnen in die Speisehalle. Der Geruch des Essens ließ mir das Wasser im Mund zusammenlaufen. Mit ausgebreiteten Armen forderte uns Kirke zum Essen auf. 
+Kamerad: "Schlimmes ist geschehen!"
+->Kirke_Ereignisse_erfahren
+Kamerad: “Schlimmes ist geschehen!” 
+*    -> Kirke_Ereignisse_erfahren2
 
-{Kraeuter_erhalten: Der Anblick der Speisen ließ meinen Magen knurren, doch ich blieb standhaft. Bevor Odysseus sich von dem Fleisch nehmen konnte, stieß ich ihn an. „Odysseus, denkt an die Kräuter des Hermes. Er hat sie uns nicht umsonst gegeben!“ Damit gab ich ihm die Hälfte der Kräuter und schluckte meinen Anteil selbst. Der bittere Geschmack ließ mich den angeekelt den Mund verziehen.} 
+=== Kirke_Ereignisse_erfahren2 ===
 
-//Passt nicht ganz? Entweder oder?
-Nun stupste ich Odysseus an und schüttelte den Kopf. Auf keinen Fall durften wir etwas von dem Essen zu uns nehmen. Wir mussten jetzt handeln. Odysseus sah mich verwundert an. 
+//Wiederholt sich andauernd
+Er begann zu weinen, doch seine Antwort hatte uns nicht viel gebracht. 
 
-Flüsternd und mit einem ängstlichen Blick auf Kirke, die uns von der Ferne beobachtete, flüsterte ich ihm zu: „Odysseus, vergiss den Boten und unsere Kameraden nicht. Du darfst jetzt nicht schwach werden. Wir müssen sie befreien. Jetzt ist der richtige Zeitpunkt.“
+*[Das konnte doch nicht wahr sein!] Ich wurde deshalb wütend. 
 
-Odysseus nickte zustimmend und gab mir Recht, auch wenn ich glaubte, dass er beinahe wieder alles vergessen hatte. So sprang er auf, rannte zu unserer Gastgeberin, zog sein Schwert und hielt es ihr an die Kehle. Mit lauter Stimme bedrohte er sie: „Kirke! Dein Spiel ist erkannt. Wir werden uns nicht von deinem Zauber blenden lassen. Ich weiß, was du mit meinen treuen Gefolgsleuten getan hast. Verwandele sie zurück. Auf der Stelle.“ Die Zauberin, überrascht von Odysseus Angriff, wollte sich zuerst herausreden, doch Odysseus ließ dies nicht zu. Ein feines Blutrinnsal lief den schlanken Hals Kirkes entlang als sie schließlich aufgab.
+"Reiß dich zusammen! Erzähle uns, was passiert ist!" -> Kirke_Kamerad_weint
 
-„Du muss Odysseus sein. Niemand anderes kann mich sonst bezwingen“, sagte sie und befahl ihren Dienerinnen die Schweine hereinzuholen. Mit einem Schwenk ihres Zauberstabes wurden die Schweine wieder zu Männern.
+*[Empathie ist alles.] 
+
+"Ich verstehe deinen Schrecken. Doch wir verstehen noch nicht, was euch widerfahren ist. Erzähle es uns doch."
+-> Kirke_Ereignisse_erfahren3
+
+*[Er war schon immer verrückt.]
+Ich zweifelte langsam an seinem Verstand.
+
+"Nun… es scheint als hättest du dir doch alles ausgedacht - schließlich kannst du uns keine Antwort geben. Wir werden hier einfach auf die anderen warten."
+-> Kirke_Ereignisse_erfahren2
+
+=== Kirke_Kamerad_weint ===
+Er riss die Augen auf und begann erneut zu schluchzten. //Nicht zum Sprechen gebracht
+-> Kirke_Ereignisse_erfahren2
+
+=== Kirke_Ereignisse_erfahren3 ===
+
+//Odysseus? Warum nicht ich oder ihr?
+Kamerad: "Odysseus, schnell! Du musst uns helfen! Die Zauberin Kirke hat sich unserer bemächtigt. Wir haben sie singen gehört, sind ihrer Stimme und der Einladung zum Essen gefolgt, doch dann verwandelten sich alle in Schweine." 
+
+"Und warum bist du kein Schwein?" 
+
+Kamerad: "Weil ich so klug war mich zu verstecken. Ich traue einer so schönen Frau nicht und bin deshalb noch draußen geblieben. Dort habe ich die Verwandlung mitangesehen" 
+
+Odysseus winkte uns.
+*[...]
+
+Odysseus: "Das können wir nicht mit unseren Kameraden machen lassen! Lasst uns zu Kirke gehen und sie zwingen alle wieder zurück zu verwandeln." 
+
+Damit forderte er den Boten auf uns den Weg zu zeigen. Dieser ging zitternd voran. Schnell führte uns durch den Dschungel voran zu Kirkes Haus.
+**[...]
+
+Prachtvoll ragte es vor uns auf und die schöne Kirke begrüßte uns überschwänglich. Mit wippenden Zopf führte sie uns zusammen mit ihren Dienerinnen in die Speisehalle. Der Geruch des Essens ließ mir das Wasser im Mund zusammenlaufen. Mit ausgebreiteten Armen forderte uns Kirke zum Essen auf. 
+
+{Kraeuter_erhalten: Der Anblick der Speisen ließ meinen Magen knurren, doch ich blieb standhaft. Bevor Odysseus sich von dem Fleisch nehmen konnte, stieß ich ihn an.}
+
+{Kraeuter_erhalten: "Odysseus, denkt an die Kräuter des Hermes. Er hat sie uns nicht umsonst gegeben!"}
+
+{Kraeuter_erhalten: Damit gab ich ihm die Hälfte der Kräuter und schluckte meinen Anteil selbst. Der bittere Geschmack ließ mich den angeekelt den Mund verziehen.} 
+***[...]
+
+/*Nun stupste ich Odysseus an und schüttelte den Kopf.*/ Auf keinen Fall durften wir etwas von dem Essen zu uns nehmen. Schließlich hatte uns der Bote gesagt, dass alle anderen nach dem Essen verwandelt worden waren. Wir mussten jetzt handeln. Odysseus sah mich verwundert an. Ich warf einen ängstlichen Blick auf Kirke, die uns von der Ferne beobachtete. 
+
+ „Odysseus, vergiss den Boten und unsere Kameraden nicht. Du darfst jetzt nicht schwach werden. Wir müssen sie befreien. Jetzt ist der richtige Zeitpunkt.“
+
+Odysseus nickte zustimmend und gab mir Recht, auch wenn ich glaubte, dass er beinahe wieder alles vergessen hatte.
+****[...]
+
+So sprang er auf, rannte zu unserer Gastgeberin, zog sein Schwert und hielt es ihr an die Kehle. Mit lauter Stimme bedrohte er sie.
+
+Odysseus: "Kirke! Dein Spiel ist erkannt. Wir werden uns nicht von deinem Zauber blenden lassen. Ich weiß, was du mit meinen treuen Gefolgsleuten getan hast. Verwandele sie zurück. Auf der Stelle."
+
+Die Zauberin, überrascht von Odysseus Angriff, wollte sich zuerst herausreden, doch Odysseus ließ dies nicht zu. Ein feines Blutrinnsal lief den schlanken Hals Kirkes entlang als sie schließlich aufgab.
+*****[...]
+
+Kirke: "Du muss Odysseus sein. Niemand anderes kann mich sonst bezwingen." 
+
+Sie befahl ihren Dienerinnen die Schweine hereinzuholen. Mit einem Schwenk ihres Zauberstabes wurden die Schweine wieder zu Männern.
 ->Kirke_alle_wiedervereint
 
 === Kirke_Schwein_sein ===
@@ -298,16 +363,27 @@ Ich weiß nicht, wie viel Zeit ich als Schwein verbracht habe, aber die tierisch
 ->Kirke_alle_wiedervereint
 
 === Kirke_alle_wiedervereint ===
-Erleichtert fielen wir uns alle in die Arme und freuten uns, dass wir einander wieder hatten. Am liebsten wäre ich schnell von der Insel herunter, doch Kirke sagte zu Odysseus: „Nun, listenreicher, du hast mich besiegt. Wie wäre es, wenn ihr zu einer Feier bleibt. Ich bin sonst nur von meinen Dienerinnen umgeben und würde gerne eure Geschichten hören.“ Fragend wandte sich Odysseus an mich. Ich seufzte auf und sagte: 
+Erleichtert fielen wir uns alle in die Arme und freuten uns, dass wir einander wieder hatten. Am liebsten wäre ich schnell von der Insel herunter. 
+*[...]
 
-*„Gerne, große Zauberin, würden wir mit euch feiern.["] Doch meine Kameraden und ich haben weitere Bedenken, ob Ihr Eure Zauberkunst noch an uns versucht.“ Daraufhin lachte Kirke und antwortete: „Nein, kleiner Diener des großen Odysseus. Ich werde euch nicht mehr verzaubern. Das schwöre ich bei den Göttern. Sie sollen meine Zeugen sein!“ Mit diesen Schwur besänftigt stimmte auch ich einer Feier zu. Erneut konnte sich unsere Mannschaft satt essen und Kirke unterhielt Odysseus persönlich. Die Zeit verfolgt schnell und bald darauf kam der Abschied. 
+Kirke: "Nun, listenreicher Odysseus, du hast mich besiegt. Wie wäre es, wenn ihr zu einer Feier bleibt. Ich bin sonst nur von meinen Dienerinnen umgeben und würde gerne eure Geschichten hören." 
+
+Fragend wandte sich Odysseus an mich.
+
+**"Gerne, große Zauberin, würden wir mit euch feiern.["] Doch meine Kameraden und ich haben weitere Bedenken, ob Ihr Eure Zauberkunst noch an uns versucht.“
+
+Kirke: "Nein, kleiner Diener des großen Odysseus. Ich werde euch nicht mehr verzaubern. Das schwöre ich bei den Göttern. Sie sollen meine Zeugen sein!"
+
+Mit diesen Schwur besänftigt stimmte auch ich einer Feier zu. Erneut konnte sich unsere Mannschaft satt essen und Kirke unterhielt Odysseus persönlich. Die Zeit verflog schnell und bald darauf kam der Abschied. 
 ->Kirke_Weg_von_der_Insel
 
-* „Oh große Zauberin, gern würden wir bei euch bleiben, doch unser Weg ist noch weit.["] Viel zu lange warten wir darauf, dass wir unser geliebtes Ithaka wiedersehen können. Habt Erbarmen mit uns und lasst uns schnell wieder weiterziehen.“ Kirke schien über meine Antwort nicht glücklich zu sein, doch ließ sie uns ziehen. Wahrscheinlich ahnte sie, dass ich ihr nicht vollkommen vertraute.
+** "Oh große Zauberin, gern würden wir bei euch bleiben, doch unser Weg ist noch weit.["] Viel zu lange warten wir darauf, dass wir unser geliebtes Ithaka wiedersehen können. Habt Erbarmen mit uns und lasst uns schnell wieder weiterziehen."
+
+Kirke schien über meine Antwort nicht glücklich zu sein, doch ließ sie uns ziehen. Wahrscheinlich ahnte sie, dass ich ihr nicht vollkommen vertraute.
 ->Kirke_Weg_von_der_Insel
 
 === Kirke_Weg_von_der_Insel ===
-Ich war glücklich die Planken des Schiffes wieder unter meinen Füßen zu spüren. Ein frischer Meereswind umwehte mich und ich konnte nur hoffen, dass wir keine Umwege mehr fahren mussten. 
+*[...]Ich war glücklich die Planken des Schiffes wieder unter meinen Füßen zu spüren. Ein frischer Meereswind umwehte mich und ich konnte nur hoffen, dass wir keine Umwege mehr fahren mussten. 
 ->END
 
 
