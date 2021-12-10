@@ -16,7 +16,7 @@ Die See war ruhig. Nichts bewegte sich und die Mannschaft langweilte sich auf de
 
 // Er strich sich langsam mit der Hand über die Schläfe.
 
-*"Sag an Odysseus, was trägst du für einen Sack mit dir herum?"[] 
+*["Sag an Odysseus, was trägst du für einen Sack mit dir herum?"] Ich: "Sag an Odysseus, was trägst du für einen Sack mit dir herum?"
 
 ODYSSEUS: "{name}, welch einen Sack meinst du?"
 
@@ -33,14 +33,14 @@ Ich schüttelte den Kopf, denn nichts anderes hatte ich von Odysseus erwartet. W
 **"Odysseus, verrate uns einfach, was in dem Beutel ist. Wir sind unglücklich[..."], denn wir können kaum mehr weitersegeln. Was hast du von der kleinen Insel mitgebracht? Ist es ein Schatz, den du in deinem Beutel versteckst?" 
 ->Kirke_Odysseus_Vorbeigehen
 
-*"Odysseus, was ist in diesem Sack?"[]
+*["Odysseus, was ist in diesem Sack?"] Ich: "Odysseus, was ist in diesem Sack?"
 
 Er legte den Kopf schief. 
 
 Odysseus: "{name}, meinst du diesen Sack? So lass ihn meine Sorge sein."
 
 
-"Du hast den Sack von einer kleinen Insel mitgenommen und jetzt trägst du ihn ständig mit dir herum. Ist nicht etwas Wichtiges in ihm?"
+Ich: "Du hast den Sack von einer kleinen Insel mitgenommen und jetzt trägst du ihn ständig mit dir herum. Ist nicht etwas Wichtiges in ihm?"
 
 Odysseus: "Und wenn es dies wäre, so würde es dich nichts angehen!"
 
@@ -48,7 +48,7 @@ Odysseus: "Und wenn es dies wäre, so würde es dich nichts angehen!"
 
  Wütend stampfte ich auf. 
 
-"Schon seit Jahren begleite ich dich. Ich folgte dir in den Krieg gegen Troja und sitze nun hier auf diesem Schiff fest. Habe ich nicht das Anrecht zu wissen, was du vor uns verheimlichst?"
+Ich: "Schon seit Jahren begleite ich dich. Ich folgte dir in den Krieg gegen Troja und sitze nun hier auf diesem Schiff fest. Habe ich nicht das Anrecht zu wissen, was du vor uns verheimlichst?"
 
 Nun brauste Odysseus auf und wies mich zurecht.
 
@@ -59,11 +59,11 @@ Odysseus: "Ich bin dein Herr. Du hast mir Folge zu leisten, sonst wirst du niema
 
 Nun brauste Odysseus auf und wies mich mit den Worten: „Ich bin dein Herr. Du hast mir Folge zu leisten, sonst wirst du niemals deine Heimat Ithaka wiedersehen“ auf. 
 
-**"Warum geht mich dies nichts an?"[] 
+**["Warum geht mich dies nichts an?"] Ich: "Warum geht mich dies nichts an?"
 
 Ich verschränkte die Arme.  
 
-"Bin ich nicht dein Vertrauensmann? Habe ich dir je schlecht gedient?"
+Ich: "Bin ich nicht dein Vertrauensmann? Habe ich dir je schlecht gedient?"
 
 Odysseus beschwichtigte mich mit ein paar schnellen Worten, doch ich flehte ihn weiter an, mir zu offenbaren, was sich in dem Sack befand. Eine innere Stimme sagte mir, dass der Inhalt des Sackes für unsere Weiterfahrt noch wichtig werden könnte. 
 ***[...]
@@ -142,12 +142,12 @@ Nach und nach verloren wir unsere Anspannung und begannen zu scherzen. Ich konnt
 
 Einer meiner Kameraden stockte und ließ uns innehalten. 
 
-"Hört ihr das?" 
+Kamerad: "Hört ihr das?" 
 #AUDIO: Kirke_Gesang.mp3
 
-*„Ja..., ich kann es hören.["] Es scheint mir, als ob jemand singe. Aber solch einen lieblichen Gesang habe ich noch nie vernommen.“
+*["Ja..., ich kann es hören."] Ich: "Ja..., ich kann es hören. Es scheint mir, als ob jemand singe. Aber solch einen lieblichen Gesang habe ich noch nie vernommen.“
 ->Kirke_Erkundungstrupp
-*"Nein, was soll ich hören?"[]
+*["Nein, was soll ich hören?"] Ich: "Nein, was soll ich hören?"
 
 Mein Kamerad schüttelte den Kopf und ließ mich nochmals lauschen, dann vernahm ich es auch. Ganz leise konnte ich einen Gesang hören. Es war so ein lieblicher Gesang, wie ich ihn noch nie vernommen hatte.
 ->Kirke_Erkundungstrupp
@@ -161,7 +161,7 @@ Gemeinsam hörten wir wie bezaubert der fremde Stimme zu, dann drängten immer m
 
 *[Kameraden umstimmen] Ich versuchte meine Kameraden umzustimmen.
 
-"Lasst euch nicht täuschen. Diese Insel erscheint mir viel zu ruhig. Bedenkt doch: Wer soll auf dieser Insel singen? Mir ist das nicht geheuer!"
+Ich: "Lasst euch nicht täuschen. Diese Insel erscheint mir viel zu ruhig. Bedenkt doch: Wer soll auf dieser Insel singen? Mir ist das nicht geheuer!"
 
 Doch die anderen hörten nicht auf mich, sondern ließen mich an Ort und Stelle stehen. Sie folgten dem Gesang. 
 ->Kirke_Zurueck_zum_Schiff
@@ -222,7 +222,7 @@ Unsere Lage schien aussichtlos. Da fielen mir die Pflanzen ein, die ich eingesam
 
 Als Mensch kniete ich keuchend im Matsch, während meine anderen Kameraden jämmerlich grunzten. 
 
-"Schweigt. Ich werde Odysseus zu Hilfe holen." 
+Ich: "Schweigt. Ich werde Odysseus zu Hilfe holen." #whisper
 
 Ich schlich mich leise aus dem Stall.
 *[...]
@@ -271,49 +271,55 @@ Dann schlug er die Haken zusammen. Die Flügel an seinen Schuhen bewegten sich u
 
 *[...]Bald darauf erschien einer der Männer. Ich erkannte ihn: Es war einer der Ängstlichen, die sich immer versteckten. Vollkommen erschrocken blieb er vor uns stehen. Sein Gesicht war weiß.
 
-->Kirke_Ereignisse_erfahren
+->Ergeignisse_erfahren
 
-=== Kirke_Ereignisse_erfahren ===
-*"Hast du was entdeckt?"
+== Ergeignisse_erfahren ==
 
+- (opts)
+
+* (Schrecken) ["Hast du was entdeckt?"] Ich: "Hast du was entdeckt?"
 Kamerad: "Ich… ja… wir haben ganz furchtbares entdeckt. Erst war die Insel wunderschön und dann erkannten wir ihren Schrecken."
-->Kirke_Ereignisse_erfahren
-*"Wo sind die anderen?"
 
+*["Wo sind die anderen?"] Ich: "Wo sind die anderen?"
 Kamerad: "Sie sind… oh … es ist so schlimm… sie sind im Stall. Schweine sind sie!"
-->Kirke_Ereignisse_erfahren
-*"Was ist geschehen, du siehst ja so erschrocken aus!"
 
+* {not Schrecken} ["Was ist geschehen, du siehst ja so erschrocken aus!"] Ich: "Was ist geschehen, du siehst ja so erschrocken aus!"
 Kamerad: "Schlimmes ist geschehen!"
-->Kirke_Ereignisse_erfahren
-Kamerad: “Schlimmes ist geschehen!” 
-*    -> Kirke_Ereignisse_erfahren2
 
-=== Kirke_Ereignisse_erfahren2 ===
+* {Schrecken} ["Was war so schrecklich?"] Ich: "Was war so schrecklich?"
+Kamerad: "Schlimmes ist geschehen! Eine Zauberin, eine Hexe. Schweine sind sie!"
+
+-   {once: 
+    - -> opts 
+    }
+
+-> Kamerad_weint->Ereignisse_erfahren_2
+
+== Ereignisse_erfahren_2 ==
 
 //Wiederholt sich andauernd
-Er begann zu weinen, doch seine Antwort hatte uns nicht viel gebracht. 
 
-*[Das konnte doch nicht wahr sein!] Ich wurde deshalb wütend. 
+* (wuetend) ["Das konnte doch nicht wahr sein!"] Ich: "Das konnte doch nicht wahr sein!" #angry
+Ich wurde deshalb wütend.  
+Ich: "Reiß dich zusammen! Erzähle uns, was passiert ist!" 
 
-"Reiß dich zusammen! Erzähle uns, was passiert ist!" -> Kirke_Kamerad_weint
+* (empathie) ["Es wird alles gut."] 
+Ich: "Du hast Angst. Doch wir verstehen noch nicht, was euch widerfahren ist. Erzähle es uns doch."
 
-*[Empathie ist alles.] 
-
-"Ich verstehe deinen Schrecken. Doch wir verstehen noch nicht, was euch widerfahren ist. Erzähle es uns doch."
--> Kirke_Ereignisse_erfahren3
-
-*[Er war schon immer verrückt.]
+* (ausgedacht) ["Du hast dir alles doch nur ausgedacht."]
 Ich zweifelte langsam an seinem Verstand.
 
-"Nun… es scheint als hättest du dir doch alles ausgedacht - schließlich kannst du uns keine Antwort geben. Wir werden hier einfach auf die anderen warten."
--> Kirke_Ereignisse_erfahren2
+Ich: "Nun… es scheint als hättest du dir doch alles ausgedacht - schließlich kannst du uns keine Antwort geben. Wir werden hier einfach auf die anderen warten."
+Kamerad: "Nein,  es ist die Wahrheit!"
 
-=== Kirke_Kamerad_weint ===
-Er riss die Augen auf und begann erneut zu schluchzten. //Nicht zum Sprechen gebracht
--> Kirke_Ereignisse_erfahren2
+-    -> Kamerad_weint->Kirke_Ereignisse_erfahren3
 
-=== Kirke_Ereignisse_erfahren3 ===
+== Kamerad_weint ==
+{Er begann zu weinen, doch seine Antwort hatte uns nicht viel gebracht.|Er riss die Augen auf und schluchzte jämmerlich weiter.} //Nicht zum Sprechen gebracht
+->->
+
+
+== Kirke_Ereignisse_erfahren3 ==
 
 //Odysseus? Warum nicht ich oder ihr?
 Kamerad: "Odysseus, schnell! Du musst uns helfen! Die Zauberin Kirke hat sich unserer bemächtigt. Wir haben sie singen gehört, sind ihrer Stimme und der Einladung zum Essen gefolgt, doch dann verwandelten sich alle in Schweine." 
@@ -325,34 +331,38 @@ Kamerad: "Weil ich so klug war mich zu verstecken. Ich traue einer so schönen F
 Odysseus winkte uns.
 *[...]
 
+->Kirke_Kameraden_retten
+
+=== Kirke_Kameraden_retten ===
+
 Odysseus: "Das können wir nicht mit unseren Kameraden machen lassen! Lasst uns zu Kirke gehen und sie zwingen alle wieder zurück zu verwandeln." 
 
 Damit forderte er den Boten auf uns den Weg zu zeigen. Dieser ging zitternd voran. Schnell führte uns durch den Dschungel voran zu Kirkes Haus.
-**[...]
+*[...]
 
 Prachtvoll ragte es vor uns auf und die schöne Kirke begrüßte uns überschwänglich. Mit wippenden Zopf führte sie uns zusammen mit ihren Dienerinnen in die Speisehalle. Der Geruch des Essens ließ mir das Wasser im Mund zusammenlaufen. Mit ausgebreiteten Armen forderte uns Kirke zum Essen auf. 
 
 {Kraeuter_erhalten: Der Anblick der Speisen ließ meinen Magen knurren, doch ich blieb standhaft. Bevor Odysseus sich von dem Fleisch nehmen konnte, stieß ich ihn an.}
 
 //Kann sie auch selbst gepflückt haben!
-{Kraeuter_erhalten: "Odysseus, denkt an die Kräuter des Hermes. Er hat sie uns nicht umsonst gegeben!"}
+{Kraeuter_erhalten: Ich: "Odysseus, denkt an die Kräuter des Hermes. Er hat sie uns nicht umsonst gegeben!"}
 
 {Kraeuter_erhalten: Damit gab ich ihm die Hälfte der Kräuter und schluckte meinen Anteil selbst. Der bittere Geschmack ließ mich den angeekelt den Mund verziehen.} 
-***[...]
+**[...]
 
 /*Nun stupste ich Odysseus an und schüttelte den Kopf.*/ Auf keinen Fall durften wir etwas von dem Essen zu uns nehmen. Schließlich hatte uns der Bote gesagt, dass alle anderen nach dem Essen verwandelt worden waren. Wir mussten jetzt handeln. Odysseus sah mich verwundert an. Ich warf einen ängstlichen Blick auf Kirke, die uns von der Ferne beobachtete. 
 
- „Odysseus, vergiss den Boten und unsere Kameraden nicht. Du darfst jetzt nicht schwach werden. Wir müssen sie befreien. Jetzt ist der richtige Zeitpunkt.“
+Ich: "Odysseus, vergiss den Boten und unsere Kameraden nicht. Du darfst jetzt nicht schwach werden. Wir müssen sie befreien. Jetzt ist der richtige Zeitpunkt."
 
 Odysseus nickte zustimmend und gab mir Recht, auch wenn ich glaubte, dass er beinahe wieder alles vergessen hatte.
-****[...]
+***[...]
 
 So sprang er auf, rannte zu unserer Gastgeberin, zog sein Schwert und hielt es ihr an die Kehle. Mit lauter Stimme bedrohte er sie.
 
 Odysseus: "Kirke! Dein Spiel ist erkannt. Wir werden uns nicht von deinem Zauber blenden lassen. Ich weiß, was du mit meinen treuen Gefolgsleuten getan hast. Verwandele sie zurück. Auf der Stelle."
 
 Die Zauberin, überrascht von Odysseus Angriff, wollte sich zuerst herausreden, doch Odysseus ließ dies nicht zu. Ein feines Blutrinnsal lief den schlanken Hals Kirkes entlang als sie schließlich aufgab.
-*****[...]
+****[...]
 
 Kirke: "Du muss Odysseus sein. Niemand anderes kann mich sonst bezwingen." 
 
