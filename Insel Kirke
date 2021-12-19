@@ -16,7 +16,7 @@ Die See war ruhig. Nichts bewegte sich und die Mannschaft langweilte sich auf de
 
 // Er strich sich langsam mit der Hand über die Schläfe.
 
-*["Sag an Odysseus, was trägst du für einen Sack mit dir herum?"] Ich: "Sag an Odysseus, was trägst du für einen Sack mit dir herum?"
+*["Sag an Odysseus, was trägst du für einen Sack mit dir herum?"] ICH: "Sag an Odysseus, was trägst du für einen Sack mit dir herum?"
 
 ODYSSEUS: "{name}, welch einen Sack meinst du?"
 
@@ -226,6 +226,7 @@ Ich: "Schweigt. Ich werde Odysseus zu Hilfe holen." #whisper
 
 Ich schlich mich leise aus dem Stall.
 *[...]
+
 ->Kirke_Odysseus_Hilfe_holen
 
 === Kirke_Odysseus_Hilfe_holen ===
