@@ -3,6 +3,8 @@ INCLUDE Insel Kirke
 INCLUDE Intro
 INCLUDE Outro
 INCLUDE Zyklopen
+INCLUDE Hades
+
 
 
 ->INTROANFANG
@@ -15,3 +17,5 @@ Vor euch seht ihr unseren Schiffsweg. Wir schifften von Insel zu Insel und hofft
         ->Insel_Kirke
     **[Die Insel des Zyklopen]
         ->Insel_der_Zyklopen
+    **[Der Hades]
+        ->Hades_Anfang
