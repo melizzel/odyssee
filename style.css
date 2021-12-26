@@ -21,8 +21,10 @@ h2 {
 
 h1 {
   font-family: 'Caesar Dressing';
+  text-shadow: 1px 1px 1px #000, -1px -1px 1px #000;
   font-size: 30pt;
   margin-bottom: 1em;
+  color: #fff;
 }
 
 h2 {

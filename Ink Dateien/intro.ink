@@ -2,7 +2,7 @@
 === SPIELSTART ===
 #BACKGROUND:images/grassland.svg
 #IMAGE: sprites/odysseus_happy.svg
-Odysseus' Odyssee
+<h1>Odysseus' Odyssee</h1>
 Erfahre was auf der Irrfahrt des Odysseus wirklich geschehen ist...
 ***[<span class="startbutton">Spiel Starten</span>] #CLEAR
 -> INTROANFANG
