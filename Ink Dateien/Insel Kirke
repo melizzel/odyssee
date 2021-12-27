@@ -1,16 +1,9 @@
 
-
 ===Insel_Kirke ===
+#BACKGROUND:images/sea.svg
 Die See war ruhig. Nichts bewegte sich und die Mannschaft langweilte sich auf dem Deck. Ich jedoch beobachtete Odysseus. Er trug einen ledernen Sack eng an die Brust gepresst. Ich zog die Augenbrauen zusammen. Woher hatte er diesen Sack? Mir war er noch nie aufgefallen. Ich trat näher an Odysseus heran:
 
 ->Sack_Gespraech
-
-/* === Greet_Odysseus===
-
-* 'Ruhige See, nicht wahr[?'] mein Freund?' sprach ich ihn an. 
-'Name, ja, recht hast du' antwortete er mir abwesend und starrte weiter auf das Meer hinaus.  
-* 'Wie geht es dir[?'], mein Freund?'
-'Ach, es gibt vieles Nachzudenken.' */
 
 === Sack_Gespraech ===
 
@@ -115,7 +108,7 @@ Ein heftiger Wind erfasste urplötzlich das Schiff. Wir wurden herumgewirbelt un
     *[...]
     Wie Odysseus es geschafft hatte diesen einzufangen, das wusste ich nicht, doch Aiolos war wütend über seine Gefangenschaft. So schüttelte er unser Schiff durch und ließ es lange nicht zu Ruhe kommen. Die Zeit verfloss zäh und ich betete zu den Göttern, dass sie mich den nächsten Tag noch erleben lassen würden. 
         **[...]Mit viel Glück – ein Glück, was Odysseus immer wieder zu begleiten schien – ließ das Toben des Herrschers der Winde nach. Langsam beruhigte sich die See und wir entdeckten eine Insel. 
-    
+#BACKGROUND:images/beach.svg    
         Gemeinsam beschlossen wir dorthin zu segeln. So kamen wir an einem feinen Sandstrand an und beratschlagten, was nun zu tun sein. Odysseus schlug vor, dass wir uns in zwei Gruppen aufteilen sollten: 
     
         Eine Gruppe würde die Insel erkunden, während die andere am Schiff auf sie warten würde. Ich entschied mich dafür… 
@@ -127,6 +120,7 @@ Ein heftiger Wind erfasste urplötzlich das Schiff. Wir wurden herumgewirbelt un
 ->Kirke_Schiff_warten
 
 === Kirke_Insel_erkunden ===
+#BACKGROUND:images/forest.svg
 So machte ich mich mit meinen anderen Kameraden auf den Weg. Zuerst schlugen wir uns einen Weg ins Insel innere. Die Insel war voller Leben. Dichte, grüne Pflanzen versperrten uns immer häufiger den Weg und immer wieder konnte ich Vögel zwitschern hören. Auch anderen Tieren begegneten wir und manchmal vermeinte ich sogar einen Löwen oder ein anderes Raubtier zu sehen. Doch wir wurden alle nicht angegriffen. Vollkommen friedlich lag dieses Eiland vor uns.
 *[...]
 
@@ -144,11 +138,10 @@ Nach und nach verloren wir unsere Anspannung und begannen zu scherzen. Ich konnt
 ->->
 
 === Kirke_Insel_Geraeusche ===
-
+#AUDIO:audio/kirke_gesang.wav
 Einer meiner Kameraden stockte und ließ uns innehalten. 
 
 Kamerad: Hört ihr das? 
-#AUDIO: Kirke_Gesang.mp3
 
 *[Ja..., ich kann es hören.] {spieler}: Ja..., ich kann es hören. Es scheint mir, als ob jemand singe. Aber solch einen lieblichen Gesang habe ich noch nie vernommen.
 ->Kirke_Erkundungstrupp
