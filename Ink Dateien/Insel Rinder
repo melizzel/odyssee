@@ -44,7 +44,7 @@ Eurylochos: „Männer! Endlich scheint alles besser zu werden! Lasst uns die Ri
                     *****[Bäume fällen]
                     Vielleicht sollte ich sie fällen? Und wenn wir sie nur für Feuerholz nutzen würden – sie würden uns sicher gute Dienste erweisen. Also machte ich mich an die Arbeit und fällte mehrere Stämme. Diese brachte ich zurück zu Odysseus, der sie interessiert musterte. 
                     Odysseus: „Mir kommt eine Idee, [Name d. Spielenden]. Lass uns ein Floß bauen.“
-                    Spieler: „Warum sollten wir das tun?“
+                    {spieler}: „Warum sollten wir das tun?“
                     Odysseus: „Mein Gefühl sagt mir das.“
                             ******Ich nickte ihm zu und half im dabei ein gutes Floß zu bauen.
                             Gemeinsam stellten wir es in dem Moment fertig als wir eine Stimme rufen hörten.
@@ -53,7 +53,7 @@ Eurylochos: „Männer! Endlich scheint alles besser zu werden! Lasst uns die Ri
                             Odysseus: „Es ist zu spät. Wir können ihnen nicht helfen und uns auch gegen den göttlichen Zorn stellen. Sie müssen mit ihrer Strafe leben.“ 
                             Widerwillig stimmte ich ihm zu und half ihm, das Floß ins Meer zu schieben. 
                             ******Verwundert, ob dieser Antwort schüttelte ich den Kopf.
-                            Spieler: „Ich verstehe dich nicht, Odysseus. Warum ein Floß bauen, wenn wir ein Schiff haben?“ Mit diesen Worten wandte ich mich von ihm ab, um nachzusehen, wie weit meine Kameraden waren.
+                            {spieler}: „Ich verstehe dich nicht, Odysseus. Warum ein Floß bauen, wenn wir ein Schiff haben?“ Mit diesen Worten wandte ich mich von ihm ab, um nachzusehen, wie weit meine Kameraden waren.
                                 ********[<span class="weiter">Weiter</span>] #CLEAR
                     *****[keine Bäume fällen]
 -Kopfschüttelnd ging ich zu dein Weiden. Das Holtz sollte einfach Holz bleiben. Was waren das nur für Ideen? Bei den Weiden konnte ich die Mannschaft feiern sehen. Der Geruch von Fleisch drang in meine Nase. Die Sonne senkte sich langsam dem Horizont entgegen als plötzlich ein heller Blitz einschlug. Erschrocken zuckte ich zusammen. Eine Gestalt erschien. Sie war groß und leuchtend hell wie die Sonne.
@@ -74,9 +74,9 @@ Was sollten wir nun tun? Wir sprangen auf und begannen zu rennen.
             ->Outro_Tod
         **[an Pappel klammern.]
         Mit aller Kraft hielt ich mich fest, doch der Baum wurde von dem launischen Wind emporgehoben. Wir flogen durch die Luft und unsanft landete ich im Wasser. Die Schreie meiner Kameraden hörte ich noch. Ich versuchte ihnen zu helfen, doch es war um sie geschehen. Sie alle ertranken. Nach und nach legte sich der Wind wieder und ich trieb auf dem weiten Meer, bis ich plötzlich ein Floß sah. Ich winkte aufgeregt und hoffte auf meine Rettung. Zu meiner Überraschung erblickte ich auf dem Floß eine bekannte Gestalt: Odysseus. Er hatte es geschafft sich zu retten.
-        Odysseus: „[Name d. Spieler], da bist du ja! Ich dachte, dass ich auch dich verloren hätte!“ Dann half er mir, ohne über meine Meuterei zu sprechen, auf das Floß, sodass wir nun gemeinsam über die See schwammen. 
+        Odysseus: „[Name d. {spieler}], da bist du ja! Ich dachte, dass ich auch dich verloren hätte!“ Dann half er mir, ohne über meine Meuterei zu sprechen, auf das Floß, sodass wir nun gemeinsam über die See schwammen. 
 -So saßen wir auf unseren Floß. Die See schien schon einen Weg für uns bestimmt zu haben und trug uns weiter hinaus. Odysseus und ich sprachen kaum, sondern trauerten um unsere Kameraden. 
-Spieler: „Schau vor uns! Dort ist eine Insel!“
+{spieler}: „Schau vor uns! Dort ist eine Insel!“
 Mit den Händen ruderten wir dort hin.
 ->Rinder_Paradies
 
@@ -96,43 +96,43 @@ Erleichtert ließen wir uns in den warmen, weichen Sand fallen.
         Kalypso: „Liebster Odysseus, in der Nacht sind mir die Götter im Traum erschienen und sie befahlen mir, dich freizulassen. Du sollst nach Hause ziehen, nach Ithaka.“ 
         *****[<span class="weiter">Weiter</span>] #CLEAR
         Bei diesen Worten blinzelte ich mehrmals. Ithaka… meine Heimat… plötzlich übermannte mich die Sehnsucht und ich nickte. 
-        Spieler: „Ja, Odysseus! Wir sollten uns auf den Heimweg machen“.
+        {spieler}: „Ja, Odysseus! Wir sollten uns auf den Heimweg machen“.
         Ein wenig traurig stimmte mir dieser zu und wir setzten unsere Heimreise für den nächsten Tag an. 
         ******[<span class="weiter">Weiter</span>] #CLEAR
         ->Rinder_Ende
         **Odysseus überreden nach Hause zu Segeln da ich Heimweh bekomme.
         Am Anfang fand ich das Leben auf Ogygia auch sehr paradiesisch. Kalypso ließ es uns an nichts fehlen, doch mit der Zeit kam das Heimweh. Es nistete sich in meinem Herzen ein und ließ ihm keine Ruhe. Schließlich beschloss ich mit Odysseus zu reden. Eines Tages trat ich an ihn heran und sagte: 
             ***[„Oh Odysseus, ich habe solches Heimweg! Lass uns nach Hause nach Ithaka fahren!“]
-            Spieler:„Oh Odysseus, ich habe solches Heimweg! Lass uns nach Hause nach Ithaka fahren!“
+            {spieler}:„Oh Odysseus, ich habe solches Heimweg! Lass uns nach Hause nach Ithaka fahren!“
             Verwundert blickte mich Odysseus an.
             Odysseus:„Aber [Name d. Spielenden] warum das? Hier haben wir doch alles was wir brauchen!“
                 ****[„Natürlich haben wir alles – aber was ist mit unseren Frauen und Kindern? Vermisst du sie nicht?“]
-                Spieler: „Natürlich haben wir alles – aber was ist mit unseren Frauen und Kindern? Vermisst du sie nicht?“
+                {spieler}: „Natürlich haben wir alles – aber was ist mit unseren Frauen und Kindern? Vermisst du sie nicht?“
                 Nach dieser Antwort hielt Odysseus inne und nickte langsam. Es schien mir als würde er seine eigene Frau vor seinem inneren Auge sehen. Der träumerische Ausdruck in seinem Gesicht verschwand.
                 Odysseus: „Ja“, lass und nach Hause fahren.“
                 Wir berichteten Kalypso von unserer Entscheidung. Sie weinte bitterlich, aber stimmte zu.
                 ->Rinder_Ende
                 ****[„Aber ich halte es hier nicht mehr aus!“]
-                Spieler: „Aber ich halte es hier nicht mehr aus!“
+                {spieler}: „Aber ich halte es hier nicht mehr aus!“
                 Doch Odysseus lachte nur und winkte ab.
                 Osysseus: „Mach dir keine Sorgen! Hier ist das Paradies auf Erden. Du wirst es im Paradies doch noch ein bisschen aushalten, oder?“
                 Damit beendete er das Gespräch, um weiter mit Kalypso zu reden. 
             ***[„Odysseus es wird Zeit nach Hause zu fahren!“]
-            Spieler:„Odysseus es wird Zeit nach Hause zu fahren!“
+            {spieler}:„Odysseus es wird Zeit nach Hause zu fahren!“
             Verwundert und ein bisschen erzürnt blickte mich Odysseus an.
             odysseus: „Nach Hause fahren? Warum?“
                 ****[„Wir haben so viele Gefahren überlebt und nun wird es Zeit Ithaka wiederzusehen“]
-                Spieler:„Wir haben so viele Gefahren überlebt und nun wird es Zeit Ithaka wiederzusehen“, unsere Familien warteten schon.“
+                {spieler}:„Wir haben so viele Gefahren überlebt und nun wird es Zeit Ithaka wiederzusehen“, unsere Familien warteten schon.“
                 Kurz runzelte Odysseus die Stirn, doch dann lachte er nur und winkte ab. „Mach dir keine Sorgen! Hier ist das Paradies auf Erden. Du wirst es im Paradies doch noch ein bisschen aushalten, oder?“ Damit beendete er das Gespräch, um weiter mit Kalypso zu reden.    
                 ****[„Ich halte es hier nicht mehr aus!“]
-                Spieler:„Ich halte es hier nicht mehr aus!“
+                {spieler}:„Ich halte es hier nicht mehr aus!“
                 Doch Odysseus lachte nur und winkte ab.
                 Odysseus: „Mach dir keine Sorgen! Hier ist das Paradies auf Erden. Du wirst es im Paradies doch noch ein bisschen aushalten, oder?“
                 Damit beendete er das Gespräch, um weiter mit Kalypso zu reden.
 - Ich schaffte es also nicht, Odysseus zu überzeugen. Stattdessen schien es mir eher, als sei Keil zwischen uns getrieben worden. Wir sprachen kaum mehr miteinander und Odysseus widmete seine Aufmerksamkeit nur noch Kalypso, sodass ich viele Tage einsam am Strand verbrachte – immer in der Sehnsucht nach Ithaka. Doch ohne Boot konnte ich nicht nach Hause segeln. Eines Morgens jedoch kam Kalypso aufgeregt zu uns. Ihr Haar war unordentlich und sie weinte. 
 Kalypso: „Liebster Odysseus, in der Nacht sind mir die Götter im Traum erschienen und sie befahlen mir, dich freizulassen. Du sollst nach Hause ziehen, nach Ithaka.“ 
 Bei diesen Worten blinzelte Odysseus mehrmals. Während mein Herz schneller schlug. Das war meine Chance nach Hause zurückzukehren! 
-Spieler: „Ja, Odysseus! Wir sollten uns auf den Heimweg machen“ 
+{spieler}: „Ja, Odysseus! Wir sollten uns auf den Heimweg machen“ 
 Ein wenig traurig stimmte mir dieser zu und wir setzten unsere Heimreise für den nächsten Tag an. 
       ->Rinder_Ende
     

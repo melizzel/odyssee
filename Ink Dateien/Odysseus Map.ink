@@ -5,6 +5,8 @@ INCLUDE Outro
 INCLUDE Zyklopen
 INCLUDE Hades
 
+VAR name = "- Name des Spielenden -"
+VAR spieler = "Ich"
 
 
 ->INTROANFANG

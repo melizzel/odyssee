@@ -6,7 +6,7 @@ So standen wir nun gemeinsam vor dem „Land der Kymeria“. Wie gebannt blickte
 Keiner unserer Männer fühlte sich hier wohl. Sogar die Ängste des Krieges waren kein Vergleich zu dem Gefühl, welches und dieser Ort uns in die Glieder trieb. Die Präsenz des nahen Todes war dort greifbar nah und kroch tief in uns hinein. Näher als es ein Schwerthieb je sein könnte, hatten wir doch im Krieg immer unseren Schild, um uns zu verteidigen.
 Aber nun, dort so nah… Kurz vor dem Eingang, der Strömung der Gaia folgend, merkte ich, wie die stärksten unserer Männer bibberten.
 Um die Toten, insbesondere den Seher Theresias, auf uns aufmerksam zu machen, opferten wir zwei der Tiere auf unserem Schiff. Der Geruch des frischen Blutes mischte sich mit Fäulnis und Verwesung, die in der Luft lagen. Kurz darauf erschienen uns die Geister. Untote, die auch an dem Opfer teilhaben wollten. Wir mussten das Opfer vor ihnen verteidigen, da die Heimkehr nach Ithaka von Theresias abhing.
-Spieler: Die Götter sind erzürnt. Wir dürfen hier nicht sein. Niemals ist es den Menschen gestattet, der Unterwelt so nahe zu kommen. Was, wenn wir nicht zurückkehren?
+{spieler}: Die Götter sind erzürnt. Wir dürfen hier nicht sein. Niemals ist es den Menschen gestattet, der Unterwelt so nahe zu kommen. Was, wenn wir nicht zurückkehren?
 Eurylochos: Wir sollten die Götter anflehen, uns heim zuführen. Athena mag auf unserer Seite sein. Aber wir haben Poseidon erzürnt.
 Odysseus: Bleibt ruhig, meine Freunde, wir werden diesen Ort bald wieder verlassen.
 Mit einem Mal erstarrte Odysseus und blickte inmitten all der Untoten. Ich folge seinem Blick. Ich wagte nicht zu erahnen, was er in diesem Moment fühlen musste. Einige Schritte entfernt, wandelte ein bekanntes Gesicht aus Ithaka. Anticlea, Odysseus‘ Mutter. Sie war noch lebendig als wir fuhren und dem Tod auch noch nicht nahe.
@@ -29,35 +29,35 @@ Odysseus: Mutter, wie- wie kannst du hier sein? Du warst am Leben, als wir loszo
     +[Ich habe so viele Fragen, aber ich muss weiter!] ->
     Er wollte sie umarmen, doch sie verschwand, wie sie erschienen war. 
 Odysseus war nicht zu trösten. Fest umklammernd hielt er sein Schwert, von dem noch das Blut des Opfers tropfte. Die Sorgen der Heimat drangen in diesem Moment an ihn heran und er schien nichts anderes mehr wahrnehmen zu wollen.
-Spieler: Odysseus, mein Freund, wir müssen nach Theresias Ausschau halten.
+{spieler}: Odysseus, mein Freund, wir müssen nach Theresias Ausschau halten.
 Odysseus: …
 Dann erschien eine weitere Gestalt, die sich von den anderen Seelen abhob. Alt und bärtig stand er vor uns. Einen Stab in seiner Hand, trat er an uns heran. Ehrfürchtig wichen wir zurück. Womöglich wäre er auch einfach entschwunden, wenn wir ihm zu nahe getreten wären.
 Noch immer benommen blickt Odysseus auf. 
 Odysseus: Bist du Theresias? Der Seher?
 Theresias: So ist es. Und ich muss dir sagen, Odysseus, die Götter sind dir nicht hold. Poseidon ist sehr erzürnt, über das, was du seinem Sohn angetan hast.
-Spieler: Nun, das war eine gemeinsame Entscheidung und lag nicht nur in seinen Händen.
+{spieler}: Nun, das war eine gemeinsame Entscheidung und lag nicht nur in seinen Händen.
 Theresias: Und dennoch ist Odysseus euer Hauptmann. Auch Zeus ist sauer. Denn ihr habt die Götter auf eurer Reise zu oft verpönt. Euer Weg ist gesäumt von Prüfungen. Sirenen, Seemonster, Charybdis und Skylla liegen auf eurem Weg. Odysseus, du darfst nicht vergessen, wer du bist. Entsinne dich deiner Stärke.  Eure Mannschaft darf auf dieser Reise keine Schwäche zeigen. Ihr vermögt euch nicht die Unglücke auszumalen, die euch ereilen, solltet ihr den Göttern weiterhin trotzen. Umgeht um jeden Preis einen Konflikt mit Ihnen.
 Odysseus: Ist eine Heimkehr dann überhaupt gewiss? 
 Theresias: Du wirst heimkehren, jedoch allein. Und auf Ithaka werden dich weitere Prüfungen erwarten.
     **Gehe auf Theresias Rat ein.
-        Spieler: Wir sollten auf Theresias‘ Worte hören und Konflikte vermeiden und die Götter um Verzeihung bitten. 
+        {spieler}: Wir sollten auf Theresias‘ Worte hören und Konflikte vermeiden und die Götter um Verzeihung bitten. 
         Odysseus: Die Götter haben mich schon in Troja verlassen. Sie haben keine Bedeutung mehr.
-        Spieler: Wie kannst du nur etwas dergleichen sagen? Jetzt, wo wir wissen, dass selbst Zeus unserer zürnt. Wie gedenkst du über die Meere zu segeln, wenn die Gezeiten nicht auf unserer Seite sind? Wir werden unsere Heimat womöglich nie wieder sehen.
+        {spieler}: Wie kannst du nur etwas dergleichen sagen? Jetzt, wo wir wissen, dass selbst Zeus unserer zürnt. Wie gedenkst du über die Meere zu segeln, wenn die Gezeiten nicht auf unserer Seite sind? Wir werden unsere Heimat womöglich nie wieder sehen.
         Odysseus: Du hörst doch. Wenn wir uns einfach an die Gepflogenheiten der Inseln halten und ich meinem Instinkt vertraue, dann werden wir unsere Heimat auch erreichen.
-        Spieler: So einfach wird es nicht sein und dessen bist du dir sehr wohl bewusst. Wir müssen die Götter besänftigen.
+        {spieler}: So einfach wird es nicht sein und dessen bist du dir sehr wohl bewusst. Wir müssen die Götter besänftigen.
         Odysseus: Und noch mehr, bin ich mir meiner Fähigkeiten bewusst. Ich werde uns nach Ithaka zurückführen. Auch ohne den Segen der Götter.
         Theresias: Ihr solltet nun gehen. Ihr habt lange genug hier verweilt. Höre auf deinen Freund, Odysseus. Hier solltet ihr nicht zu schlecht von den Göttern reden. Hier gibt es mehr als nur verlorene Seelen Verstorbener. Wesen, die nur durch den Glauben an die Götter hier festgehalten werden.
     **Du hast das Gefühl, die Götter seien schon länger nicht mehr auf eurer Seite.
     -Ich sah Odysseus an, wie er den Geistern mit Blicken hinab folgte, ihnen hinterher blickte. Gebannt starrte er auf den Krater unter uns und den Weg, der hinab führte. Ich spürte, wie er mir erneut zu entgleiten drohte. 
     *[Stehe Odysseus zur Seite.]
         Odysseus: Ich muss hinab. Vielleicht finde ich noch mehr meiner Gefährten. Kann mit Ihnen reden, kann meine Mutter noch einmal sehen.
-        Spieler: Nun gut. Die restlichen Männer bleiben auf dem Schiff. Aber ich begleite dich, wir gehen zusammen hinab und kehren gemeinsam wieder zurück. Aber wir dürfen nicht zu viel Zeit verschwenden. 
+        {spieler}: Nun gut. Die restlichen Männer bleiben auf dem Schiff. Aber ich begleite dich, wir gehen zusammen hinab und kehren gemeinsam wieder zurück. Aber wir dürfen nicht zu viel Zeit verschwenden. 
         Da steigt er auch schon von Bord und begibt sich auf den steinernen Weg in den Abgrund.
     *[Versuche Odysseus zur Umkehr zu bewegen.]
-        Spieler: Nein Odysseus, reiße dich von dem Anblick los! Teresias hat vor Monstern gewarnt. Wenn sie dir zürnen, weil du die Götter beleidigt hast, müssen wir sofort von hier verschwinden!
+        {spieler}: Nein Odysseus, reiße dich von dem Anblick los! Teresias hat vor Monstern gewarnt. Wenn sie dir zürnen, weil du die Götter beleidigt hast, müssen wir sofort von hier verschwinden!
         Odysseus: Die Götter bereiten mir keine Sorgen. Was wenn wir dort unten noch mehr unserer Freunde wiedersehen können? Wenn ich meiner Mutter noch einmal begegnen könnte?
-        Spieler: Ich verstehe dich, ich trauere mit dir um den Verlust. Aber dein Sohn und deine Frau warten in Ithaka auf deine Rückkehr und wenn du jetzt gehst, kehrst du womöglich nie zurück!
-        Odysseus: Penelope, Telemachos und mein Vater. Wie recht du hast, Spieler. Lass uns zurückkehren. Die Götter haben mir meine teure Mutter genommen. Wieso strafen sie mich so mit ihrem Hass? Sie lassen mich nicht in meine Heimat zurück und führen uns auf diese Irrfahrt. Und dann zürnen sie auch noch mir, während meine Familie in Ithaka auseinander zu brechen droht. Sie sind es doch, die mich im Stich lassen. Nicht ich.
+        {spieler}: Ich verstehe dich, ich trauere mit dir um den Verlust. Aber dein Sohn und deine Frau warten in Ithaka auf deine Rückkehr und wenn du jetzt gehst, kehrst du womöglich nie zurück!
+        Odysseus: Penelope, Telemachos und mein Vater. Wie recht du hast, {name}. Lass uns zurückkehren. Die Götter haben mir meine teure Mutter genommen. Wieso strafen sie mich so mit ihrem Hass? Sie lassen mich nicht in meine Heimat zurück und führen uns auf diese Irrfahrt. Und dann zürnen sie auch noch mir, während meine Familie in Ithaka auseinander zu brechen droht. Sie sind es doch, die mich im Stich lassen. Nicht ich.
         Da hörten wir aus den Untiefen ein lautes Grollen, ein Knurren, begleitet von aufsteigendem Wehklagen der Seelen. Dann bebte das Schiff und etwas Großes, schwarzes erhob sich aus dem Krater. Mit einem Mal legten sich zwei gigantische Pranken auf die Rehling und drei Hundeschädel stierten direkt auf Odysseus und mich. Bevor ich etwas tun konnte, schnappte sich der mittlere der Köpfe Odysseus, und zog ihn mit sich hinab in den Abgrund.
     -Mit einem Schritt war es schon geschehen. Ich lief ihm hinterher. Immer weiter hinab, in unser Verderben. An diesen von den Göttern verbotenen Ort.
    ->Hades_Geschichte
@@ -69,7 +69,7 @@ Theresias: Du wirst heimkehren, jedoch allein. Und auf Ithaka werden dich weiter
     Agamemnon: Sei bei deiner Heimkehr dennoch gewarnt. Womöglich gibt es dort jemanden, der dir nicht wohlgesinnt ist und nach deinem Thron trachtet. Zeige dich nicht. Kehre verkleidet heim und offenbare dich mit Bedacht.
     Da erschienen uns weitere Geister von gefallenen Kriegern aus Troja. Unter ihnen erkannte ich auch den unbesiegbaren Achilles. Sogar ihn hatte der Tod nicht verschont. Dort unten schienen alle zu einem Schatten ihrer selbst zu werden. Vorwurfsvoll sah er uns an. Anklagend, dass wir es wagten hier hinabzusteigen. 
     Achilles: Hier unten gibt es nichts für euch, kehrt wieder um und hofft, dass ihr es schafft. Der Tod ist nichts im Vergleich zum Leben.
-    Spieler: Du bist ein Held Achilles. Jeder kennt deinen Namen. Wandelst du auch hier unten, so lebst du dennoch unter uns als ewiger Held weiter.
+    {spieler}: Du bist ein Held Achilles. Jeder kennt deinen Namen. Wandelst du auch hier unten, so lebst du dennoch unter uns als ewiger Held weiter.
     Achilles: Das ist hier nicht von Belang. Hier bin ich tot und der Ruhm meiner Siege verblasst, wie mein Körper. Etwas, das jeden Helden ereilt, so er in der Unterwelt einkehrt.
     Er deutete uns, ihm zu folgen. Er führte uns zu anderen Kriegern und Königen. Gefangenen der ewigen Qualen, die Gesichter verzerrt.  
     ->Hades_Gespraech2
