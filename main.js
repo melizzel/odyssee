@@ -2,7 +2,19 @@
   // Create ink story from the content using inkjs
   var story = new inkjs.Story(storyContent);
 
-  var savePoint = "";
+  var savePointObj = {
+    savePoint: "",
+    images: [],
+  };
+
+  var tagsState = {
+    images: [],
+  };
+
+  function createSavePoint() {
+    savePointObj.savePoint = story.state.toJson();
+    savePointObj.images = [...savePointObj.images];
+  }
 
   let savedTheme;
   let globalTagTheme;
@@ -39,10 +51,32 @@
   setupButtons(hasSave);
 
   // Set initial save point
-  savePoint = story.state.toJson();
+  createSavePoint();
 
   // Kick off the start of the story!
   continueStory(true);
+
+  function addImage(imgSrc, delay) {
+    var imageElement = document.createElement("img");
+    imageElement.src = imgSrc;
+    outerScrollContainer.appendChild(imageElement);
+
+    showAfter(delay, imageElement);
+
+    tagsState.images.push(imgSrc);
+  }
+
+  function clearImages() {
+    removeImage("img");
+    tagsState.images.length = 0;
+  }
+
+  function restoreImages(images) {
+    clearImages();
+    images.forEach(function (imgSrc) {
+      addImage(imgSrc, 0);
+    });
+  }
 
   // Main story processing function. Each time this is called it generates
   // all the next content up as far as the next set of choices.
@@ -123,17 +157,13 @@
 
         // IMAGE: src
         if (splitTag && splitTag.property == "IMAGE") {
-          var imageElement = document.createElement("img");
-          imageElement.src = splitTag.val;
-          outerScrollContainer.appendChild(imageElement);
-
-          showAfter(delay, imageElement);
+          addImage(splitTag.val, delay);
           delay += 200.0;
         }
 
         // CLEARIMAGE: clears all images.
         else if (tag == "CLEARIMAGE") {
-          removeImage("img");
+          clearImages();
         }
 
         // LINK: url
@@ -213,7 +243,7 @@
         story.ChooseChoiceIndex(choice.index);
 
         // This is where the save button will save from
-        savePoint = story.state.toJson();
+        createSavePoint();
 
         // Aaand loop
         continueStory();
@@ -234,7 +264,7 @@
     setVisible(".header", true);
 
     // set save point to here
-    savePoint = story.state.toJson();
+    createSavePoint();
 
     continueStory(true);
 
@@ -337,9 +367,11 @@
   // Loads save state if exists in the browser memory
   function loadSavePoint() {
     try {
-      let savedState = window.localStorage.getItem("save-state");
+      let savedState = window.localStorage.getItem("save-state-obj");
       if (savedState) {
-        story.state.LoadJson(savedState);
+        var spObj = JSON.parse(savedState);
+        story.state.LoadJson(spObj.savePoint);
+        restoreImages(spObj.images);
         return true;
       }
     } catch (e) {
@@ -385,7 +417,8 @@
     if (saveEl)
       saveEl.addEventListener("click", function (event) {
         try {
-          window.localStorage.setItem("save-state", savePoint);
+          var spJson = JSON.stringify(savePointObj);
+          window.localStorage.setItem("save-state-obj", spJson);
           document.getElementById("reload").removeAttribute("disabled");
           window.localStorage.setItem(
             "theme",
@@ -406,12 +439,7 @@
       removeAll("p");
       removeAll("img");
       removeImage("img");
-      try {
-        let savedState = window.localStorage.getItem("save-state");
-        if (savedState) story.state.LoadJson(savedState);
-      } catch (e) {
-        console.debug("Couldn't load save state");
-      }
+      loadSavePoint();
       continueStory(true);
     });
 
