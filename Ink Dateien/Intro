@@ -1,5 +1,6 @@
 
 === Spielstart ===
+<input type="text" id="name" name="name">
 #BACKGROUND:images/grassland.svg
 #IMAGE: sprites/odysseus_happy.svg
 <h1>Odysseus' Odyssee</h1>

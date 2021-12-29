@@ -13,11 +13,11 @@ VAR spieler = "Ich"
 === Map ===
 *[<span class="weiter">Map</span>] #CLEAR
 Vor euch seht ihr unseren Schiffsweg. Wir schifften von Insel zu Insel und hofften irgendwann wieder anzukommen. Ich [Name des Spielenden] werde euch von Insel zu Insel begleiten. Sucht euch eine Insel aus, bei welcher ich das erste unserer Abenteuer erzähle und lasst uns gemeinsam den Weg zurück nach Ithaka finden.
-    **[Die Insel der Rinder]
+    **[Die Insel der Rinder] #CLEAR
         ->Insel_der_Rinder
-    **[Die Insel Kirke]
+    **[Die Insel Kirke] #CLEAR
         ->Insel_Kirke
-    **[Die Insel des Zyklopen]
+    **[Die Insel des Zyklopen] #CLEAR
         ->Insel_der_Zyklopen
-    **[Der Hades]
+    **[Der Hades] #CLEAR
         ->Hades_Anfang
