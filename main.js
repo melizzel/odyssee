@@ -89,14 +89,14 @@
           this.audio.play();
         }
 
-        // CLEARAUDIO: stops the audio.
+        // CLEARAUDIO: stoppt alle Audiodateien & blendet sie langsam aus.
         else if (tag == "CLEARAUDIO") {
           if ("audio" in this) {
             var oldVolume = this.audio.volume;
             var actVolume = oldVolume;
             console.log("Audio Volume " + actVolume);
             var audioInterval = setInterval(function () {
-              actVolume -= 0.01;
+              actVolume -= 0.1;
               console.log("Audio Volume " + actVolume);
               if (actVolume < 0) {
                 clearInterval(audioInterval);
@@ -105,7 +105,7 @@
               } else {
                 this.audio.volume = actVolume;
               }
-            }, 50);
+            }, 100);
           }
         }
 
