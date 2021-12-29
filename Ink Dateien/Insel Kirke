@@ -7,9 +7,8 @@ Die See war ruhig. Nichts bewegte sich und die Mannschaft langweilte sich auf de
 
 === Sack_Gespraech ===
 
-// Er strich sich langsam mit der Hand über die Schläfe.
-
-*[Sag an Odysseus, was trägst du für einen Sack mit dir herum?] ICH: Sag an Odysseus, was trägst du für einen Sack mit dir herum?
+*[Sag an Odysseus, was trägst du für einen Sack mit dir herum?] #CLEAR
+ICH: Sag an Odysseus, was trägst du für einen Sack mit dir herum?
 
 Odysseus: {name}, welch einen Sack meinst du?
 
@@ -19,16 +18,18 @@ Odysseus: Ach, {name} lass das nur meine Sorge sein. Kümmere dich um die Mannsc
 
 Ich schüttelte den Kopf, denn nichts anderes hatte ich von Odysseus erwartet. Wann immer er ein Geheimnis bewahren konnte, verriet er dies auch nicht. // So sprach ich ihn auf die Stimmung der Mannschaft an.
 
-**Odysseus! Was sollen wir tun? Die Mannschaft ist unzufrieden[..."], denn seit der kleinen Insel, die nur du besichtigt hast, haben wir kein Land mehr gesehen. Wir müssen uns beeilen und den Weg nach Hause finden. Sollen wir mit dem Rudern beginnen? 
+**Odysseus! Was sollen wir tun? Die Mannschaft ist unzufrieden[..."] #CLEAR
+{spieler}: Odysseus! Was sollen wir tun? Die Mannschaft ist unzufrieden, denn seit der kleinen Insel, die nur du besichtigt hast, haben wir kein Land mehr gesehen. Wir müssen uns beeilen und den Weg nach Hause finden. Sollen wir mit dem Rudern beginnen? 
 
 ->Kirke_Odysseus_Vorbeigehen
 
-**Odysseus, verrate uns einfach, was in dem Beutel ist. Wir sind unglücklich[...]
+**Odysseus, verrate uns einfach, was in dem Beutel ist. Wir sind unglücklich[...] #CLEAR
 
 {spieler}: Odysseus, verrate uns einfach, was in dem Beutel ist. Wir sind unglücklich, denn wir können kaum mehr weitersegeln. Was hast du von der kleinen Insel mitgebracht? Ist es ein Schatz, den du in deinem Beutel versteckst? 
 ->Kirke_Odysseus_Vorbeigehen
 
-*[Odysseus, was ist in diesem Sack?] {spieler}: Odysseus, was ist in diesem Sack?
+*[Odysseus, was ist in diesem Sack?] #CLEAR 
+{spieler}: Odysseus, was ist in diesem Sack?
 
 Er legte den Kopf schief. 
 
@@ -39,7 +40,8 @@ Odysseus: {name}, meinst du diesen Sack? So lass ihn meine Sorge sein.
 
 Odysseus: Und wenn es dies wäre, so würde es dich nichts angehen!
 
-** Wie kannst du mir dies verheimlichen?![] {spieler}: Wie kannst du mir dies verheimlichen?!
+** Wie kannst du mir dies verheimlichen?![] #CLEAR
+{spieler}: Wie kannst du mir dies verheimlichen?!
 
  Wütend stampfte ich auf. 
 
@@ -48,20 +50,21 @@ Odysseus: Und wenn es dies wäre, so würde es dich nichts angehen!
 Nun brauste Odysseus auf und wies mich zurecht.
 
 Odysseus: "Ich bin dein Herr. Du hast mir Folge zu leisten, sonst wirst du niemals deine Heimat Ithaka wiedersehen."
-    ***[...]
+    ***[...] #CLEAR
     
 ->Kirke_Odysseus_Hinlegen
 
 Nun brauste Odysseus auf und wies mich mit den Worten: „Ich bin dein Herr. Du hast mir Folge zu leisten, sonst wirst du niemals deine Heimat Ithaka wiedersehen“ auf. 
 
-**[Warum geht mich dies nichts an?] {spieler}: Warum geht mich dies nichts an?
+**[Warum geht mich dies nichts an?] #CLEAR
+{spieler}: Warum geht mich dies nichts an?
 
 Ich verschränkte die Arme.  
 
 {spieler}: Bin ich nicht dein Vertrauensmann? Habe ich dir je schlecht gedient?
 
 Odysseus beschwichtigte mich mit ein paar schnellen Worten, doch ich flehte ihn weiter an, mir zu offenbaren, was sich in dem Sack befand. Eine innere Stimme sagte mir, dass der Inhalt des Sackes für unsere Weiterfahrt noch wichtig werden könnte. 
-***[...]
+***[...] #CLEAR
 
 ->Kirke_Odysseus_Vorbeigehen
 
@@ -69,14 +72,14 @@ Odysseus beschwichtigte mich mit ein paar schnellen Worten, doch ich flehte ihn 
 Doch Odysseus hörte nicht auf meine Bedenken und mein Flehen. Stattdessen gähnte er ungeniert und ging an mir vorbei. 
 
 Odysseus: Es wird alles gut werden. Wann habe ich dich je enttäuscht? Ich habe schon einen Plan, wie wir weitersegeln können. Doch erstmal lass mich ausruhen. Nachher werde ich mich um alles kümmern. 
-*[...]
+*[...] #CLEAR
 -> Kirke_Odysseus_Hinlegen
 
 === Kirke_Odysseus_Hinlegen ===
 Mit diesen Worten legte er sich an das Heck des Schiffes. Den Sack ließ er dabei nicht los, sondern hielt ihn weiter fest. Bald schlief Odysseus ein und ich betrachtete ihn von meinem Platz auf dem Schiff aus. 
 
 Was sollte nun geschehen? 
-*[...]
+*[...] #CLEAR
 
 Die Neugierde zwickte mich und ich wollte unbedingt wissen, was sich Geheimnisvolles in dem Sack versteckte. Sollte ich es wagen…? 
 
@@ -84,30 +87,32 @@ Die Neugierde zwickte mich und ich wollte unbedingt wissen, was sich Geheimnisvo
 
 === Sack_Nehmen ===
 
-*[Sack öffnen]Ich schlich zu Odysseus und schaffte es ihm den Sack aus den Armen zu entwinden. Das weiche Leder schmiegte sich an meine Haut und der Sack fühlte sich leicht an – viel zu leicht, als würde nicht darin stecken. Vorsichtig öffnete ich den Sack.
-    **[...]
+*[Sack öffnen] #CLEAR
+Ich schlich zu Odysseus und schaffte es ihm den Sack aus den Armen zu entwinden. Das weiche Leder schmiegte sich an meine Haut und der Sack fühlte sich leicht an – viel zu leicht, als würde nicht darin stecken. Vorsichtig öffnete ich den Sack.
+    **[...] #CLEAR
     ->Heftiger_Wind_zur_Insel
 
-*[Sack zulassen]Hin und hergerissen beobachtete ich Odysseus, doch konnte ich mich nicht dazu entschließen ihm den Sack zu entreißen. Die Angst erwischt zu werden war zu groß. So wartete ich ab und nach einer geraumen Weile erwachte unser Anführer wieder. Er streckte sich und winkte mich zu sich. 
+*[Sack zulassen] #CLEAR
+Hin und hergerissen beobachtete ich Odysseus, doch konnte ich mich nicht dazu entschließen ihm den Sack zu entreißen. Die Angst erwischt zu werden war zu groß. So wartete ich ab und nach einer geraumen Weile erwachte unser Anführer wieder. Er streckte sich und winkte mich zu sich. 
 
 Odysseus: Jetzt {name} wirst du sehen, wie ich es schaffe, dass wir schnell weiterreisen können. Pass nur auf uns folge mir. 
 
-    **[...]
     Schweigend lief ich hinter Odysseus her. Dieser steuerte Bug des Schiffes an. 
     
     Was er wohl vor hatte? 
-    ***[...]
+    **[...] #CLEAR
     
     Doch plötzlich kam er ins Stolpern. Schlaftrunken, wie er war, stolperte er über seine eigenen Füße und fiel mit einem Schrei auf die Holzplanken. Den Sack ließ er im Fall jedoch los. Dieser flog durch die Luft und öffnete sich… 
-    ****[...]
+    ***[...] #CLEAR
     ->Heftiger_Wind_zur_Insel
 
 === Heftiger_Wind_zur_Insel ===
 
 Ein heftiger Wind erfasste urplötzlich das Schiff. Wir wurden herumgewirbelt und die Haare standen mir zu Berge. Immer weiter trieb uns der Wind über die See. Mühevoll klammerte ich mich an einen Mast. Wasser lief mir über das Gesicht, meine Kleidung war vollkommen durchnässt. Im Wind meinte ich ein Lachen zu hören und ein Gesicht zu erkennen. Dann wurde mir klar, was sich im Sack befunden hatte: Aiolos, der Herr der Winde!
-    *[...]
+    *[...] #CLEAR
     Wie Odysseus es geschafft hatte diesen einzufangen, das wusste ich nicht, doch Aiolos war wütend über seine Gefangenschaft. So schüttelte er unser Schiff durch und ließ es lange nicht zu Ruhe kommen. Die Zeit verfloss zäh und ich betete zu den Göttern, dass sie mich den nächsten Tag noch erleben lassen würden. 
-        **[...]Mit viel Glück – ein Glück, was Odysseus immer wieder zu begleiten schien – ließ das Toben des Herrschers der Winde nach. Langsam beruhigte sich die See und wir entdeckten eine Insel. 
+        **[...] #CLEAR
+        Mit viel Glück – ein Glück, was Odysseus immer wieder zu begleiten schien – ließ das Toben des Herrschers der Winde nach. Langsam beruhigte sich die See und wir entdeckten eine Insel. 
 #BACKGROUND:images/beach.svg    
         Gemeinsam beschlossen wir dorthin zu segeln. So kamen wir an einem feinen Sandstrand an und beratschlagten, was nun zu tun sein. Odysseus schlug vor, dass wir uns in zwei Gruppen aufteilen sollten: 
     
