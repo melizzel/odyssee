@@ -50,6 +50,16 @@
     var paragraphIndex = 0;
     var delay = 0.0;
 
+    var muteButton = document.getElementById("mute");
+
+    var myThis = this;
+    muteButton.onclick = toggleAudioMute;
+    function toggleAudioMute() {
+      if ("audio" in myThis) {
+        myThis.audio.muted = !myThis.audio.muted;
+      }
+    }
+
     // Don't over-scroll past new content
     var previousBottomEdge = firstTime ? 0 : contentBottomEdgeY();
 
@@ -81,7 +91,22 @@
 
         // CLEARAUDIO: stops the audio.
         else if (tag == "CLEARAUDIO") {
-          this.audio.pause();
+          if ("audio" in this) {
+            var oldVolume = this.audio.volume;
+            var actVolume = oldVolume;
+            console.log("Audio Volume " + actVolume);
+            var audioInterval = setInterval(function () {
+              actVolume -= 0.01;
+              console.log("Audio Volume " + actVolume);
+              if (actVolume < 0) {
+                clearInterval(audioInterval);
+                this.audio.pause();
+                this.audio.volume = oldVolume;
+              } else {
+                this.audio.volume = actVolume;
+              }
+            }, 50);
+          }
         }
 
         // AUDIOLOOP: src
