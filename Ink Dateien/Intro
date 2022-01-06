@@ -1,9 +1,12 @@
 
 === Spielstart ===
-<input type="text" id="name" name="name">
+
 #BACKGROUND:images/grassland.svg
 #IMAGE: sprites/odysseus_happy.svg
 <h1>Odysseus' Odyssee</h1>
+
+<input type="text" id="name" name="name">
+
 Erfahre was auf der Irrfahrt des Odysseus wirklich geschehen ist...
 ***[<span class="startbutton">Spiel Starten</span>] #CLEAR
 -> INTROANFANG
@@ -34,4 +37,4 @@ Werte Zuhörende, wer kennt dieses Lied nicht? Es besingt Odysseus. Den listenre
 === INTROENDE ===
 #CLEARAUDIO
 Meine Geschichte beginnt am Strande Trojas. Jahr um Jahr haben wir gekämpft und fast glaubte ich nicht mehr, dass ich je wieder die sanften Hügel meiner Heimat Ithaka wiedersehen würde. Aber schließlich waren uns die Götter hold und gewährten den tapferen Griechen den Sieg. Lange währten unsere Freundenfeste, doch nach und nach kehrten die Helden mit ihren Gefolge wieder in ihre Heimatlade zurück. Odysseus ließ uns jedoch warten. Er wartete so lange bis wir die letzten waren, die unser Schiff bestiegen und auf das weite Meer hinaussegelten. Damit begann unsere Irrfahrt.
-->Map
+->Map 
