@@ -1,14 +1,10 @@
-@import url('https://fonts.googleapis.com/css2?family=Caesar+Dressing&display=swap');
-@import url('https://fonts.googleapis.com/css2?family=Jost:wght@300;400;500;600;700&display=swap');
+@import url("https://fonts.googleapis.com/css2?family=Caesar+Dressing&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Jost:wght@300;400;500;600;700&display=swap");
 
 body {
   font-family: "Jost", sans-serif;
-  background: #FFF;
+  background: #fff;
   overflow: hidden;
-}
-
-body.switched {
-  transition: color 0.6s, background-color 0.6s;
 }
 
 h1,
@@ -19,7 +15,7 @@ h2 {
 }
 
 h1 {
-  font-family: 'Caesar Dressing';
+  font-family: "Caesar Dressing";
   text-shadow: 1px 1px 1px #000, -1px -1px 1px #000;
   font-size: 30pt;
   margin-bottom: 1em;
@@ -34,7 +30,7 @@ p {
 
 a {
   font-weight: 700;
-  color: #FFF;
+  color: #fff;
   transition: color 0.6s;
   text-decoration: none;
 }
@@ -43,7 +39,6 @@ a:hover {
   color: black;
   transition: color 0.1s;
 }
-
 
 .outerContainer {
   position: absolute;
@@ -60,7 +55,7 @@ a:hover {
   background-size: cover;
   background-repeat: no-repeat;
   -webkit-transition: background-image 0.6s ease-in-out;
-  transition: background-image 0.6s ease-in-out;  
+  transition: background-image 0.6s ease-in-out;
 }
 
 .outerContainer img {
@@ -118,7 +113,7 @@ img {
   transition: opacity 1s;
 }
 
-.startbutton{
+.startbutton {
   background-color: #9e7530;
   padding: 5px 8px;
   -webkit-border-radius: 5px;
@@ -126,7 +121,7 @@ img {
   border-radius: 5px;
 }
 
-.weiter{
+.weiter {
   background-color: #9e7530;
   float: right;
   padding: 5px 8px;
@@ -199,51 +194,4 @@ img {
     left: 0;
     right: 0;
   }
-}
-
-/* 
-  Dark Theme (Added in Inky 0.10.0)
-    # theme: dark
-
-
-body.dark {
-  background: black;
-  color: white;
-}
-
-.dark h2 {
-  color: #666;
-}
-
-.dark .container {
-  background: rgba(0, 0, 0, 0.5);
-}
-
-.dark .written-in-ink {
-  background: black;
-}
-
-.dark a {
-  color: #cc8f1a;
-  transition: color 0.6s;
-}
-
-.dark a:hover {
-  color: white;
-}
-
-.dark strong {
-  color: white;
-}
-
-.dark #controls [disabled] {
-  color: #444;
-}
-
-.dark .end {
-  color: white;
-}
-
-.dark #controls {
-  background: black;
 }
