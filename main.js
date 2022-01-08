@@ -47,6 +47,7 @@
 
   var storyContainer = document.querySelector("#story");
   var outerScrollContainer = document.querySelector(".outerContainer");
+  var imageContainer = document.querySelector(".imageContainer");
 
   // page features setup
   setupTheme(globalTagTheme);
@@ -62,7 +63,7 @@
   function addImage(imgSrc, delay) {
     var imageElement = document.createElement("img");
     imageElement.src = imgSrc;
-    outerScrollContainer.appendChild(imageElement);
+    imageContainer.appendChild(imageElement);
 
     showAfter(delay, imageElement);
 
@@ -337,7 +338,7 @@
 
   // Removes all (Character) Images
   function removeImage(selector) {
-    var allElements = outerScrollContainer.querySelectorAll(selector);
+    var allElements = imageContainer.querySelectorAll(selector);
     for (var i = 0; i < allElements.length; i++) {
       var el = allElements[i];
       el.parentNode.removeChild(el);
