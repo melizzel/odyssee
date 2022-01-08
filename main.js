@@ -5,15 +5,18 @@
   var savePointObj = {
     savePoint: "",
     images: [],
+    backgroundImage: "",
   };
 
   var tagsState = {
     images: [],
+    backgroundImage: "",
   };
 
   function createSavePoint() {
     savePointObj.savePoint = story.state.toJson();
-    savePointObj.images = [...savePointObj.images];
+    savePointObj.images = [...tagsState.images];
+    savePointObj.backgroundImage = tagsState.backgroundImage;
   }
 
   let savedTheme;
@@ -76,6 +79,11 @@
     images.forEach(function (imgSrc) {
       addImage(imgSrc, 0);
     });
+  }
+
+  function setBackgroundImage(imgSrc) {
+    outerScrollContainer.style.backgroundImage = "url(" + imgSrc + ")";
+    tagsState.backgroundImage = imgSrc;
   }
 
   // Main story processing function. Each time this is called it generates
@@ -176,10 +184,9 @@
           window.open(splitTag.val);
         }
 
-        // BACKGROUND: src
+        //BACKGROUND: src
         else if (splitTag && splitTag.property == "BACKGROUND") {
-          outerScrollContainer.style.backgroundImage =
-            "url(" + splitTag.val + ")";
+          setBackgroundImage(splitTag.val);
         }
 
         // CLASS: className
@@ -372,6 +379,7 @@
         var spObj = JSON.parse(savedState);
         story.state.LoadJson(spObj.savePoint);
         restoreImages(spObj.images);
+        setBackgroundImage(spObj.backgroundImage);
         return true;
       }
     } catch (e) {
