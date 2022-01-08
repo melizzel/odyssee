@@ -48,6 +48,9 @@ a:hover {
   width: 100%;
   top: 0;
   left: 0;
+  -webkit-overflow-scrolling: touch;
+  overflow: scroll;
+  overflow-x: hidden;
   background-size: contain;
   background-repeat: repeat-x;
   background-position: bottom center;
