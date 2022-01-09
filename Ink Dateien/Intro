@@ -3,9 +3,9 @@
 
 #BACKGROUND:images/grassland.svg
 #IMAGE: sprites/odysseus_happy.svg
-<h1>Odysseus' Odyssee</h1>
+<h1>Die Reise des Odysseus</h1>
 
-<input type="text" id="name" name="name">
+// <input type="text" id="name" name="name">
 
 Erfahre was auf der Irrfahrt des Odysseus wirklich geschehen ist...
 ***[<span class="startbutton">Spiel Starten</span>] #CLEAR
