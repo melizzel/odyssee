@@ -5,7 +5,7 @@ INCLUDE Outro
 INCLUDE Zyklopen
 INCLUDE Hades
 
-VAR name = " - Name des Spielenden - "
+VAR name = "Freund"
 VAR spieler = "Ich"
 
 ->Spielstart
