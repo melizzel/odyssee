@@ -6,7 +6,6 @@ Die See war ruhig. Nichts bewegte sich und die Mannschaft langweilte sich auf de
 ->Sack_Gespraech
 
 === Sack_Gespraech ===
-#IMAGE: sprites/odysseus_happy.svg
 
 *[Sag an Odysseus, was trägst du für einen Sack mit dir herum?] 
 Ich: Sag an Odysseus, was trägst du für einen Sack mit dir herum?
@@ -130,7 +129,6 @@ Ein heftiger Wind erfasste urplötzlich das Schiff. Wir wurden herumgewirbelt un
 ->Kirke_Schiff_warten
 
 === Kirke_Insel_erkunden ===
-#CLEARAUDIO
 #AUDIO:audio/birds.mp3
 #BACKGROUND:images/forest.svg
 So machte ich mich mit meinen anderen Kameraden auf den Weg. Zuerst schlugen wir uns einen Weg ins Insel innere. Die Insel war voller Leben. Dichte, grüne Pflanzen versperrten uns immer häufiger den Weg und immer wieder konnte ich Vögel zwitschern hören. Auch anderen Tieren begegneten wir und manchmal vermeinte ich sogar einen Löwen oder ein anderes Raubtier zu sehen. Doch wir wurden alle nicht angegriffen. Vollkommen friedlich lag dieses Eiland vor uns.
@@ -255,6 +253,7 @@ Ich schlich mich leise aus dem Stall.
 ->Kirke_Odysseus_Hilfe_holen
 
 === Kirke_Odysseus_Hilfe_holen ===
+#CLEARIMAGE
 #IMAGE:sprites/odysseus_happy.svg
 Sofort begann ich zu rennen. Ich rannte durch den Dschungel der Insel und doch hatte ich das Gefühl verfolgt zu werden. Es war mir als würden unsichtbare Augen auf mich gerichtet sein. Trotzdem schaffte ich es auf den Sandstrand. Dort traf ich auf Odysseus, der mir freudig zu winkte. Außer Atem wollte ich ihm von Kirke erzählen, doch Odysseus ließ mich nicht zu Wort kommen, sondern verlachte mich als Feigling.
 {Kirke_selbst_zurueckverwandeln: -> Kirke_Mann_erscheint }
