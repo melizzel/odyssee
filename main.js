@@ -5,17 +5,20 @@
   var savePointObj = {
     savePoint: "",
     images: [],
+    images2: [],
     backgroundImage: "",
   };
 
   var tagsState = {
     images: [],
+    images2: [],
     backgroundImage: "",
   };
 
   function createSavePoint() {
     savePointObj.savePoint = story.state.toJson();
     savePointObj.images = [...tagsState.images];
+    savePointObj.images2 = [...tagsState.images2];
     savePointObj.backgroundImage = tagsState.backgroundImage;
   }
 
@@ -92,12 +95,19 @@
 
     showAfter(delay, imageElement);
 
-    tagsState.images.push(imgSrc);
+    tagsState.images2.push(imgSrc);
   }
 
   function clearImages2() {
     removeImage2("img");
-    tagsState.images.length = 0;
+    tagsState.images2.length = 0;
+  }
+
+  function restoreImages2(images) {
+    clearImages2();
+    images.forEach(function (imgSrc) {
+      addImage2(imgSrc, 0);
+    });
   }
 
   // Funktion für #BACKGROUNDIMAGE
@@ -420,6 +430,7 @@
         var spObj = JSON.parse(savedState);
         story.state.LoadJson(spObj.savePoint);
         restoreImages(spObj.images);
+        restoreImages2(spObj.images2);
         setBackgroundImage(spObj.backgroundImage);
         return true;
       }
@@ -458,6 +469,7 @@
         removeAll("p");
         removeAll("img");
         removeImage("img");
+        removeImage2("img");
         setVisible(".header", false);
         restart();
       });
@@ -488,6 +500,7 @@
       removeAll("p");
       removeAll("img");
       removeImage("img");
+      removeImage2("img");
       loadSavePoint();
       continueStory(true);
     });
