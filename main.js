@@ -48,6 +48,7 @@
   var storyContainer = document.querySelector("#story");
   var outerScrollContainer = document.querySelector(".outerContainer");
   var imageContainer = document.querySelector(".imageContainer");
+  var imageContainer2 = document.querySelector(".imageContainer2");
 
   // page features setup
   setupTheme(globalTagTheme);
@@ -60,6 +61,7 @@
   // Kick off the start of the story!
   continueStory(true);
 
+  // Funktion für #IMAGE
   function addImage(imgSrc, delay) {
     var imageElement = document.createElement("img");
     imageElement.src = imgSrc;
@@ -82,6 +84,23 @@
     });
   }
 
+  // Funktion für #IMAGE2
+  function addImage2(imgSrc, delay) {
+    var imageElement = document.createElement("img");
+    imageElement.src = imgSrc;
+    imageContainer2.appendChild(imageElement);
+
+    showAfter(delay, imageElement);
+
+    tagsState.images.push(imgSrc);
+  }
+
+  function clearImages2() {
+    removeImage2("img");
+    tagsState.images.length = 0;
+  }
+
+  // Funktion für #BACKGROUNDIMAGE
   function setBackgroundImage(imgSrc) {
     outerScrollContainer.style.backgroundImage = "url(" + imgSrc + ")";
     tagsState.backgroundImage = imgSrc;
@@ -170,9 +189,20 @@
           delay += 200.0;
         }
 
-        // CLEARIMAGE: clears all images.
+        // IMAGE2: src
+        if (splitTag && splitTag.property == "IMAGE2") {
+          addImage2(splitTag.val, delay);
+          delay += 200.0;
+        }
+
+        // CLEARIMAGE: Entfert #IMAGE
         else if (tag == "CLEARIMAGE") {
           clearImages();
+        }
+
+        // CLEARIMAGE2: Entfert #IMAGE2
+        else if (tag == "CLEARIMAGE2") {
+          clearImages2();
         }
 
         // LINK: url
@@ -201,6 +231,7 @@
           removeAll("p");
           removeAll("img");
           removeImage("img");
+          removeImage2("img");
 
           // Comment out this line if you want to leave the header visible when clearing
           setVisible(".header", false);
@@ -336,9 +367,18 @@
     }
   }
 
-  // Removes all (Character) Images
+  // Entfernt #IMAGE
   function removeImage(selector) {
     var allElements = imageContainer.querySelectorAll(selector);
+    for (var i = 0; i < allElements.length; i++) {
+      var el = allElements[i];
+      el.parentNode.removeChild(el);
+    }
+  }
+
+  // Entfernt #IMAGE2
+  function removeImage2(selector) {
+    var allElements = imageContainer2.querySelectorAll(selector);
     for (var i = 0; i < allElements.length; i++) {
       var el = allElements[i];
       el.parentNode.removeChild(el);

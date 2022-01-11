@@ -93,10 +93,23 @@ a:hover {
 }
 
 .imageContainer img {
+  z-index: 2;
   position: fixed;
   width: 45vh;
   bottom: 100px;
   margin-left: 5vw;
+}
+
+.imageContainer2 {
+  flex: 1 0 auto;
+}
+
+.imageContainer2 img {
+  z-index: 1;
+  position: fixed;
+  width: 45vh;
+  bottom: 100px;
+  margin-left: -8vw;
 }
 
 @media screen and (max-width: 768px) {
