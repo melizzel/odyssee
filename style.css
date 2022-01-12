@@ -7,8 +7,8 @@ html {
 
 body {
   font-family: "Jost", sans-serif;
-  background: #fff;
-  overflow: hidden;
+  background-color: #e9ce92;
+  background-image: url("data:image/svg+xml,%3Csvg width='32' height='64' viewBox='0 0 32 64' xmlns='http://www.w3.org/2000/svg'%3E%3Cpath d='M0 28h20V16h-4v8H4V4h28v28h-4V8H8v12h4v-8h12v20H0v-4zm12 8h20v4H16v24H0v-4h12V36zm16 12h-4v12h8v4H20V44h12v12h-4v-8zM0 36h8v20H0v-4h4V40H0v-4z' fill='%235b3f10' fill-opacity='0.4' fill-rule='evenodd'/%3E%3C/svg%3E");
 }
 
 h1 {
@@ -53,16 +53,16 @@ a:hover {
   overflow-x: hidden;
   background-size: contain;
   background-repeat: repeat-x;
-  background-position: bottom center;
+  background-position: center;
   -webkit-transition: background-image 0.6s ease-in-out;
   transition: background-image 0.6s ease-in-out;
 }
 
-@media screen and (max-width: 980px) {
+@media screen and (max-width: 768px) {
   .outerContainer {
-    margin-top: 44px;
+    display: block;
     background-size: cover;
-    background-repeat: no-repeat;
+    justify-content: center;
   }
 }
 
@@ -74,21 +74,28 @@ a:hover {
   background-size: contain, 100%;
   flex: 0 0 30%;
   max-width: 600px;
-  min-width: 400px;
   min-height: 77vh;
-  display: block;
   margin-left: 90px;
   margin-top: 2em;
-  padding: 13em 7em 0em 5em;
+  padding: 11% 7% 0 5%;
 }
 
-@media screen and (max-width: 1650px) {
+@media screen and (max-width: 768px) {
   .container {
-    padding-top: 10em;
+    margin: 4em 0 0 2em;
+    padding: 25% 15% 0 10%;
   }
 }
 
-.imageContainer {
+@media screen and (max-width: 480px) {
+  .container {
+    margin-right: -20px;
+    margin-left: auto;
+  }
+}
+
+.imageContainer,
+.imageContainer2 {
   flex: 1 0 auto;
 }
 
@@ -100,10 +107,6 @@ a:hover {
   margin-left: 5vw;
 }
 
-.imageContainer2 {
-  flex: 1 0 auto;
-}
-
 .imageContainer2 img {
   z-index: 1;
   position: fixed;
@@ -112,16 +115,30 @@ a:hover {
   margin-left: -8vw;
 }
 
-@media screen and (max-width: 768px) {
-  .imageContainer {
-    display: none;
+@media screen and (max-width: 1234px) {
+  .imageContainer img {
+    margin-left: -5em;
   }
 
-  .container {
-    flex-basis: 50%;
-    margin: 1.5em 0 0 2em;
-    min-width: auto;
-    padding-top: 8em;
+  .imageContainer2 img {
+    margin-left: -8em;
+  }
+}
+
+@media screen and (max-width: 1024px) {
+  .imageContainer img {
+    margin-left: 0;
+  }
+
+  .imageContainer2 img {
+    margin-left: 0;
+  }
+}
+
+@media screen and (max-width: 768px) {
+  .imageContainer,
+  .imageContainer2 {
+    display: none;
   }
 }
 
@@ -148,7 +165,6 @@ a:hover {
 
 .weiter {
   background-color: #9e7530;
-  float: right;
   padding: 5px 8px;
   -webkit-border-radius: 5px;
   -moz-border-radius: 5px;
@@ -212,12 +228,11 @@ a:hover {
   content: " | ";
 }
 
-@media screen and (max-width: 980px) {
+@media screen and (max-width: 768px) {
   #controls {
-    z-index: 2;
-    margin-right: 20px;
     top: 0;
     left: 0;
     right: 0;
+    background-color: #5b3f10;
   }
 }
