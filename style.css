@@ -72,10 +72,10 @@ a:hover {
   background-repeat: no-repeat, repeat-y;
   background-position: center top, center bottom;
   background-size: contain, 100%;
-  flex: 0 0 30%;
+  flex: 0 0 35%;
   max-width: 600px;
   min-height: 77vh;
-  margin-left: 90px;
+  margin-left: 2em;
   margin-top: 2em;
   padding: 11% 7% 0 5%;
 }
@@ -102,36 +102,32 @@ a:hover {
 .imageContainer img {
   z-index: 2;
   position: fixed;
-  width: 45vh;
-  bottom: 100px;
-  margin-left: 5vw;
+  height: 60vh;
+  bottom: 15vh;
+  margin-left: 5em;
 }
 
 .imageContainer2 img {
   z-index: 1;
   position: fixed;
-  width: 45vh;
-  bottom: 100px;
-  margin-left: -8vw;
+  height: 60vh;
+  bottom: 15vh;
+  margin-left: -15em;
 }
 
-@media screen and (max-width: 1234px) {
+@media screen and (max-width: 1900px) {
   .imageContainer img {
+    margin-left: 2em;
+  }
+
+  .imageContainer2 img {
     margin-left: -5em;
   }
-
-  .imageContainer2 img {
-    margin-left: -8em;
-  }
 }
 
-@media screen and (max-width: 1024px) {
-  .imageContainer img {
-    margin-left: 0;
-  }
-
+@media screen and (max-width: 1280px) {
   .imageContainer2 img {
-    margin-left: 0;
+    margin-left: -5em;
   }
 }
 
