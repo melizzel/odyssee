@@ -14,19 +14,19 @@ Odysseus: Mutter, wie- wie kannst du hier sein? Du warst am Leben, als wir loszo
     ->Hades_Gespraech
 
 ===Hades_Gespraech===
-    +[Wieso bist du hier?]
+    *[Wieso bist du hier?]
         Anticlea: Die Trauer, mein Sohn. Ich konnte nicht mehr. Die Ständige Hoffnung, die doch nur kurz andauerte. Die stete Unsicherheit. Ich wollte nicht mehr bangen und dich wieder sehen. Ich war mir sicher, die Götter hätten dich mir auf dem Meer entrissen. Also suchte auch im Meer meinen Weg in den Tod. Ich lief in die Wellen… Doch hier angekommen, konnte ich dich nicht finden.
         ->Hades_Gespraech
-    +[Wie geht es meinem Weib Penelope?]
+    *[Wie geht es meinem Weib Penelope?]
         Anticlea: Sie hält sich tapfer. Viele der Männer machen ihr Avancen, wollen Sie heiraten. Doch sie glaubt standhaft an deine Heimkehr. Sie weist die Freier ab, bis sie ein Leinentuch für deinen Vater, für den Fall seines Ablebens fertig gewebt hat. Ihre Liebe zu dir ist unerschüttert.
         ->Hades_Gespraech
-    +[Was ist mit meinem Vater Laertes?]
+    *[Was ist mit meinem Vater Laertes?]
         Anticlea: Er ist schwach. Er ist nicht mehr wie bei deiner Abreise. Das Alter und die Zeit haben ihre Spuren bei ihm hinterlassen. Er hat zwar kurz die Herrschaft über Ithaka übernommen, hat aber nun Penelope wieder alles in die Hände gelegt. Es war zu viel Verantwortung für deinen Vater.
         ->Hades_Gespraech
-    +[Was ist mit meinem Sohn?]
+    *[Was ist mit meinem Sohn?]
         Anticlea: Telemachos steht seiner Mutter tapfer bei und wächst zu einem starken Mann heran. Auch er erwartet deine Rückkehr. Er macht sich große Sorgen um seine Mutter und verachtet jeden einzelnen, der um ihre Gunst buhlt.
         ->Hades_Gespraech
-    +[Ich habe so viele Fragen, aber ich muss weiter!] ->
+    *[Ich habe so viele Fragen, aber ich muss weiter!] ->
     Er wollte sie umarmen, doch sie verschwand, wie sie erschienen war. 
 Odysseus war nicht zu trösten. Fest umklammernd hielt er sein Schwert, von dem noch das Blut des Opfers tropfte. Die Sorgen der Heimat drangen in diesem Moment an ihn heran und er schien nichts anderes mehr wahrnehmen zu wollen.
 {spieler}: Odysseus, mein Freund, wir müssen nach Theresias Ausschau halten.
@@ -75,16 +75,16 @@ Theresias: Du wirst heimkehren, jedoch allein. Und auf Ithaka werden dich weiter
     ->Hades_Gespraech2
 
 ===Hades_Gespraech2
-+[Tantalos]
+*[Tantalos]
 Inmitten eines Teiches stand Tantalos unter einem Baum voller Früchte. Von den Göttern dazu verdammt, ewig Hunger und Durts zu leiden, da er versucht hatte, ihnen seinen eigenen Sohn als Mahl vorzusetzen. So er sich nach unten beugt um zu trinken, weicht das Wasser vor ihm zurück, streckt er sich aber hinauf zu den Ästen voller süßer Früchte, werden diese vom Wind außerhalb seiner Reichweite gehoben.
     ->Hades_Gespraech2
-+[Sisyphos]
+*[Sisyphos]
 Sisyphos hatte bei einem Wettstreit mit den Göttern betrogen, Zeus verärgert und war sogar nach seiner ersten Bestrafung dem Hades entkommen. Er wurde dazu verdammt, einen großen Felsbrocken einen Berg hinauf zu rollen, doch jedes Mal, wenn er der Spitze schon nah war, rollte dieser wieder zum Fuß des Berges hinab, um erneut hinauf gebracht zu werden.
 ->Hades_Gespraech2
-+[Ödipus]
+*[Ödipus]
 Wegen den Taten seines Vaters wurde Ödipus von den Göttern dazu verflucht, Vatermord zu begehen und danach seine Mutter zu heiraten. Er nahm sich sein eigenes Augenlicht und ist nun dazu verdammt, auf ewig blind durch die Unterwelt zu wandeln.
 ->Hades_Gespraech2
-+[Verstört von dem unmenschlichen Leid geht ihr weiter.]->
+*[Verstört von dem unmenschlichen Leid geht ihr weiter.]->
 Nachdem wir all das Grauen gesehen hatten, konnten wir uns losreißen und stiegen so schnell wir konnten wieder hinauf. 
 Begleitet von der Angst, noch eines der Wesen der Unterwelt anzutreffen und von dem Wahnsinn ereilt zu werden, dem die Seelen anheimgefallen waren.
 ->Karte
