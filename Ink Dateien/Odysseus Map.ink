@@ -1,3 +1,7 @@
+
+VAR name = "Freund"
+VAR spieler = "Ich"
+
 INCLUDE Intro
 INCLUDE Insel Rinder
 INCLUDE Insel Kirke
@@ -5,8 +9,6 @@ INCLUDE Zyklopen
 INCLUDE Hades
 INCLUDE Outro
 
-VAR name = "Freund"
-VAR spieler = "Ich"
 
 ->Spielstart
 
