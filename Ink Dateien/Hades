@@ -14,16 +14,31 @@ Odysseus: Mutter, wie- wie kannst du hier sein? Du warst am Leben, als wir loszo
     ->Hades_Gespraech
 
 ===Hades_Gespraech===
-    *[Wieso bist du hier?]
+    *[Wieso nur bist du hier?]
+    
+        Odysseus: Wieso nur bist du hier?
+        
         Anticlea: Die Trauer, mein Sohn. Ich konnte nicht mehr. Die Ständige Hoffnung, die doch nur kurz andauerte. Die stete Unsicherheit. Ich wollte nicht mehr bangen und dich wieder sehen. Ich war mir sicher, die Götter hätten dich mir auf dem Meer entrissen. Also suchte auch im Meer meinen Weg in den Tod. Ich lief in die Wellen… Doch hier angekommen, konnte ich dich nicht finden.
         ->Hades_Gespraech
+        
     *[Wie geht es meinem Weib Penelope?]
+    
+        Odysseus: Wie geht es meinem Weib Penelope?
+        
         Anticlea: Sie hält sich tapfer. Viele der Männer machen ihr Avancen, wollen Sie heiraten. Doch sie glaubt standhaft an deine Heimkehr. Sie weist die Freier ab, bis sie ein Leinentuch für deinen Vater, für den Fall seines Ablebens fertig gewebt hat. Ihre Liebe zu dir ist unerschüttert.
         ->Hades_Gespraech
+        
     *[Was ist mit meinem Vater Laertes?]
+    
+        Odysseus: Was ist mit meinem Vater Laertes?
+        
         Anticlea: Er ist schwach. Er ist nicht mehr wie bei deiner Abreise. Das Alter und die Zeit haben ihre Spuren bei ihm hinterlassen. Er hat zwar kurz die Herrschaft über Ithaka übernommen, hat aber nun Penelope wieder alles in die Hände gelegt. Es war zu viel Verantwortung für deinen Vater.
         ->Hades_Gespraech
+        
     *[Was ist mit meinem Sohn?]
+    
+        Odysseus: Was ist mit meinem Sohn?
+        
         Anticlea: Telemachos steht seiner Mutter tapfer bei und wächst zu einem starken Mann heran. Auch er erwartet deine Rückkehr. Er macht sich große Sorgen um seine Mutter und verachtet jeden einzelnen, der um ihre Gunst buhlt.
         ->Hades_Gespraech
     *[Ich habe so viele Fragen, aber ich muss weiter!] ->
@@ -39,7 +54,7 @@ Theresias: So ist es. Und ich muss dir sagen, Odysseus, die Götter sind dir nic
 Theresias: Und dennoch ist Odysseus euer Hauptmann. Auch Zeus ist sauer. Denn ihr habt die Götter auf eurer Reise zu oft verpönt. Euer Weg ist gesäumt von Prüfungen. Sirenen, Seemonster, Charybdis und Skylla liegen auf eurem Weg. Odysseus, du darfst nicht vergessen, wer du bist. Entsinne dich deiner Stärke.  Eure Mannschaft darf auf dieser Reise keine Schwäche zeigen. Ihr vermögt euch nicht die Unglücke auszumalen, die euch ereilen, solltet ihr den Göttern weiterhin trotzen. Umgeht um jeden Preis einen Konflikt mit Ihnen.
 Odysseus: Ist eine Heimkehr dann überhaupt gewiss? 
 Theresias: Du wirst heimkehren, jedoch allein. Und auf Ithaka werden dich weitere Prüfungen erwarten.
-    **Gehe auf Theresias Rat ein.
+    **[Gehe auf Theresias Rat ein.]
         {spieler}: Wir sollten auf Theresias‘ Worte hören und Konflikte vermeiden und die Götter um Verzeihung bitten. 
         Odysseus: Die Götter haben mich schon in Troja verlassen. Sie haben keine Bedeutung mehr.
         {spieler}: Wie kannst du nur etwas dergleichen sagen? Jetzt, wo wir wissen, dass selbst Zeus unserer zürnt. Wie gedenkst du über die Meere zu segeln, wenn die Gezeiten nicht auf unserer Seite sind? Wir werden unsere Heimat womöglich nie wieder sehen.

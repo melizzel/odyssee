@@ -13,7 +13,7 @@ INCLUDE Outro
 ->Spielstart
 
 === Karte ===
-*[<span class="weiter">Karte</span>] #CLEAR
+//*[<span class="weiter">Karte</span>] #CLEAR
 Vor euch seht ihr unseren Schiffsweg. Wir schifften von Insel zu Insel und hofften irgendwann wieder anzukommen. {spieler} werde euch von Insel zu Insel begleiten. Sucht euch eine Insel aus, bei welcher ich das erste unserer Abenteuer erzähle und lasst uns gemeinsam den Weg zurück nach Ithaka finden. 
 //Fehler im Text, Ich-Perspektive? Spieler begleitet Odysseus
 
