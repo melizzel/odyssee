@@ -95,13 +95,17 @@
     var paragraphIndex = 0;
     var delay = 0.0;
 
+    // Mute Button
     var muteButton = document.getElementById("mute");
-
-    var myThis = this;
     muteButton.onclick = toggleAudioMute;
+
     function toggleAudioMute() {
-      if ("audio" in myThis) {
-        myThis.audio.muted = !myThis.audio.muted;
+      if (!audio.muted) {
+        muteButton.src = "/images/speaker_icon.svg";
+        audio.muted = true;
+      } else {
+        muteButton.src = "/images/mute_icon.svg";
+        audio.muted = false;
       }
     }
 
@@ -139,10 +143,8 @@
           if ("audio" in this) {
             var oldVolume = this.audio.volume;
             var actVolume = oldVolume;
-            console.log("Audio Volume " + actVolume);
             var audioInterval = setInterval(function () {
               actVolume -= 0.1;
-              console.log("Audio Volume " + actVolume);
               if (actVolume < 0) {
                 clearInterval(audioInterval);
                 this.audio.pause();

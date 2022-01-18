@@ -3,7 +3,7 @@
   <head>
     <meta charset="utf-8" />
 
-    <title>Intro Odyssee</title>
+    <title>Odyssee</title>
 
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
 
@@ -13,10 +13,16 @@
   <body>
     <div class="outerContainer">
       <div id="controls" class="buttons">
-        <a id="mute" title="Mute audio">Mute</a>
-        <a id="rewind" title="Restart story from beginning">restart</a>
-        <a id="save" title="Save progress">save</a>
-        <a id="reload" title="Reload from save point">load</a>
+        <a id="rewind" title="Die Geschichte neu starten">Neustart</a>
+        <a id="save" title="Den aktuellen Spielstand speichern">Speichern</a>
+        <a id="reload" title="Den zuletzt gespeicherten Spielstand laden"
+          >Laden</a
+        >
+        <img
+          id="mute"
+          src="/images/mute_icon.svg"
+          title="Den Ton stummschalten"
+        />
       </div>
 
       <div class="container" id="story"></div>
