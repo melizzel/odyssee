@@ -124,10 +124,10 @@
 
     function toggleAudioMute() {
       if (!audio.muted) {
-        muteButton.src = "/images/speaker_icon.svg";
+        muteButton.src = "./images/speaker_icon.svg";
         audio.muted = true;
       } else {
-        muteButton.src = "/images/mute_icon.svg";
+        muteButton.src = "./images/mute_icon.svg";
         audio.muted = false;
       }
     }
