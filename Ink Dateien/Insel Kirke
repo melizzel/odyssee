@@ -6,7 +6,7 @@ Die See war ruhig. Nichts bewegte sich und die Mannschaft langweilte sich auf de
 ->Sack_Gespraech
 
 === Sack_Gespraech ===
-
+#IMAGE: sprites/odysseus_happy.svg
 *[Sag an Odysseus, was trägst du für einen Sack mit dir herum?] 
 Ich: Sag an Odysseus, was trägst du für einen Sack mit dir herum?
 
@@ -42,7 +42,7 @@ Odysseus: Und wenn es dies wäre, so würde es dich nichts angehen!
 
 ** Wie kannst du mir dies verheimlichen?![] 
 {spieler}: Wie kannst du mir dies verheimlichen?!
-
+#IMAGE: sprites/odysseus_sad.svg
  Wütend stampfte ich auf. 
 
 {spieler}: "Schon seit Jahren begleite ich dich. Ich folgte dir in den Krieg gegen Troja und sitze nun hier auf diesem Schiff fest. Habe ich nicht das Anrecht zu wissen, was du vor uns verheimlichst?"
@@ -54,7 +54,6 @@ Odysseus: "Ich bin dein Herr. Du hast mir Folge zu leisten, sonst wirst du niema
     
 ->Kirke_Odysseus_Hinlegen
 
-Nun brauste Odysseus auf und wies mich mit den Worten: „Ich bin dein Herr. Du hast mir Folge zu leisten, sonst wirst du niemals deine Heimat Ithaka wiedersehen“ auf. 
 
 **[Warum geht mich dies nichts an?] 
 {spieler}: Warum geht mich dies nichts an?
@@ -116,7 +115,7 @@ Ein heftiger Wind erfasste urplötzlich das Schiff. Wir wurden herumgewirbelt un
     Wie Odysseus es geschafft hatte diesen einzufangen, das wusste ich nicht, doch Aiolos war wütend über seine Gefangenschaft. So schüttelte er unser Schiff durch und ließ es lange nicht zu Ruhe kommen. Die Zeit verfloss zäh und ich betete zu den Göttern, dass sie mich den nächsten Tag noch erleben lassen würden. 
         **[...] 
         Mit viel Glück – ein Glück, was Odysseus immer wieder zu begleiten schien – ließ das Toben des Herrschers der Winde nach. Langsam beruhigte sich die See und wir entdeckten eine Insel. 
-#BACKGROUND:images/beach.svg 
+#BACKGROUND:images/sandbeach.svg 
 #AUDIO:audio/wellen.mp3
         Gemeinsam beschlossen wir dorthin zu segeln. So kamen wir an einem feinen Sandstrand an und beratschlagten, was nun zu tun sein. Odysseus schlug vor, dass wir uns in zwei Gruppen aufteilen sollten: 
     
@@ -185,6 +184,7 @@ Doch die anderen hörten nicht auf mich, sondern ließen mich an Ort und Stelle 
 #IMAGE:sprites/kirke_good.svg
 Wir fanden einen ausgetretenen Pfad und folgten ihm bis zu einem prächtigen Haus. Vor dem Haus stand eine der schönsten Frauen, die ich je gesehen hatte. Goldenes Haar floss über ihren Rücken und von ihrer Haltung und Statur konnte ich deutlich erkennen, dass sie von adliger Abstammung war.
 *[...] 
+ #CLEARAUDIO
 Als wir näher kamen öffnete die Frau einladend ihre Arme.
 
 Kirke: Willkommen auf meiner Insel, meine Herren! Mein Name ist Kirke und ich bin die Herrin dieser Insel. Seid meine Gäste. Drinnen ist der Tisch gedeckt und meine Dienerinnen werden sich gerne um euch kümmern.
@@ -209,7 +209,7 @@ Das Fleisch war so zart, dass es mir beinahe auf der Zunge zerfloss. Mehr und me
 
 ****[...] 
 #CLEARIMAGE
-#IMAGE:sprites/kirke_evil.svg
+#IMAGE2:sprites/kirke_evil.svg
 #AUDIO:audio/lachen.mp3 //Sound finden!!
 Ich hörte ein selbstgerechtes Lachen.
 Kirke: Wie soll es auch anders sein? Männer sind Schweine! Seht euch das nur an! Sie fressen, wie Schweine und sie benehmen sich wie Schweine. So müssen sie nur noch deren Äußeres teilen!
@@ -218,7 +218,6 @@ So hob die hübsche Frau einen Stab und rief Wörter in einen fremden Sprache.
 
  Sofort fiel das Fleisch aus meinen Händen. Ich spürte ein Kribbeln auf meinem ganzen Körper.
  *****[...] 
- #CLEARIMAGE
  #CLEARAUDIO
  #IMAGE:sprites/schwein.svg //haben wir das?
  #AUDIO:audio/schwein.mp3 
@@ -228,6 +227,8 @@ So hob die hübsche Frau einen Stab und rief Wörter in einen fremden Sprache.
  
  Dienerin der Kirke: Hier bleibt ihr nun für immer!
   ******[...] 
+  #CLEARIMAGE2
+  
 //Pflanzen gesammelt?
 {Kraeuter_erhalten or Kraeuter_gesammelt: 
 ->Kirke_selbst_zurueckverwandeln 
@@ -241,6 +242,7 @@ Das Tor zum Stall schloss sich und ich blieb im Matsch mit meinen Kameraden steh
 
 === Kirke_selbst_zurueckverwandeln ===
 #CLEARAUDIO
+#CLEARIMAGE
 Unsere Lage schien aussichtlos. Da fielen mir die Pflanzen ein, die ich eingesammelt hatte. Ich warf meine Tasche, die noch um meinen Schweinekörper geschlungen war, ab und suchte die Kräuter heraus. Schnell fraß ich sie. Wieder spürte ich das Kribbeln der Verwandlung. 
 
 Als Mensch kniete ich keuchend im Matsch, während meine anderen Kameraden jämmerlich grunzten. 
@@ -298,6 +300,7 @@ Dann schlug er die Haken zusammen. Die Flügel an seinen Schuhen bewegten sich u
 === Kirke_Zurueck_zum_Schiff ===
 
 *[...]
+#CLEARAUDIO
 #CLEARIMAGE
 #BACKGROUND:images/beach.svg
 Nachdenklich und beunruhigt machten wir uns wieder auf dem Weg zum Schiff. Dort setzen wir uns zu den anderen Männern und warteten auf unseren Erkundungstrupp.
@@ -306,7 +309,7 @@ Nachdenklich und beunruhigt machten wir uns wieder auf dem Weg zum Schiff. Dort 
 
 === Kirke_Mann_erscheint ===
 #IMAGE:sprites/scared_man.svg //Erstellen?
-#BACKGROUND:images/beach.svg
+#BACKGROUND:images/sandbeach.svg
 *[...]
 Bald darauf erschien einer der Männer. Ich erkannte ihn: Es war einer der Ängstlichen, die sich immer versteckten. Vollkommen erschrocken blieb er vor uns stehen. Sein Gesicht war weiß.
 
@@ -384,7 +387,8 @@ Kamerad: Nein,  es ist die Wahrheit!
 
 
 == Kirke_Ereignisse_erfahren3 ==
-#IMAGE:sprites/odysseus_sad.svg
+#CLEARIMAGE
+#IMAGE2:sprites/odysseus_sad.svg
 //Odysseus? Warum nicht ich oder ihr?
 Kamerad: Odysseus, schnell! Du musst uns helfen! Die Zauberin Kirke hat sich unserer bemächtigt. Wir haben sie singen gehört, sind ihrer Stimme und der Einladung zum Essen gefolgt, doch dann verwandelten sich alle in Schweine. 
 
@@ -403,7 +407,7 @@ Odysseus: Das können wir nicht mit unseren Kameraden machen lassen! Lasst uns z
 
 Damit forderte er den Boten auf uns den Weg zu zeigen. Dieser ging zitternd voran. Schnell führte uns durch den Dschungel voran zu Kirkes Haus.
 *[...]
-
+#IMAGE:sprites/kirke_evil.svg
 #BACKGROUND:images/forest.svg
 
 Prachtvoll ragte es vor uns auf und die schöne Kirke begrüßte uns überschwänglich. Mit wippenden Zopf führte sie uns zusammen mit ihren Dienerinnen in die Speisehalle. Der Geruch des Essens ließ mir das Wasser im Mund zusammenlaufen. Mit ausgebreiteten Armen forderte uns Kirke zum Essen auf. 
@@ -440,17 +444,22 @@ Sie befahl ihren Dienerinnen die Schweine hereinzuholen. Mit einem Schwenk ihres
 ->Kirke_alle_wiedervereint
 
 === Kirke_Schwein_sein ===
-#AUDIO:audio/schwein.mp3
 Ich weiß nicht, wie viel Zeit ich als Schwein verbracht habe, aber die tierische Natur übermannte mich immer mehr. Bald grunzte ich und wühlte im Dreck. Ich konnte nichts dagegen ausrichten. Doch irgendwann öffnete sich die Tür zu unserem Stall. Mit groben Worten und einer Peitsche wurden wir wieder in die Speisehalle gedrängt. „Ob sie uns nun schlachten werden?“, ging es mir durch den Kopf. 
 *[...]
+#CLEARIMAGE
+#CLEARIMAGE2
 #CLEARAUDIO
+#IMAGE:sprites/kirke_good.svg
+#IMAGE2:sprites/odysseus_sad.svg
 Aber in der Halle bot sich ein ganz anderes Bild: Odysseus stand mit gezogenem Schwert vor der Zauberin und bedrohte sie. Er befahl ihr uns freizulassen. Ich verstand ihren Wortwechsel nicht genau, doch schließlich hob Kirke ihren Zauberstab, schwang ihn und ich spürte meine Nase wachsen und meinen Leibesumfang abnehmen. Ich wurde wieder zu einem Menschen! Ein Blick auf meine armen Leidensgenossen sagte mir, dass wir alle mit diesem Glück gesegnet waren.
 ->Kirke_alle_wiedervereint
 
 === Kirke_alle_wiedervereint ===
+
 Erleichtert fielen wir uns alle in die Arme und freuten uns, dass wir einander wieder hatten. Am liebsten wäre ich schnell von der Insel herunter. 
 *[...]
-
+#CLEARIMAGE2
+#IMAGE2:sprites/odysseus_happy.svg
 Kirke: Nun, listenreicher Odysseus, du hast mich besiegt. Wie wäre es, wenn ihr zu einer Feier bleibt. Ich bin sonst nur von meinen Dienerinnen umgeben und würde gerne eure Geschichten hören. 
 
 Fragend wandte sich Odysseus an mich.
@@ -472,9 +481,10 @@ Kirke schien über meine Antwort nicht glücklich zu sein, doch ließ sie uns zi
 === Kirke_Weg_von_der_Insel ===
 *[...]
 #CLEARIMAGE
+#CLEARIMAGE2
 #BACKGROUND:images/sea.svg
 Ich war glücklich die Planken des Schiffes wieder unter meinen Füßen zu spüren. Ein frischer Meereswind umwehte mich und ich konnte nur hoffen, dass wir keine Umwege mehr fahren mussten. 
-**Karte ->Karte
+**[Karte] ->Karte
 
 
 
