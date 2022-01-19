@@ -55,7 +55,7 @@ Eurylochos: Männer! Endlich scheint alles besser zu werden! Lasst uns die Rinde
                 Nachdenklich strich ich über ihre Rinde. 
                     ***[Bäume fällen] 
                     Vielleicht sollte ich sie fällen? Und wenn wir sie nur für Feuerholz nutzen würden – sie würden uns sicher gute Dienste erweisen. Also machte ich mich an die Arbeit und fällte mehrere Stämme. Diese brachte ich zurück zu Odysseus, der sie interessiert musterte. 
-                    Odysseus: Mir kommt eine Idee, [Name d. Spielenden]. Lass uns ein Floß bauen.
+                    Odysseus: Mir kommt eine Idee, {name}. Lass uns ein Floß bauen.
                     {spieler}: Warum sollten wir das tun?
                     Odysseus: Mein Gefühl sagt mir das.
                             *****Ich nickte ihm zu und half im dabei ein gutes Floß zu bauen. 
