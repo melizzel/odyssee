@@ -264,7 +264,7 @@ Sofort begann ich zu rennen. Ich rannte durch den Dschungel der Insel und doch h
 === Kirke_Schiff_warten ===
 #CLEARAUDIO
 #AUDIO:audio/wasser.mp3
-#BACKGROUND:images/beach.svg
+#BACKGROUND:images/sandbeach.svg
 #IMAGE:sprites/hermes_good.svg
 Nach dem Sturm stand mir nicht der Sinn nach Erkundungen. Also spazierte ich zusammen mit Odysseus den Strand entlang. Wir redeten über alte Zeiten und fragten uns, ob die Schafe auf Ithaka wieder lammen würden, als wir eine Gestalt in der Ferne wahrnahmen. Langsam gingen wir auf die Gestalt zu. Es war ein Mann mit lockigen, braunen Haar. Er trug Schuhe mit Flügeln und schon bei dem ersten Blick wurde uns klar, dass es sich nur um den göttlichen Hermes handeln konnte.
 
@@ -362,8 +362,6 @@ Kamerad: Schlimmes ist geschehen! Eine Zauberin, eine Hexe. Schweine sind sie!
 -> Kamerad_weint->Ereignisse_erfahren_2
 
 == Ereignisse_erfahren_2 ==
-
-//Wiederholt sich andauernd
 
 * (wuetend) [Das konnte doch nicht wahr sein!] 
 {spieler}: Das konnte doch nicht wahr sein! #angry
