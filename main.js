@@ -27,6 +27,29 @@
   var imageContainer = document.querySelector(".imageContainer");
   var imageContainer2 = document.querySelector(".imageContainer2");
 
+  // Global tags - those at the top of the ink file
+  // We support:
+  //  # theme: dark
+  //  # author: Your Name
+  var globalTags = story.globalTags;
+  if (globalTags) {
+    for (var i = 0; i < story.globalTags.length; i++) {
+      var globalTag = story.globalTags[i];
+      var splitTag = splitPropertyTag(globalTag);
+
+      // THEME: dark
+      if (splitTag && splitTag.property == "theme") {
+        globalTagTheme = splitTag.val;
+      }
+
+      // author: Your Name
+      else if (splitTag && splitTag.property == "author") {
+        var byline = document.querySelector(".byline");
+        byline.innerHTML = "by " + splitTag.val;
+      }
+    }
+  }
+
   // page features setup
   var hasSave = loadSavePoint();
   setupButtons(hasSave);
