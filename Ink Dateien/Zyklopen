@@ -17,20 +17,27 @@ Odysseus: Ach, woher denn. Wir haben 20 tapfere Männer ausgewählt. Und was, we
         Ich verdrehte die Augen und half ihm aus dem Sitzen auf. Mit der Hilfe von 4 Männern trugen wir die letzten zwei Weinfässer hinaus.
 -Kaum standen wir mit beiden Beinen am Strand, wollte er auch schon mit den 20 Männern ins 
 Landesinnere marschieren. Doch der Steuermann Eurylochos blieb plötzlich wie erstarrt stehen.
+*[...]
+#IMAGE2: sprites/eurylochos_sad.svg
+#IMAGE: sprites/odysseus_happy.svg
+
 Eurylochos: Bei den Göttern, jetzt wo ich diese Berge genauer betrachte erinnere ich mich. Sie kamen mir gleich bekannt vor, wir sollten sofort umkehren. Dies ist die Insel der Zyklopen. Sie sollen in Höhlen unter der Erde leben und alles fressen, was ihr Auge erblickt.
 Ein Schauer ging durch die 20 Männer. Auch Odysseus und ich blieben von der aufsteigenden Angst nicht verschont.
 Eurylochos: Lasst uns lieber zur nächsten Insel reisen. Was tun wir, wenn wir einem dieser Zyklopen begegnen? Da haben wir keine Chance!
 Odysseus: Nein! Wir werden nicht unverrichteter Dinge weiterziehen. Wir brauchen Proviant für die Heimreise und den werden wir hier sicher finden.
-    *[Stimme Eurylochos zu.]
+    **[Stimme Eurylochos zu.]
         {spieler}: Erkennst du denn die Gefahr nicht mein Freund? Lass uns vom Strand ein paar der Ziegen stehlen und dann verschwinden
         Odysseus: Ach was, die merken gar nicht, dass wir hier sind wir wollen sehen, ob es hier nicht noch mehr gibt. Die Ziegen können wir danach immer noch aufladen. Und einen Zyklopen wollte ich außerdem ohnehin mal sehen.
         {spieler}: Nein das ist zu gefährlich. Bist du denn von Sinnen deine Männer so einer Gefahr auszusetzen.
         Odysseus: Siehst du denn einen dieser mutigen Männer aufbegehren? Nein! Folgst auch du mir in dieses Abenteuer {name}? Wir haben doch sicher schon Schlimmeres erlebt. 
         {spieler}: Damit das klar ist, ich komme nun nicht mit um dir einen Gefallen zu tun, sondern in der Hoffnung, dass ein Kopf mehr die Rettung bedeuten könnte.
-    *[Stimme Odysseus zu.]
+    **[Stimme Odysseus zu.]
         {spieler}: Ich muss mich leider auf die Seite von Odysseus schlagen. Du hast Recht Eurylochos, es ist sicher gefährlich. Aber ohne Verpflegung sterben wir womöglich auf dem Weg nach Hause an Hunger.
         Eurylochos: Ich verstehe… Nun gut ich werde mit euch kommen. Je schneller wir etwas finden und von hier ablegen können desto besser. Vielleicht hilft es ein Gebet mehr zu sprechen…
+- *[...]        
 -Mein Blick wanderte über die Gesichter der Männer. Ich spürte regelrecht den Zwiespalt in ihrem Inneren. Aber sie waren Odysseus noch immer treu ergeben und folgten ihm, wo auch immer er sie hinführte. Mit Odysseus voran, gingen wir weiter in das Inselinnere, durch die Wälder, weiter Bergauf, auf der Suche nach einer Quelle.
+**[...]
+#CLEARIMAGE2
 Schon von weitem erregte ein immens großer Höhleneingang unsere Aufmerksamkeit. Die Männer zog es dorthin und auch Odysseus wollte erfahren, was dort zu finden sei. Wir entschieden unsere Gruppe aufzuteilen und gingen nur mit 12 Männern in Richtung Höhle, während die  restlichen Männer einen anderen Weg einschlugen. Als wir den Eingang erreicht hatten, blickten wir auf körbeweise Essen und eine Herde Schafe, die knapp vor dem Eingang graste. 
 Odysseus: Nun, dann hat sich der Weg tatsächlich gelohnt. Leider scheinen die Zyklopen tatsächlich unter der Erde zu leben, sonst hätten wir ja einen sehen können.
 {spieler}: Sieh doch mal genau hin Odysseus: Die Höhle ist zu gewaltig, als dass hier nur Menschen leben. Dies ist der Vorrat eines der Zyklopen, wir müssen sofort verschwinden!

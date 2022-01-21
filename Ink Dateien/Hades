@@ -46,6 +46,8 @@ Odysseus: Mutter, wie- wie kannst du hier sein? Du warst am Leben, als wir loszo
 Odysseus war nicht zu trösten. Fest umklammernd hielt er sein Schwert, von dem noch das Blut des Opfers tropfte. Die Sorgen der Heimat drangen in diesem Moment an ihn heran und er schien nichts anderes mehr wahrnehmen zu wollen.
 {spieler}: Odysseus, mein Freund, wir müssen nach Theresias Ausschau halten.
 Odysseus: …
+**[...]
+#IMAGE: sprites/theresias.svg
 Dann erschien eine weitere Gestalt, die sich von den anderen Seelen abhob. Alt und bärtig stand er vor uns. Einen Stab in seiner Hand, trat er an uns heran. Ehrfürchtig wichen wir zurück. Womöglich wäre er auch einfach entschwunden, wenn wir ihm zu nahe getreten wären.
 Noch immer benommen blickt Odysseus auf. 
 Odysseus: Bist du Theresias? Der Seher?
@@ -54,7 +56,7 @@ Theresias: So ist es. Und ich muss dir sagen, Odysseus, die Götter sind dir nic
 Theresias: Und dennoch ist Odysseus euer Hauptmann. Auch Zeus ist sauer. Denn ihr habt die Götter auf eurer Reise zu oft verpönt. Euer Weg ist gesäumt von Prüfungen. Sirenen, Seemonster, Charybdis und Skylla liegen auf eurem Weg. Odysseus, du darfst nicht vergessen, wer du bist. Entsinne dich deiner Stärke.  Eure Mannschaft darf auf dieser Reise keine Schwäche zeigen. Ihr vermögt euch nicht die Unglücke auszumalen, die euch ereilen, solltet ihr den Göttern weiterhin trotzen. Umgeht um jeden Preis einen Konflikt mit Ihnen.
 Odysseus: Ist eine Heimkehr dann überhaupt gewiss? 
 Theresias: Du wirst heimkehren, jedoch allein. Und auf Ithaka werden dich weitere Prüfungen erwarten.
-    **[Gehe auf Theresias Rat ein.]
+    ***[Gehe auf Theresias Rat ein.]
         {spieler}: Wir sollten auf Theresias‘ Worte hören und Konflikte vermeiden und die Götter um Verzeihung bitten. 
         Odysseus: Die Götter haben mich schon in Troja verlassen. Sie haben keine Bedeutung mehr.
         {spieler}: Wie kannst du nur etwas dergleichen sagen? Jetzt, wo wir wissen, dass selbst Zeus unserer zürnt. Wie gedenkst du über die Meere zu segeln, wenn die Gezeiten nicht auf unserer Seite sind? Wir werden unsere Heimat womöglich nie wieder sehen.
@@ -62,13 +64,15 @@ Theresias: Du wirst heimkehren, jedoch allein. Und auf Ithaka werden dich weiter
         {spieler}: So einfach wird es nicht sein und dessen bist du dir sehr wohl bewusst. Wir müssen die Götter besänftigen.
         Odysseus: Und noch mehr, bin ich mir meiner Fähigkeiten bewusst. Ich werde uns nach Ithaka zurückführen. Auch ohne den Segen der Götter.
         Theresias: Ihr solltet nun gehen. Ihr habt lange genug hier verweilt. Höre auf deinen Freund, Odysseus. Hier solltet ihr nicht zu schlecht von den Göttern reden. Hier gibt es mehr als nur verlorene Seelen Verstorbener. Wesen, die nur durch den Glauben an die Götter hier festgehalten werden.
-    **Du hast das Gefühl, die Götter seien schon länger nicht mehr auf eurer Seite.
+    ***Du hast das Gefühl, die Götter seien schon länger nicht mehr auf eurer Seite.
     -Ich sah Odysseus an, wie er den Geistern mit Blicken hinab folgte, ihnen hinterher blickte. Gebannt starrte er auf den Krater unter uns und den Weg, der hinab führte. Ich spürte, wie er mir erneut zu entgleiten drohte. 
     *[Stehe Odysseus zur Seite.]
+    #CLEARIMAGE
         Odysseus: Ich muss hinab. Vielleicht finde ich noch mehr meiner Gefährten. Kann mit Ihnen reden, kann meine Mutter noch einmal sehen.
         {spieler}: Nun gut. Die restlichen Männer bleiben auf dem Schiff. Aber ich begleite dich, wir gehen zusammen hinab und kehren gemeinsam wieder zurück. Aber wir dürfen nicht zu viel Zeit verschwenden. 
         Da steigt er auch schon von Bord und begibt sich auf den steinernen Weg in den Abgrund.
     *[Versuche Odysseus zur Umkehr zu bewegen.]
+    #CLEARIMAGE
         {spieler}: Nein Odysseus, reiße dich von dem Anblick los! Teresias hat vor Monstern gewarnt. Wenn sie dir zürnen, weil du die Götter beleidigt hast, müssen wir sofort von hier verschwinden!
         Odysseus: Die Götter bereiten mir keine Sorgen. Was wenn wir dort unten noch mehr unserer Freunde wiedersehen können? Wenn ich meiner Mutter noch einmal begegnen könnte?
         {spieler}: Ich verstehe dich, ich trauere mit dir um den Verlust. Aber dein Sohn und deine Frau warten in Ithaka auf deine Rückkehr und wenn du jetzt gehst, kehrst du womöglich nie zurück!
