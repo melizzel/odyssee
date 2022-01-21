@@ -16,9 +16,9 @@ INCLUDE Skylla
 
 === Karte ===
 #CLEAR
-Vor euch seht ihr unseren Schiffsweg. Wir schifften von Insel zu Insel und hofften irgendwann wieder anzukommen. {spieler} werde euch von Insel zu Insel begleiten. 
+Vor euch seht ihr unseren Schiffsweg. Wir schifften von Insel zu Insel und hofften, irgendwann wieder anzukommen. {spieler} werde euch von Insel zu Insel begleiten. 
 
-{Sucht euch eine Insel aus, bei welcher ich das erste unserer Abenteuer erzähle und lasst uns gemeinsam den Weg zurück nach Ithaka finden. | Sucht euch eine Insel aus, bei welcher ich das zweite unserer Abenteuer erzähle und lasst uns gemeinsam den Weg zurück nach Ithaka finden. | Sucht euch eine Insel aus, bei welcher ich das dritte unserer Abenteuer erzähle und lasst uns gemeinsam den Weg zurück nach Ithaka finden. | Sucht euch eine Insel aus, bei welcher ich das vierte unserer Abenteuer erzähle und lasst uns gemeinsam den Weg zurück nach Ithaka finden. | Sucht euch eine Insel aus, bei welcher ich das fünfte unserer Abenteuer erzähle und lasst uns gemeinsam den Weg zurück nach Ithaka finden. | Es scheint nur noch eine Insel auf unserem Weg zu liegen. Nur wieso kommt sie mir so bekannt vor?}
+{Sucht euch eine Insel aus, bei welcher ich das erste unserer Abenteuer erzähle und lasst uns gemeinsam den Weg zurück nach Ithaka finden. | Sucht euch eine Insel aus, bei welcher ich das zweite unserer Abenteuer erzähle und lasst uns gemeinsam den Weg zurück nach Ithaka finden. | Sucht euch eine Insel aus, bei welcher ich das dritte unserer Abenteuer erzähle und lasst uns gemeinsam den Weg zurück nach Ithaka finden. | Sucht euch eine Insel aus, bei welcher ich das vierte unserer Abenteuer erzähle und lasst uns gemeinsam den Weg zurück nach Ithaka finden. | Sucht euch eine Insel aus, bei welcher ich das fünfte unserer Abenteuer erzähle und lasst uns gemeinsam den Weg zurück nach Ithaka finden. | Es scheint nur noch eine Insel auf unserem Weg zu liegen. Nur - wieso kommt sie mir so bekannt vor?}
 
 
     ** (Rinder) [Die Insel der Rinder] #CLEAR
