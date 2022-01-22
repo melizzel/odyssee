@@ -1,4 +1,5 @@
 ===Insel_Skylla
+#CLEARAUDIO
 #BACKGROUND: images/sea.svg
 Fort von Kirke waren wir auf dem Weg weiter hinaus aufs Meer, doch von der Heimat war keine Spur. Odysseus hatte sich zurückgezogen. Warf jedoch immer wieder beunruhigende Blicke in die Ferne. Spürte er etwa, dass die Götter uns verlassen hatten?
 *[...]
@@ -59,7 +60,7 @@ Eurylochos nickte voller Sorge.
 
 *[...]
 #IMAGE: sprites/eurylochos_sad.svg
-#IMAGE: sprites/odysseus_sad.svg
+#IMAGE2: sprites/odysseus_sad.svg
 
 Eurylochos: Wir müssen den Schlund umfahren! Strengt euch an Männer, wir weden rechts das Monster umschiffen.
 
@@ -68,23 +69,6 @@ Odysseus: Nein, Wir müssen mitten durch die beiden Felsen! Wir müssen direkt d
 Ich: Aber Charybdis wird uns dort hinunter ziehen, das Ungeheuer wird sämtliche Schiffe verschlingen.
 
 Odysseus:  Es ist unsere einzige Chance, ich bin mir dessen sicher!
-
-**[Odysseus vertrauen]
-
-Ich: Ich vertraue Odysseus.
-
-Eurylochos zögerte. Zu oft hatte uns Odysseus fehlgeleitet. Die Besatzung hatte genug und begann schon zu murren. Doch ich setzte mich erneut für Odysseus Instinkt ein.
-
-Alle Augen waren auf Charybdis gerichtet, die vor uns unter dem Meer lauerte und nun unter der Oberfläche zu sehen war. Dann schlang sich eine furchtbare Säule aus Wasser in den Himmel, wie ein Tornado, und als wir gerade dachten, er würde uns erfassen, zerfloss er und unter dem Wasser schlangen sich die langen Hälse der Skylla hervor.
-
-***[...]
-
-Wir hatten es fast geschafft. Die Schiffe waren unversehrt so weit gekommen, doch Skyllas Tentakel waren lang. 
-Und so erfasste sie die Schiffe, die noch nicht schnell genug waren, riss unsere Männer von Deck und zerquetschte die hintersten Schiffe, dass man meinte sogar das Holz aufheulen zu hören. Drei unserer Schiffe fielen dem Ungeheuer zum Opfer. 
-
-So viele Männer, die nicht heimkehren würden. Doch wir Übrigen konnten weiter auf die Heimkehr hoffen…
-
-****[Karte] ->Karte
 
 **[Auf Eurylochos hören]
 
@@ -116,7 +100,28 @@ Mehrmals rief ich seinen Namen, doch er hörte mich nicht. Ich griff nach dem Ho
 
 Ich war ein Geist, gefangen in meinem eigenen Traum. Bei den Göttern, mit was hatte ich diese Strafe verdient?
 
+THE END
+
 ->END
+
+**[Odysseus vertrauen]
+
+Ich: Ich vertraue Odysseus.
+
+Eurylochos zögerte. Zu oft hatte uns Odysseus fehlgeleitet. Die Besatzung hatte genug und begann schon zu murren. Doch ich setzte mich erneut für Odysseus Instinkt ein.
+
+Alle Augen waren auf Charybdis gerichtet, die vor uns unter dem Meer lauerte und nun unter der Oberfläche zu sehen war. Dann schlang sich eine furchtbare Säule aus Wasser in den Himmel, wie ein Tornado, und als wir gerade dachten, er würde uns erfassen, zerfloss er und unter dem Wasser schlangen sich die langen Hälse der Skylla hervor.
+
+***[...]
+
+Wir hatten es fast geschafft. Die Schiffe waren unversehrt so weit gekommen, doch Skyllas Tentakel waren lang. 
+Und so erfasste sie die Schiffe, die noch nicht schnell genug waren, riss unsere Männer von Deck und zerquetschte die hintersten Schiffe, dass man meinte sogar das Holz aufheulen zu hören. Drei unserer Schiffe fielen dem Ungeheuer zum Opfer. 
+
+So viele Männer, die nicht heimkehren würden. Doch wir Übrigen konnten weiter auf die Heimkehr hoffen…
+
+****[Karte] ->Karte
+
+
 
 
 

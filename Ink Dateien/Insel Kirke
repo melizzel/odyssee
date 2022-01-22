@@ -1,5 +1,6 @@
 
 ===Insel_Kirke ===
+#CLEARAUDIO
 #BACKGROUND:images/ship.svg
 Die See war ruhig. Nichts bewegte sich und die Mannschaft langweilte sich auf dem Deck. Ich jedoch beobachtete Odysseus. Er trug einen ledernen Sack, eng an die Brust gepresst. Ich zog die Augenbrauen zusammen. Woher hatte er diesen Sack? Mir war er noch nie aufgefallen. Ich trat näher an Odysseus heran:
 
@@ -118,6 +119,7 @@ Ein heftiger Wind erfasste urplötzlich das Schiff. Wir wurden herumgewirbelt un
         **[...] 
         Mit viel Glück – ein Glück, welches Odysseus immer wieder zu begleiten schien – ließ das Toben des Herrschers der Winde nach. Langsam beruhigte sich die See und wir entdeckten eine Insel. 
 #BACKGROUND:images/sandbeach.svg 
+#IMAGE: sprites/odysseus_happy.svg
 #AUDIO:audio/wellen.mp3
         Gemeinsam beschlossen wir, dorthin zu segeln. So kamen wir an einem feinen Sandstrand an und beratschlagten, was nun zu tun sei. Odysseus schlug vor, dass wir uns in zwei Gruppen aufteilen sollten: 
     
@@ -130,6 +132,7 @@ Ein heftiger Wind erfasste urplötzlich das Schiff. Wir wurden herumgewirbelt un
 ->Kirke_Schiff_warten
 
 === Kirke_Insel_erkunden ===
+#CLEARIMAGE
 #AUDIO:audio/birds.mp3
 #BACKGROUND:images/forest.svg
 So machte ich mich mit meinen anderen Kameraden auf den Weg. Zuerst schlugen wir uns einen Weg ins Innere der Insel. Sie war voller Leben. Dichte, grüne Pflanzen versperrten uns immer häufiger den Weg und immer wieder konnte ich Vögel zwitschern hören. Auch anderen Tieren begegneten wir und manchmal vermeinte ich sogar, einen Löwen oder ein anderes Raubtier zu sehen. Doch wir wurden alle nicht angegriffen. Vollkommen friedlich lag dieses Eiland vor uns.
@@ -264,6 +267,7 @@ Sofort begann ich zu rennen. Ich rannte durch den Dschungel der Insel und doch h
 ->Kirke_Zurueck_zum_Schiff
 
 === Kirke_Schiff_warten ===
+#CLEARIMAGE
 #CLEARAUDIO
 #AUDIO:audio/wasser.mp3
 #BACKGROUND:images/sandbeach.svg
@@ -305,7 +309,12 @@ Dann schlug er die Haken zusammen. Die Flügel an seinen Schuhen bewegten sich u
 #CLEARAUDIO
 #CLEARIMAGE
 #BACKGROUND:images/sandbeach.svg
-Nachdenklich und beunruhigt machten wir uns wieder auf dem Weg zum Schiff. Dort setzen wir uns zu den anderen Männern und warteten auf unseren Erkundungstrupp.
+
+{Kirke_Erkundungstrupp: 
+Nachdenklich und beunruhigt machte ich mich alleine wieder auf dem Weg zum Schiff. Dort setze ich zu den anderen Männern und wartete auf den Erkundungstrupp, den ich zurückgelassen hatte.
+-else:
+Nachdenklich und beunruhigt machten wir uns wieder auf dem Weg zum Schiff. Dort setzen wir uns zu den anderen Männern und warteten auf den Erkundungstrupp. 
+}
  ->Kirke_Mann_erscheint
 
 
