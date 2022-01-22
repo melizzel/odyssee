@@ -1,30 +1,122 @@
 ===Insel_Skylla
-Fort von Kirke waren wir auf dem Weg weiter hinaus aufs Meer, doch von der Heimat war keine Spur . Odysseus hatte sich zurückgezogen. Warf jedoch immer wieder beunruhigende Blicke in die Ferne. Spürte er etwa, dass die Götter uns verlassen hatten?
-Die See lag ruhig vor uns, nur ein starker Nebel war aufgezogen, der jedes übrige Geräusch verschlang, ruhig trieben wir auf zwei Felsen zu. Eurylochos umfasste das Steuer fester. Mit einem Mal ergriff uns eine Strömung und trieb uns schneller werdend auf die Meerenge zwischen den Gesteins Wänden zu.
+#BACKGROUND: images/sea.svg
+Fort von Kirke waren wir auf dem Weg weiter hinaus aufs Meer, doch von der Heimat war keine Spur. Odysseus hatte sich zurückgezogen. Warf jedoch immer wieder beunruhigende Blicke in die Ferne. Spürte er etwa, dass die Götter uns verlassen hatten?
+*[...]
+#BACKGROUND: images/meerenge.svg
+#IMAGE: sprites/eurylochos_angry.svg
+Die See lag ruhig vor uns, doch der Himmel verdunketle sich und eine unheimliche Stille legte sich über das Meer. Ruhig trieben wir auf zwei Felsen zu. Eurylochos umfasste das Steuer fester. Mit einem Mal ergriff uns eine Strömung und trieb uns schneller werdend auf die Meerenge zwischen den Gesteins Wänden zu.
 
-#IMAGE2: sprites/eurylochos_angry.svg
-Eurylochos: Bei den Göttern, Poseidon hat uns wieder in seinen Fängen. Er hat uns zu Skylla und Charybdis gesandt, um uns endgültig an der Heimreise zu hindern. 
+Eurylochos: Bei den Göttern, Poseidon hat uns wieder in seinen Fängen! Er hat uns zu Skylla und Charybdis gesandt, um uns endgültig an der Heimreise zu hindern. 
+
+**[...]
 
 Ich: Das dort sind doch nur zwei Felsen, du hast uns schon aus schlimmeren Lagen gesegelt!
 
-Eurylochos: Das sind nicht nur zwei Berge die zufällig aus dem Meer ragen, das sind Skylla und Charybdis, die Seeungeheuer.
+Eurylochos: Das sind nicht nur zwei Berge, die zufällig aus dem Meer ragen, das sind Skylla und Charybdis, die Seeungeheuer.
 
-Skylla: Sie zeigt sich nur wenn wir ihr nahe genug kommen. Sie hält sich unter der Meeresonterfläche. Sie hat 12 Beine wie Hunde und 6 Köpfe mit scharfen Zähnen und langen Hälsen. Sie war einmal eine wunderschöne Nymphe. Bis sie dem Fischer Glaukos begegnete, dieser hatte sich in sie verliebt. Doch Skylla wies ihn ab. 
+Ich: Was redest du da? Seeungeheuer?
 
-Da wandte er sich an Kirke um von ihr einen Liebestrank zu erbitten, doch diese hatte sich in den Fischer verliebt und gab ihm stattdessen, getrieben von Eifersucht, ein Gift. Glaukos nahm es und schüttete es in den Brunnen von Skylla. Als diese nun dort baden wollte, verwandelte sie sich in dieses Ungeheuer.
+->Seeungeheuer
 
-Charybdis: Eigentlich war Charybdis eine Göttin, die Tochter von Poseidon und seiner Mutter Gaia. Als junge Frau begann Sie auf einmal alles zu fressen, was ihr begegnete. Menschen, Tiere, nicht mal Kinder waren vor ihr sicher. Zeus  war darüber erzürnt und strafte sie mit seinen Blitzen, worauf hin sie hier ins Meer fiel und zu diesen Felsen wurde. Wenn wir dem zu nahe kommen, reisst sie uns in die Tiefe hinab.
+=== Seeungeheuer ===
+#CLEARIMAGE
+#IMAGE: sprites/eurylochos_sad.svg
 
+* (Skylla) [Was ist Skylla?]
+Ich: Was ist Skylla?
 
-Das Wasser wurde immer unruhiger und vor uns taten sich gigantische Strudel auf, die bis zum Grund des Meeres zu führen schienen. 
+Eurylochos: Ich hörte Geschichten. Skylla zeigt sich nur wenn wir ihr nahe genug kommen. Sie hält sich unter der Meeresonterfläche. Sie hat 12 Beine wie Hunde und 6 Köpfe mit scharfen Zähnen und langen Hälsen. Sie war einmal eine wunderschöne Nymphe. Bis sie dem Fischer Glaukos begegnete, dieser hatte sich in sie verliebt. 
+**[...]
+Doch Skylla wies ihn ab. Daraufhin wandte dieser sich an Kirke um von ihr einen Liebestrank zu erbitten, doch sie hatte sich in den Fischer verliebt und gab ihm stattdessen, getrieben von Eifersucht, ein Gift. Glaukos nahm es und schüttete es in den Brunnen von Skylla. Als diese nun dort baden wollte, verwandelte sie sich in dieses Ungeheuer.
+
+ ->Seeungeheuer
+
+* (Charybdis) [Charybdis sagtest du? Was hat es mit ihr auf sich?]
+
+Eurylochos: Eigentlich war Charybdis eine Göttin, die Tochter von Poseidon und seiner Mutter Gaia. Als junge Frau begann Sie auf einmal alles zu fressen, was ihr begegnete. Menschen, Tiere, nicht mal Kinder waren vor ihr sicher. Zeus  war darüber erzürnt und strafte sie mit seinen Blitzen, worauf hin sie hier ins Meer fiel und zu diesen Felsen wurde. Wenn wir dem zu nahe kommen, reisst sie uns in die Tiefe hinab.
+
+ ->Seeungeheuer
+
+*(glaubt_nicht) [Ich glaube nicht an Seeungeheuer.]
+#CLEARIMAGE
+#IMAGE: sprites/eurylochos_sad.svg
+
+Ich: Ich glaube nicht an Seeungeheuer.
+
+Voller Furcht und Entäuschung blickt Eurylochos zu mir.
+
+Eurylochos: Dann werden wir diese Stunde nicht überleben. 
+
+*{Charybdis} {Skylla} [Ich hoffe, dass du falsch liegst.]
+
+Ich: Ich hoffe, dass du falsch liegst.
+
+Eurylochos nickte voller Sorge.
+
+-Mit einem Mal, wurde das Wasser vor uns immer unruhiger und es taten sich gigantische Strudel auf, die bis zum Grund des Meeres zu führen schienen. Und mitten zwischen Ihnen konnten wir das riesige Maul der Charybdis erkennen. 
+
+{glaubt_nicht: Ich traute meinen Augen nicht. Etwas so Ungeheurliches hatte ich noch nie gesehen.}
+
+*[...]
+#IMAGE: sprites/eurylochos_sad.svg
+#IMAGE: sprites/odysseus_sad.svg
 
 Eurylochos: Wir müssen den Schlund umfahren! Strengt euch an Männer, wir weden rechts das Monster umschiffen.
-Odysseus: Nein, Wir müssen mitten durch die beiden Felsen! Erinnert euch an Kirkes Worte. Wir müssen direkt durch.
-Ich: Aber Charybdis wird uns dort hinunter ziehen, das Ungeheuer wird sämtliche Schiffe verschlingen.
-Odysseus: Es ist unsere einzige Chance, vertraue nicht mir Eurylochos, sondern den Worten von Kirke!
 
-Eurylochos zögerte. Zu oft hatte uns Odysseus fehlgeleitet. Die Besatzung hatte...
+Odysseus: Nein, Wir müssen mitten durch die beiden Felsen! Wir müssen direkt durch um zu überleben.
+
+Ich: Aber Charybdis wird uns dort hinunter ziehen, das Ungeheuer wird sämtliche Schiffe verschlingen.
+
+Odysseus:  Es ist unsere einzige Chance, ich bin mir dessen sicher!
+
+**[Odysseus vertrauen]
+
+Ich: Ich vertraue Odysseus.
+
+Eurylochos zögerte. Zu oft hatte uns Odysseus fehlgeleitet. Die Besatzung hatte genug und begann schon zu murren. Doch ich setzte mich erneut für Odysseus Instinkt ein.
 
 Alle Augen waren auf Charybdis gerichtet, die vor uns unter dem Meer lauerte und nun unter der Oberfläche zu sehen war. Dann schlang sich eine furchtbare Säule aus Wasser in den Himmel, wie ein Tornado, und als wir gerade dachten, er würde uns erfassen, zerfloss er und unter dem Wasser schlangen sich die langen Hälse der Skylla hervor.
-Wir hatten es fast geschafft. Die Schiffe waren unversehrt so weit gekommen, doch Skyllas Tentakel waren lang. Und so erfasste sie die Schiffe, die noch nicht schnell genug waren, riss unsere Männer von Deck und zerquetschte die hintersten Schiffe, dass man meinte sogar das Holz aufheulen zu hören. Drei unserer Schiffe fielen dem Ungeheuer zum Opfer. So viele Männer, die nicht heimkehren konnten.
-**[Karte] ->Karte
+
+***[...]
+
+Wir hatten es fast geschafft. Die Schiffe waren unversehrt so weit gekommen, doch Skyllas Tentakel waren lang. 
+Und so erfasste sie die Schiffe, die noch nicht schnell genug waren, riss unsere Männer von Deck und zerquetschte die hintersten Schiffe, dass man meinte sogar das Holz aufheulen zu hören. Drei unserer Schiffe fielen dem Ungeheuer zum Opfer. 
+
+So viele Männer, die nicht heimkehren würden. Doch wir Übrigen konnten weiter auf die Heimkehr hoffen…
+
+****[Karte] ->Karte
+
+**[Auf Eurylochos hören]
+
+Die Felsen wirkten bedrohlich und unter der Meeresoberfläche konnte man dunkle Schemen erkennen.
+
+Ich: Ich glaube Eurylochos. Er kann dieses Gewässer einschätzen und wird uns hier durch manövrieren können.
+
+Eurylochos nickte mir dankend zu. Dann verstärkte er den Griff um das Ruder und blickte konzentriert auf die Felsen und den tiefen Schlund vor uns.
+
+***[...]
+
+Er lenkte uns geschickt an den Strudeln vorbei und brachte uns nahe an den rechten der beiden Felsen heran. Die Besatzung atmete bereits erleichtert auf, als etwas unser Schiff von unten her erschütterte. Zwischen unseren Schiffen stießen gewaltige Wassersäulen in den Himmel und stießen die Schiffe aneinander und gegen die Felsen. 
+Eurylochos wurde bleich. Er zeigte auf das Wasser, das an den langen Hälsen der Kreatur hinab floss und die 6 Köpfe preisgab, die sich bereits auf die Besatzung stürzten.
+
+Eurylochos: Skylla…
+
+****[...]
+
+Odysseus schien noch verzweifelt nach einer Lösung zu suchen. Schließlich hatte er doch immer eine rettende Idee. Doch als sich nun einer der Köpfe in unsere Richtung stürzte, konnte selbst der große Odysseus nichts mehr gegen das Unvermeidliche tun. 
+Skyllas Haupt senkte sich über uns.
+
+*****[...]
+#CLEARIMAGE
+#CLEARIMAGE2
+#BACKGROUND: images/ship.svg
+Konnte das möglich sein? Ich traute meinen Augen nicht, aber am Horizont zeichneten sich die bekannten Formen von Ithaka ab. Ithaka! Meine Heimat! Wie viele Jahre hatte ich dich nicht gesehen? Freudig machte ich auch Odysseus aufmerksam auf die Insel.
+
+Mehrmals rief ich seinen Namen, doch er hörte mich nicht. Ich griff nach dem Holz vor mir, doch meine Finger fuhren hindurch. Nein! Das konnte nicht sein! Ungehört verhallte mein Schrei. 
+
+Ich war ein Geist, gefangen in meinem eigenen Traum. Bei den Göttern, mit was hatte ich diese Strafe verdient?
+
+->END
+
+
+

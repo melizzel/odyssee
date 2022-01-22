@@ -1,6 +1,6 @@
 
 ===Insel_Kirke ===
-#BACKGROUND:images/sea.svg
+#BACKGROUND:images/ship.svg
 Die See war ruhig. Nichts bewegte sich und die Mannschaft langweilte sich auf dem Deck. Ich jedoch beobachtete Odysseus. Er trug einen ledernen Sack, eng an die Brust gepresst. Ich zog die Augenbrauen zusammen. Woher hatte er diesen Sack? Mir war er noch nie aufgefallen. Ich trat näher an Odysseus heran:
 
 ->Sack_Gespraech
@@ -42,6 +42,7 @@ Odysseus: Und wenn es dies wäre, so würde es dich nichts angehen!
 
 ** Wie kannst du mir dies verheimlichen?![] 
 {spieler}: Wie kannst du mir dies verheimlichen?!
+#CLEARIMAGE
 #IMAGE: sprites/odysseus_sad.svg
  Wütend stampfte ich auf. 
 
@@ -109,6 +110,7 @@ Odysseus: Jetzt, {name}, wirst du sehen, wie ich es schaffe, dass wir schnell we
 
 === Heftiger_Wind_zur_Insel ===
 #CLEARIMAGE
+#BACKGROUND:images/sea.svg
 #AUDIO:audio/wind.mp3
 Ein heftiger Wind erfasste urplötzlich das Schiff. Wir wurden herumgewirbelt und die Haare standen mir zu Berge. Immer weiter trieb uns der Wind über die See. Mühevoll klammerte ich mich an einen Mast. Wasser lief mir über das Gesicht, meine Kleidung war vollkommen durchnässt. Im Wind meinte ich, ein Lachen zu hören und ein Gesicht zu erkennen. Dann wurde mir klar, was sich im Sack befunden hatte: Aiolos, der Herr der Winde!
     *[...] 
@@ -219,7 +221,7 @@ So hob die hübsche Frau einen Stab und rief Wörter in einen fremden Sprache.
  Sofort fiel das Fleisch aus meinen Händen. Ich spürte ein Kribbeln auf meinem ganzen Körper.
  *****[...] 
  #CLEARAUDIO
- #IMAGE:sprites/schwein.svg //haben wir das?
+ #IMAGE:sprites/schwein.svg 
  #AUDIO:audio/schwein.mp3 
  Meine Arme und Beine wurden kürzer, meine Wirbelsäule bog sich. Die Finger verschwanden und an ihrer statt hatte ich nun Klauen. Erschrocken wollte ich aufschreien, doch nur ein Grunzen kam aus meinem Maul. Ich blicke mich um und stellte erschrocken fest, dass meine Kameraden und ich in Schweine verwandelt wurden. 
  
@@ -302,14 +304,13 @@ Dann schlug er die Haken zusammen. Die Flügel an seinen Schuhen bewegten sich u
 *[...]
 #CLEARAUDIO
 #CLEARIMAGE
-#BACKGROUND:images/beach.svg
+#BACKGROUND:images/sandbeach.svg
 Nachdenklich und beunruhigt machten wir uns wieder auf dem Weg zum Schiff. Dort setzen wir uns zu den anderen Männern und warteten auf unseren Erkundungstrupp.
  ->Kirke_Mann_erscheint
 
 
 === Kirke_Mann_erscheint ===
-#IMAGE:sprites/scared_man.svg //Erstellen?
-#BACKGROUND:images/sandbeach.svg
+//#IMAGE:sprites/scared_man.svg //Erstellen?
 *[...]
 Bald darauf erschien einer der Männer. Ich erkannte ihn: Es war einer der Ängstlichen, die sich immer versteckten. Vollkommen erschrocken blieb er vor uns stehen. Sein Gesicht war weiß.
 
@@ -480,7 +481,8 @@ Kirke schien über meine Antwort nicht glücklich zu sein, doch ließ sie uns zi
 *[...]
 #CLEARIMAGE
 #CLEARIMAGE2
-#BACKGROUND:images/sea.svg
+#AUDIO:audio/wasser.mp3
+#BACKGROUND:images/ship.svg
 Ich war glücklich, die Planken des Schiffes wieder unter meinen Füßen zu spüren. Ein frischer Meereswind umwehte mich und ich konnte nur hoffen, dass wir keine Umwege mehr fahren mussten. 
 **[Karte] ->Karte
 
