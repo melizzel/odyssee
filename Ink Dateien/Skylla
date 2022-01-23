@@ -61,7 +61,7 @@ Eurylochos nickte voller Sorge.
 {glaubt_nicht: Ich traute meinen Augen nicht. Etwas so Ungeheurliches hatte ich noch nie gesehen.}
 
 *[...]
-#AUDIOLOOP:audio/wildewellen.mp3
+#AUDIO:audio/wildewellen.mp3
 #IMAGE: sprites/eurylochos_sad.svg
 #IMAGE2: sprites/odysseus_sad.svg
 
@@ -74,7 +74,7 @@ Ich: Aber Charybdis wird uns dort hinunter ziehen, das Ungeheuer wird sämtliche
 Odysseus:  Es ist unsere einzige Chance, ich bin mir dessen sicher!
 
 **[Auf Eurylochos hören]
-
+#AUDIO:audio/wildewellen.mp3
 Die Felsen wirkten bedrohlich und unter der Meeresoberfläche konnte man dunkle Schemen erkennen.
 
 Ich: Ich glaube Eurylochos. Er kann dieses Gewässer einschätzen und wird uns hier durch manövrieren können.
@@ -109,7 +109,7 @@ THE END
 ->END
 
 **[Odysseus vertrauen]
-
+#AUDIO:audio/wildewellen.mp3
 Ich: Ich vertraue Odysseus.
 
 Eurylochos zögerte. Zu oft hatte uns Odysseus fehlgeleitet. Die Besatzung hatte genug und begann schon zu murren. Doch ich setzte mich erneut für Odysseus Instinkt ein.
