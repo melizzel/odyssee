@@ -1,13 +1,12 @@
 ===Insel_der_Zyklopen===
 #CLEARAUDIO
-#BACKGROUND:images/ship.svg
-#AUDIO:audio/wasser.mp3
+#BACKROUND:images/ship.svg
+#AUDIO:audio/wellen.mp3
 Mit unseren zwölf Schiffen waren wir, nach langem hin und her und einem Zwischenstopp auf der Insel Kythera, nun endlich auf einer Insel mit Nahrung angekommen. Am Strand sahen wir einige Ziegen stehen, woraufhin wir sofort beschlossen, dort an Land zu gehen.
     *[...]
 Odysseus war mit jedem Tag unruhiger geworden. Besorgt sah ich mir meinen Freund an; hoffentlich würde er, mit etwas Essen im Bauch, zu seinem alten Ich zurückfinden. Fahrig tastete er nach dem restlichen Wein, um ihn mitzunehmen.
 {spieler}: Sollten wir nicht lieber mit klarem Kopf auf die uns unbekannte Insel treten? 
     **[...]
-#IMAGE:Odysseus_happy.svg
 Odysseus: Ach, woher denn. Wir haben 20 tapfere Männer ausgewählt. Und was, wenn wir auf Fremde treffen und etwas zum Handeln brauchen? Da wäre es doch nur nützlich, etwas so hochwertiges wie diesen Wein mit sich zu führen.
     ***[Bezichtige Odysseus, doch nur des Alkohols wegen den Wein mittragen zu wollen und überrede ihn, diesen auf dem Schiff zu lassen.]
         {spieler}: Du willst den Wein doch nur, um nicht nüchtern sein zu müssen. Wir haben viel zu lange nur von diesem Zeug gelebt. Lass ihn hier! 
@@ -21,11 +20,10 @@ Odysseus: Ach, woher denn. Wir haben 20 tapfere Männer ausgewählt. Und was, we
         Ich verdrehte die Augen und half ihm aus dem Sitzen auf. Mit der Hilfe von 4 Männern trugen wir die letzten zwei Weinfässer hinaus.
 -
 #CLEARAUDIO
-#CLEARIMAGE
 Kaum standen wir mit beiden Beinen am Strand, wollte er auch schon mit den 20 Männern ins 
 Landesinnere marschieren. Doch der Steuermann Eurylochos blieb plötzlich wie erstarrt stehen.
 *[...]
-#BACKGROUND:images/grasslandrocks.svg
+#BACKROUND:images/grasslandrocks.svg
 #IMAGE2: sprites/eurylochos_sad.svg
 #IMAGE: sprites/odysseus_happy.svg
 
@@ -47,7 +45,7 @@ Odysseus: Nein! Wir werden nicht unverrichteter Dinge weiterziehen. Wir brauchen
 -Mein Blick wanderte über die Gesichter der Männer. Ich spürte regelrecht den Zwiespalt in ihrem Inneren. Aber sie waren Odysseus noch immer treu ergeben und folgten ihm, wo auch immer er sie hinführte. Mit Odysseus voran gingen wir weiter in das Inselinnere, durch die Wälder, weiter Bergauf, auf der Suche nach einer Quelle.
 *[...]
 #CLEARIMAGE2
-#BACKGROUND:images/cave.svg
+#BACKROUND:images/cave.svg
 Schon von weitem erregte ein immens großer Höhleneingang unsere Aufmerksamkeit. Die Männer zog es dorthin und auch Odysseus wollte erfahren, was dort zu finden sei. Wir entschieden, unsere Gruppe aufzuteilen und gingen nur mit 12 Männern in Richtung Höhle, während die  restlichen Männer einen anderen Weg einschlugen. Als wir den Eingang erreicht hatten, blickten wir auf körbeweise Essen und eine Herde Schafe, die knapp vor dem Eingang graste.
 **[...]
 Odysseus: Nun, dann hat sich der Weg tatsächlich gelohnt. Leider scheinen die Zyklopen tatsächlich unter der Erde zu leben, sonst hätten wir ja einen sehen können.
@@ -66,7 +64,8 @@ Als er sich umdrehte, schweifte sein Blick über seine Vorräte.
 Polyphem: Wer ist da in meine Höhle eingedrungen? Zeigt euch!! 
     ******[Beruhige die Männer und versuche, versteckt zu bleiben.]
         {spieler}: Seid ganz ruhig und macht keinen Muks. Wenn er uns nicht bemerkt, können wir vielleicht bis morgen früh durchhalten. Er wird die Schafe hinaus lassen und wir warten, bis er geht.
-        Polyphem: Ich sagte zeigt euch! Ihr könnt euch meiner feinen Nase nicht entziehen. 
+        Polyphem: Ich sagte zeigt euch! Ihr könnt euch meiner feinen Nase nicht entziehen.
+        *******[...]
         Zielgerichtet kam der Zyklop auf uns zu und streckte mit beängstigender Schnelligkeit eine Hand nach uns aus. Verzweifelt versuchten wir uns an die Wände zu drängen, doch es vermochte nicht jeder schnell genug in Deckung zu gehen. Voller Grauen sahen wir, wie zwei unserer Männer von der gewaltigen Hand erfasst und gegen die Wand geschleudert wurden. Wie erstarrt mussten wir dabei zusehen, wie die leblosen Körper eine rote Spur auf dem Stein hinterliesen und zu Boden fielen. Mit dröhnender Stimme brüllte uns der Zyklop erneut entgegen.
         Polyphem: WER SEID IHR?!
         Alle waren still. Sogar Odysseus. Er hatte genauso viel Angst, das Falsche zu sagen, wie ich. Womöglich hätten wir den Zyklopen mit falschen Worten erzürnt. Doch wir wussten beide, dass wir uns nicht verstecken konnten. So selbstsicher wie möglich traten wir also vor.
@@ -84,31 +83,32 @@ Schmatzend leckte Polyphem sich die Finger ab. Mit Grauen beobachteten wir, wie 
 #IMAGE:stripes/Eurylochos_happy.svg
 Eurylochos: Ich habe euch gewarnt und nun sind unsere Kameraden tot! Gefressen, von diesem Ungetüm. Wir sind dir überall hin gefolgt, Odysseus. Über die Meere und in den Krieg. Und all das nur, um hier in dieser elenden Höhle von einem Monster gefressen zu werden!
 {spieler}: Wir werden es hier raus schaffen. Odysseus hat uns noch aus jeder misslichen Lage gerettet.
-Eurylochos: Aber dieses Mal steht uns kein Mensch gegenüber, sondern ein Sohn Poseidons! Egal, was wir tun, er wird seinen Zorn auf uns lenken. Und wir sind von der Gunst des Meeres und der Winde abhängig. 
+Eurylochos: Aber dieses Mal steht uns kein Mensch gegenüber, sondern ein Sohn Poseidons! Egal, was wir tun, er wird seinen Zorn auf uns lenken. Und wir sind von der Gunst des Meeres und der Winde abhängig.
+***[...]
 {spieler}: Die Götter waren uns doch immer wohlgesonnen. Sicher hilft uns Athena.
 Eurylochos: Die Götter sind Odysseus nicht mehr wohlgesonnen. Sonst wären wir gar nicht erst dazu gezwungen worden, hier anzulegen. Sie haben uns verlassen, weil er zu hochmütig geworden ist.
 Die Männer nickten und wurden zunehmend unruhiger. Ich hatte das schon oft gesehen. Ein Fehler, und aus Angst konnte sehr schnell Zorn werden. Beunruhigt sah ich Odysseus an, der ein Stückchen von der Gruppe entfernt, abwesend in eine Ecke der Höhle starrte.
-    ***[Versuche weiter, die Männer zu beruhigen.]
+    *****[Versuche weiter, die Männer zu beruhigen.]
         {spieler}: Habt etwas Vertrauen. Vielleicht finden wir gemeinsam einen Weg. 
         Eurylochos: Wir sind Krieger und Seefahrer. Keine Denker, wie Odysseus. Und er weiß uns nicht zu helfen. Wir haben nur die Möglichkeit, den Zyklopen zu töten.
         {spieler}: Das wäre ein großer Fehler. Denkt an Poseidon.
         Eurylochos: Die Götter haben uns ohnehin verlassen. Wir nehmen es nun in die eigene Hand. Erst töten wir den Zyklopen und dann rechnen wir mit Odysseus ab. Wir brauchen einen neuen Anführer. 
         Hinter Eurylochos stehen die Männer und nicken zustimmend. Eurylochos sieht mich fragend an.
-        ****[Bleibe bei den Männern.]
+        *****[Bleibe bei den Männern.]
             Mein Blick wanderte wieder zu Odysseus. Noch immer hatte er sich nicht von der Stelle bewegt und starrte auf irgendetwas im Schatten der Höhle.
             {spieler}: Der Verlust unserer Kameraden liegt sicher schwer auf seinen Schultern. Den Zyklopen zu töten muss dennoch gut überlegt sein. Wir wissen nicht einmal, ob unsere Waffen stark genug sind, um ihn zu verletzen. 
             Eurylochos: Wir haben keine andere Wahl, als es zu versuchen. 
             {spieler}: Dann nehmen wir an, dass wir es schaffen, Polyphem zu töten. Was wird dann aus uns? Wir sind noch immer in der Höhle eingeschlossen. Wir können niemals diesen Felsen bewegen.
             Eurylochos: Bei den Göttern, das hatte ich nicht bedacht.
             Und so schnell war die Idee dahin. Ich sah mit einem Mal, wie sämtliche Hoffnung in Eurylochos Augen schwand. Betreten schaute er mich an. Als könnte ich ihm den Halt geben, welchen unsere Kameraden brauchten. Von der Erkenntnis niedergeschmettert, kauerten sich die Männer wieder neben die beiden Weinfässer. Ich drehte mich um und ging auf Odysseus zu. 
-        ****[Gehe auf Odysseus zu und rede mit ihm.]
+        *****[Gehe auf Odysseus zu und rede mit ihm.]
 #CLEARIMAGE
 #IMAGE:stripes/Odysseus_happy.svg
             {spieler}: Mein Freund. Die Männer werden unruhig und haben scheinbar den Glauben an dich verloren. Sie sind verzweifelt, weil sie denken, der Segen der Götter hätte uns verlassen.
             Odysseus: Das mag durchaus sein. Aber wir schaffen es auch ohne ihre Hilfe hier hinaus.
             {spieler}: Wie willst du denn an solch einer brutalen Gestalt vorbeikommen? Der Weg ist versperrt! Ich flehe dich an: Versöhne dich mit der Mannschaft, versuche dich mit den Göttern zu versöhnen und bete zu Athena, dass sie uns helfen möge.
             Odysseus: Das beten ist Zeitverschwendung. Ich habe schon einen Plan.  
-    ***[Gehe auf Odysseus zu und rede mit ihm.]
+    ****[Gehe auf Odysseus zu und rede mit ihm.]
 #CLEARIMAGE
 #IMAGE:stripes/Odysseus_happy.svg
         {spieler}: Mein Freund. Die Männer werden unruhig und haben scheinbar den Glauben an dich verloren. Sie sind verzweifelt, weil sie denken, der Segen der Götter hätte uns verlassen.
@@ -147,6 +147,7 @@ Die Mannschaft um Eurylochos stimmte dem Plan zu. Odysseus hatte es geschafft, i
         Polyphem: Beleidige nicht meine Insel, fremder Krieger. Ich werde entscheiden, ob dein Wein gut ist. 
         Rasch traten wir die Schritte zurück. Keine Sekunde später griff die riesige Hand von Polyphem nur ein paar Zentimeter an meinem Gesicht vorbei und umklammerte das Fass. Mit einer schnellen Bewegung entfernte er den Deckel und trank  einen großen Schluck.
         Polyphem: Wohl wahr, ein guter Wein. Wem habe ich dieses Geschenk zu verdanken?
+        *******[...]
         Odysseus wollte schon antworten, da fiel ich ihm ins Wort. Wenn wir ihm unsere Namen gesagt hätten, und er aus Zorn seinem Vater berichtet hätte, wer seinem Sohn das Auge ausgestochen hat, würden  wir unsere Heimat niemals erreichen, dachte ich.
         {spieler}: Erlaubt mir, euch unseren Anführer „Niemand“ vorzustellen. Er hat unsere Truppen im Krieg angeführt. Was mich angeht, so bin ich nur ein bescheidener Krieger unter vielen und für eures Gleichen sicher nicht von Belang.
         Polyphem:: Niemand also. Ein recht ungewöhnlicher Name, nicht wahr?
@@ -178,7 +179,8 @@ Die Mannschaft um Eurylochos stimmte dem Plan zu. Odysseus hatte es geschafft, i
         Odysseus wollte schon antworten, da fiel ich ihm ins Wort. Wenn wir ihm unsere Namen gesagt hätten, und er aus Zorn seinem Vater berichtet hätte, wer seinem Sohn das Auge ausgestochen hat, würden  wir unsere Heimat niemals erreichen, dachte ich.
         {spieler}: Erlaubt mir, euch unseren Anführer „Niemand“ vorzustellen. Er hat unsere Truppen im Krieg angeführt. Was mich angeht, so bin ich nur ein bescheidener Krieger unter vielen und für eures Gleichen sicher nicht von Belang.
         Polyphem: Niemand also. Ein recht ungewöhnlicher Name, nicht wahr?
-        Odysseus: Nun ein besonderer wohl wahr. Aber in meiner Heimat nennen mich alle so. So trinkt nur aus Polyphem. Das zweite Fass soll auch euer sein.
+        Odysseus: Nun ein besonderer wohl wahr. Aber in meiner Heimat nennen mich alle so. So trinkt nur aus Polyphem. Das zweite Fass soll auch euer sein. 
+        ********[...]
 -So schnell wie das erste Fass geleert war, folgte auch das Zweite. Und während wir von unserer Reise erzählten, legte sich Polyphem tatsächlich benebelt und angetrunken auf die Seite und schlief ein.
 Nachdem wir eine kleine Ewigkeit gewartet hatten, winkten wir unsere Männer zu uns. In ihren Augen sah ich Zorn und Angst. Vorsichtig schlichen sie sich mit dem Speer an. Odysseus und ich stellten uns zuvorderst an den Speer.
 *[...]
@@ -212,7 +214,7 @@ Mit einem Ruck setzte sich die Schafherde in Bewegung. Wie erhofft, gingen sie s
 Als die Schafe sich von dem Eingang entfernt hatten, hörten wir aus der Höhle Schreie und Gebrüll. Alarmiert ließ Odysseus sich von seinem Schaf fallen. Ich und alle anderen taten es ihm gleich. Immer wieder drehten wir uns um, als wir den Berg hinab rannten. Alle paar Schritte stolperte jemand, doch die Furcht trieb uns wieder hoch und weiter. Hinter uns hörten wir Polyphem schreien, doch da er uns nicht sah, konnte er uns auch nicht verfolgen.
 *********[...]
 #CLEARAUDIO
-#BACKGROUND:images/beach.svg
+#BACKROUND:images/beach.svg
 Außer Atem erreichten wir den Strand. Die Männer, die sich zu Beginn von uns getrennt hatten, kamen uns schon entgegengelaufen, Erleichterung auf den Gesichtern. Sie hatten den Zyklopen schon von weitem gesehen und gehört. Sie stellten uns Fragen, doch das einzige, woran ich denken konnte, war, von dieser Insel zu entkommen.
 **********[...]
 Die Männer konnten es gar nicht erwarten, die Segel zu setzen. Freude kam auf, aber auch Trauer, um den Verlust unserer zerschmetterten und gefressenen Gefährten. Ich betrachtete Polyphem, wie er erneut laut brüllte.  Dann wand er sich zur Seite und umfasste einen gigantischen Felsbrocken, hob ihn an und begann blind in unsere Richtung zu zielen. Panisch rannten alle an die Ruder und Eurylochos stürzte sich auf das Steuer. Ein Blick auf unsere Flotte zeigte, dass alle gesehen hatten, was auf uns zukommen würde.
@@ -229,5 +231,3 @@ Polyphem: Vater! Bestrafe Odysseus dafür, mich verpönt zu haben. Versenke sein
 Und so schnell verblasste die Euphorie des Triumphes. Ungläubig sahen wir ihn an. Unseren Anführer, unseren Freund. Ihn der gerade dem Sohn des Poseidon verraten hatte, wer ihm das Auge so brutal ausgestochen hatte. Mein Blick traf auf den von Eurylochos und alles, was ich sah, war reiner Zorn.
     
     **[Karte] ->Karte
-
-
