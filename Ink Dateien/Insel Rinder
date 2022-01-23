@@ -1,7 +1,7 @@
 ===Insel_der_Rinder===
 #CLEARAUDIO
 #AUDIO:audio/wasser.mp3
-#BACKROUND:images/ship.svg
+#BACKGROUND:images/ship.svg
 ‚Hüte dich vor der Insel und meide Helios´ Rinder!‘
 
 Dieser Satz ging mir nicht mehr aus dem Kopf. Was sollte er nur bedeuten? 
@@ -35,7 +35,7 @@ Ich: Lasst uns ein Stückchen Land sehen!
 ===Rinder_Insel
 #CLEARAUDIO
 #AUDIO:audio/birds.mp3
-#BACKROUND:image/grassland.svg
+#BACKGROUND:image/grassland.svg
 Als wir gar nicht mehr daran glaubten, entdeckten wir eine Insel, die sich langsam vor uns abzeichnete. Mit Jubelgeschrei steuerten wir auf sie zu und legten an. Es war eine fruchtbare Insel, wie wir voller Erstaunen feststellten. Auf üppigen Weiden grasten wohlgenährte, goldene Rinder. Unsere Augen wurden groß und unsere leeren Mägen knurrten bei ihrem Anblick. Wir waren so froh, dass wir die Insel sahen, dass die Meuterer die Fesseln lösten.
 *[...]
 #IMAGE:sprites/Eurylochos_happy.svg
@@ -92,7 +92,7 @@ Helios: Wie könnt ihr es wagen, Sterbliche, meine Rinder zu essen!? Wisst ihr d
 
 ===Rinder_Kampf
 #CLEARIMAGE
-#clEARAUDIO
+#CLEARAUDIO
 #AUDIO:audio/wind.mp3
 #IMAGE:sprites/helios.svg
 Mit diesen Worten hob der Sonnengott seine Hände und streckte sie gen Himmel. 
@@ -113,7 +113,7 @@ Was sollten wir nun tun? Wir sprangen auf und begannen zu rennen.
 #CLEARIMAGE
 #ClEARAUDIO
 #AUDIO:audio/wellen.mp3
-#BACKROUND:images/ship.svg
+#BACKGROUND:images/ship.svg
 So saßen wir auf unseren Floß. Die See schien schon einen Weg für uns bestimmt zu haben und trug uns weiter hinaus. Wir sprachen kaum, sondern trauerten um unsere Kameraden. 
 {spieler}: Schau, vor uns! Dort ist eine Insel!
 Mit den Händen ruderten wir dort hin.
@@ -122,7 +122,7 @@ Mit den Händen ruderten wir dort hin.
 ===Rinder_Paradies
 #CLEARAUDIO
 #AUDIO:audio/bird.mp3
-#BACKROUND:images/beach.svg
+#BACKGROUND:images/beach.svg
 Erleichtert ließen wir uns in den warmen, weichen Sand fallen. 
     *[...]
     Kalypso: Seid willkommen auf der Insel Ogygia! 
