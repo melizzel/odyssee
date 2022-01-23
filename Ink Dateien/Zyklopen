@@ -20,7 +20,6 @@ Odysseus: Ach, woher denn. Wir haben 20 tapfere Männer ausgewählt. Und was, we
         Ich verdrehte die Augen und half ihm aus dem Sitzen auf. Mit der Hilfe von 4 Männern trugen wir die letzten zwei Weinfässer hinaus.
 -
 #CLEARAUDIO
-#BACKROUND:images/beach.svg
 Kaum standen wir mit beiden Beinen am Strand, wollte er auch schon mit den 20 Männern ins 
 Landesinnere marschieren. Doch der Steuermann Eurylochos blieb plötzlich wie erstarrt stehen.
 *[...]
@@ -182,9 +181,11 @@ Die Mannschaft um Eurylochos stimmte dem Plan zu. Odysseus hatte es geschafft, i
 Nachdem wir eine kleine Ewigkeit gewartet hatten, winkten wir unsere Männer zu uns. In ihren Augen sah ich Zorn und Angst. Vorsichtig schlichen sie sich mit dem Speer an. Odysseus und ich stellten uns zuvorderst an den Speer.
 *[...]
 #CLEARIMAGE2
+#AUDIO:audio/zyklop_schrei.mp3
 Im nächsten Moment war es schon vollbracht. Vor mir schrie Polyphem voller Schmerzen auf. In seinem Auge steckte noch immer der Speer, den er sich selbst herauszog und wild von sich warf. Dabei stampfte er wütend auf und taumelte in unsere Richtung. Sein Gebrüll war unerträglich und in jenem Augenblick war ich mir sicher, dass wir niemals lebend diese Höhle verlassen würden. 
 Zwischen das Geheul von Polyphem mischte sich mit einem Mal ein Dröhnen und der Boden begann leicht zu beben. Vom Eingang der Höhle her drang eine dumpfe, aber laute Stimme.
 **[...]
+#CLEARAUDIO
 Stimme: Was schreist du so, Polyphem? Es ist tiefste Nacht und du reißt uns mit deinem Geheul aus dem Schlafe!
 Polyphem: Ich bin blind, ich wurde geblendet!
 Stimme: Wer hat das gewagt?? Sage uns den Namen und wir werden ihn bestrafen!!
@@ -226,4 +227,5 @@ Polyphem: Vater! Bestrafe Odysseus dafür, mich verpönt zu haben. Versenke sein
 Und so schnell verblasste die Euphorie des Triumphes. Ungläubig sahen wir ihn an. Unseren Anführer, unseren Freund. Ihn der gerade dem Sohn des Poseidon verraten hatte, wer ihm das Auge so brutal ausgestochen hatte. Mein Blick traf auf den von Eurylochos und alles, was ich sah, war reiner Zorn.
     
     **[Karte] ->Karte
+
 
