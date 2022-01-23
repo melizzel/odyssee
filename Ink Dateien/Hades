@@ -1,6 +1,7 @@
 ===Hades_Anfang===
 #CLEARAUDIO
 #BACKGROUND:images/sea.svg
+#AUDIO:audio/wasser.mp3
 Wir hatten so viel überlebt, um nicht in der Unterwelt zu enden, dennoch hatte unser Weg uns hierher geführt. 
 Es wurde uns so prophezeit. Wir sollten in die Heimat von Hades und seiner Frau Persephone eintreten. In der Hoffnung, dass wir dort den Heimweg fänden. Wir würden dort unmenschliches Leid und verlorene Seelen antreffen. 
 Doch wir mussten dorthin, um das Orakel Theresias zu suchen. Ich hoffte inständig, dass wir auf ihn trafen, ohne uns selbst dort unten zu verlieren. Den Erzählungen zu Folge, hatten Hades und Persephone die Seherfähigkeit Theresias gelassen, obwohl alle Seelen im Tode gleich sein sollten.
@@ -10,17 +11,24 @@ So standen wir nun gemeinsam vor dem „Land der Kymeria“. Wie gebannt blickte
 Keiner unserer Männer fühlte sich hier wohl. Sogar die Ängste des Krieges waren kein Vergleich zu dem Gefühl, welches und dieser Ort uns in die Glieder trieb. Die Präsenz des nahen Todes war dort greifbar nah und kroch tief in uns hinein. Näher als es ein Schwerthieb je sein könnte, hatten wir doch im Krieg immer unseren Schild, um uns zu verteidigen.
 Aber nun, dort so nah… Kurz vor dem Eingang, der Strömung der Gaia folgend, merkte ich, wie die stärksten unserer Männer bibberten.
 **[...]
+#CLEARAUDIO
+#IMAGE:sprites/eurylochos_sad.svg
+#IMAGE2:sprites/odysseus_happy.svg
 Um die Toten, insbesondere den Seher Theresias, auf uns aufmerksam zu machen, opferten wir zwei der Tiere auf unserem Schiff. Der Geruch des frischen Blutes mischte sich mit Fäulnis und Verwesung, die in der Luft lagen. Kurz darauf erschienen uns die Geister. Untote, die auch an dem Opfer teilhaben wollten. Wir mussten das Opfer vor ihnen verteidigen, da die Heimkehr nach Ithaka von Theresias abhing.
 {spieler}: Die Götter sind erzürnt. Wir dürfen hier nicht sein. Niemals ist es den Menschen gestattet, der Unterwelt so nahe zu kommen. Was, wenn wir nicht zurückkehren?
-***[...]
-#IMAGE:sprites/eurylochos_sad.svg
-#IMAGE2:sprites/odysseus_sad.svg
+
+
 Eurylochos: Wir sollten die Götter anflehen, uns heim zuführen. Athena mag auf unserer Seite sein. Aber wir haben Poseidon erzürnt.
+
 Odysseus: Bleibt ruhig, meine Freunde, wir werden diesen Ort bald wieder verlassen.
-Mit einem Mal erstarrte Odysseus und blickte inmitten all der Untoten. Ich folge seinem Blick. Ich wagte nicht zu erahnen, was er in diesem Moment fühlen musste. Einige Schritte entfernt, wandelte ein bekanntes Gesicht aus Ithaka. Anticlea, Odysseus‘ Mutter. Sie war noch lebendig als wir fuhren und dem Tod auch noch nicht nahe.
-****[...]
+
+***[...]
 #CLEARIMAGE
+#CLEARIMAGE2
 #IMAGE:sprites/mutter.svg
+#IMAGE2:sprites/odysseus_sad.svg
+Mit einem Mal erstarrte Odysseus und blickte inmitten all der Untoten. Ich folge seinem Blick. Ich wagte nicht zu erahnen, was er in diesem Moment fühlen musste. Einige Schritte entfernt, wandelte ein bekanntes Gesicht aus Ithaka. Anticlea, Odysseus‘ Mutter. Sie war noch lebendig als wir fuhren und dem Tod auch noch nicht nahe.
+
 Odysseus: Mutter, wie- wie kannst du hier sein? Du warst am Leben, als wir loszogen!
     ->Hades_Gespraech
 
@@ -79,13 +87,16 @@ Theresias: Du wirst heimkehren, jedoch allein. Und auf Ithaka werden dich weiter
         {spieler}: So einfach wird es nicht sein und dessen bist du dir sehr wohl bewusst. Wir müssen die Götter besänftigen.
         Odysseus: Und noch mehr, bin ich mir meiner Fähigkeiten bewusst. Ich werde uns nach Ithaka zurückführen. Auch ohne den Segen der Götter.
         Theresias: Ihr solltet nun gehen. Ihr habt lange genug hier verweilt. Höre auf deinen Freund, Odysseus. Hier solltet ihr nicht zu schlecht von den Göttern reden. Hier gibt es mehr als nur verlorene Seelen Verstorbener. Wesen, die nur durch den Glauben an die Götter hier festgehalten werden.
-    ****Du hast das Gefühl, die Götter seien schon länger nicht mehr auf eurer Seite.
+    ****[Du hast das Gefühl, die Götter seien schon länger nicht mehr auf eurer Seite.]
+    Die Götter auf unserer Seite? Das glaubte ich nicht.
     -Ich sah Odysseus an, wie er den Geistern mit Blicken hinab folgte, ihnen hinterher blickte. Gebannt starrte er auf den Krater unter uns und den Weg, der hinab führte. Ich spürte, wie er mir erneut zu entgleiten drohte. 
     *[Stehe Odysseus zur Seite.]
     #CLEARIMAGE2
         Odysseus: Ich muss hinab. Vielleicht finde ich noch mehr meiner Gefährten. Kann mit Ihnen reden, kann meine Mutter noch einmal sehen.
-        {spieler}: Nun gut. Die restlichen Männer bleiben auf dem Schiff. Aber ich begleite dich, wir gehen zusammen hinab und kehren gemeinsam wieder zurück. Aber wir dürfen nicht zu viel Zeit verschwenden. 
-        Da steigt er auch schon von Bord und begibt sich auf den steinernen Weg in den Abgrund.
+        {spieler}: Nun gut. Die restlichen Männer bleiben auf dem Schiff. Aber ich begleite dich, wir gehen zusammen hinab und kehren gemeinsam wieder zurück. Aber wir dürfen nicht zu viel Zeit verschwenden.
+        
+        Mit diesen Worten stieg er auch schon von Bord und begab sich auf den steinernen Weg in den Abgrund.
+        
     *[Versuche Odysseus zur Umkehr zu bewegen.]
     #CLEARIMAGE2
         {spieler}: Nein Odysseus, reiße dich von dem Anblick los! Teresias hat vor Monstern gewarnt. Wenn sie dir zürnen, weil du die Götter beleidigt hast, müssen wir sofort von hier verschwinden!
@@ -95,30 +106,37 @@ Theresias: Du wirst heimkehren, jedoch allein. Und auf Ithaka werden dich weiter
         
         Odysseus: Penelope, Telemachos und mein Vater. Wie recht du hast, {name}. Lass uns zurückkehren. Die Götter haben mir meine teure Mutter genommen. Wieso strafen sie mich so mit ihrem Hass? Sie lassen mich nicht in meine Heimat zurück und führen uns auf diese Irrfahrt. Und dann zürnen sie auch noch mir, während meine Familie in Ithaka auseinander zu brechen droht. Sie sind es doch, die mich im Stich lassen. Nicht ich.
         ***[...]
+        #AUDIO:audio/zerberus.wav
         #IMAGE2:sprites/zerberus.svg
         Da hörten wir aus den Untiefen ein lautes Grollen, ein Knurren, begleitet von aufsteigendem Wehklagen der Seelen. Dann bebte das Schiff und etwas Großes, schwarzes erhob sich aus dem Krater. Mit einem Mal legten sich zwei gigantische Pranken auf die Rehling und drei Hundeschädel stierten direkt auf Odysseus und mich. Bevor ich etwas tun konnte, schnappte sich der mittlere der Köpfe Odysseus, und zog ihn mit sich hinab in den Abgrund.
         ****[...]
+        #AUDIO:audio/hades.wav
         #CLEARIMAGE
         #CLEARIMAGE2
         #BACKGROUND:images/hades.svg
-    -Mit einem Schritt war es schon geschehen. Ich lief ihm hinterher. Immer weiter hinab, in unser Verderben. An diesen von den Göttern verbotenen Ort.
+ - Ich lief ihm hinterher. Immer weiter hinab, in unser Verderben. An diesen von den Göttern verbotenen Ort.
    ->Hades_Geschichte
  
     ===Hades_Geschichte
     Als ich ihn eingeholt hatte, war er nicht allein. Er stand Agamemnon gegenüber. Dem einstigen König und Freund von Odysseus. Wir hatten Seite an Seite im Krieg um Troja gekämpft. Und nun stand das, was von ihm übrig war, vor uns. Wir fragten ihn, wie es kam, dass er nun hier war.
     *[...]
+    #IMAGE:sprites/odysseus_sad.svg
+    #IMAGE2:sprites/agamemnon.svg
     Agamemnon: Ich war gerade zurückgekehrt. Zu Hause bei meiner Frau Clytemnestra. Doch… sie war mir nicht treu gewesen. Sie war nicht mehr die Frau, die ich liebte. Sie tötete mich und alle meine treuen Männer. Doch mein Sohn Oreste hat mich gerächt. Er tötete sie und meinen verräterischen Vetter Egisthos. Zeus hat ihm das nicht verziehen. Er leidet nun unter den Erynnen, üble Rachegöttinnen, er wird dem Wahnsinn anheimfallen… 
     Odysseus :  Von deiner eigenen Frau. Wie konnte sie das nur tun? Meine Geliebte Penelope würde sich einem solchen Vergehen niemals schuldig machen.
   
     Agamemnon: Sei bei deiner Heimkehr dennoch gewarnt. Womöglich gibt es dort jemanden, der dir nicht wohlgesinnt ist und nach deinem Thron trachtet. Zeige dich nicht. Kehre verkleidet heim und offenbare dich mit Bedacht.
       **[...]
+      #CLEARIMAGE
+      #CLEARIMAGE2
     Da erschienen uns weitere Geister von gefallenen Kriegern aus Troja. Unter ihnen erkannte ich auch den unbesiegbaren Achilles. Sogar ihn hatte der Tod nicht verschont. Dort unten schienen alle zu einem Schatten ihrer selbst zu werden. Vorwurfsvoll sah er uns an. Anklagend, dass wir es wagten hier hinabzusteigen. 
     
     Achilles: Hier unten gibt es nichts für euch, kehrt wieder um und hofft, dass ihr es schafft. Der Tod ist nichts im Vergleich zum Leben.
     ***[...]
     {spieler}: Du bist ein Held Achilles. Jeder kennt deinen Namen. Wandelst du auch hier unten, so lebst du dennoch unter uns als ewiger Held weiter.
     Achilles: Das ist hier nicht von Belang. Hier bin ich tot und der Ruhm meiner Siege verblasst, wie mein Körper. Etwas, das jeden Helden ereilt, so er in der Unterwelt einkehrt.
-    Er deutete uns, ihm zu folgen. Er führte uns zu anderen Kriegern und Königen. Gefangenen der ewigen Qualen, die Gesichter verzerrt.  
+    
+    Er deutete uns, ihm zu folgen. Er führte uns zu anderen Kriegern und Königen. Gefangene der ewigen Qualen, die Gesichter verzerrt.  
     ->Hades_Gespraech2
 
 ===Hades_Gespraech2
@@ -131,7 +149,9 @@ Sisyphos hatte bei einem Wettstreit mit den Göttern betrogen, Zeus verärgert u
 *[Ödipus]
 Wegen den Taten seines Vaters wurde Ödipus von den Göttern dazu verflucht, Vatermord zu begehen und danach seine Mutter zu heiraten. Er nahm sich sein eigenes Augenlicht und ist nun dazu verdammt, auf ewig blind durch die Unterwelt zu wandeln.
 ->Hades_Gespraech2
+
 *[Verstört von dem unmenschlichen Leid geht ihr weiter.]->
- #BACKGROUND:images/hadesforest.svg
+#CLEARAUDIO
+#BACKGROUND:images/hadesforest.svg
 Wir hatten furchtbares Grauen gesehen und konnten uns gerade so losreißen. So schnell wir konnten stiegen wir wieder hinauf. Begleitet von der Angst, noch eines der Wesen der Unterwelt anzutreffen und von dem Wahnsinn ereilt zu werden, dem die Seelen anheimgefallen waren.
 **[Karte] ->Karte
