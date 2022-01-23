@@ -16,7 +16,6 @@ INCLUDE Skylla
 
 === Karte ===
 #CLEAR
-#CLEARAUDIO
 #AUDIO:audio/wasser.mp3
 #BACKGROUND:images/ship.svg
 Vor euch seht ihr unseren Schiffsweg. Wir schifften von Insel zu Insel und hofften, irgendwann wieder anzukommen. {spieler} werde euch von Insel zu Insel begleiten. 

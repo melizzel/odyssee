@@ -1,6 +1,5 @@
 
 ===Outro_Tod
-#CLEARAUDIO
 #BACKGROUND: images/sea.svg
 #AUDIO:audio/wasser.mp3
 Konnte das möglich sein? Ich traute meinen Augen nicht, aber am Horizont zeichneten sich die bekannten Formen von Ithaka ab. Ithaka! Meine Heimat! Wie viele Jahre hatte ich dich nicht gesehen? Freudig machte ich auch Odysseus aufmerksam auf die Insel. Er trat neben mich und legte mir eine Hand auf die Schulter.
@@ -16,7 +15,6 @@ Mit diesen Worten klopfte er mir auf die Schulter, doch in diesem Moment schlug 
         ->Outro_Ende
         
 ===Outro_Leben
-#CLEARAUDIO
 #BACKGROUND: images/sea.svg
 #AUDIO:audio/wasser.mp3
 Konnte das möglich sein? Ich traute meinen Augen nicht, aber am Horizont zeichneten sich die bekannten Formen von Ithaka ab. Ithaka! Meine Heimat! Wie viele Jahre hatte ich dich nicht gesehen? Freudig machte ich auch Odysseus aufmerksam auf die Insel. Er trat neben mich und legte mir eine Hand auf die Schulter.
@@ -28,7 +26,6 @@ Ich straffte mich. Nein, ich würde mich kurz vor dem Ziel nicht der Grübelei u
 
 ===Outro_Ende
 *[...] 
-#CLEARAUDIO
 #AUDIO:audio/wellen.mp3
 #BACKGROUND: images/sandbeach.svg
 Wir liefen am wunderbaren Strand von Ithaka an und augenblicklich umwehten mich bekannte Gerüche. Nichts schien verändert zu sein. Damit endete meine Reise mit Odysseus, dem Listenreichen, der doch nicht alle Abenteuer allein bestritt und sich allein gerettet hatte. 
