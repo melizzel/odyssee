@@ -186,6 +186,7 @@ Doch die anderen hörten nicht auf mich, sondern ließen mich an Ort und Stelle 
 //Wo führt das hin?
 
 === Kirke_Essen ===
+#BACKGROUND:images/foresthaus.svg
 #IMAGE:sprites/kirke_good.svg
 Wir fanden einen ausgetretenen Pfad und folgten ihm bis zu einem prächtigen Haus. Vor dem Haus stand eine der schönsten Frauen, die ich je gesehen hatte. Goldenes Haar floss über ihren Rücken und von ihrer Haltung und Statur konnte ich deutlich erkennen, dass sie von adliger Abstammung war.
 *[...] 
@@ -243,6 +244,7 @@ So hob die hübsche Frau einen Stab und rief Wörter in einen fremden Sprache.
 
 === Kirke_nicht_selbst_zurueckverwandeln ===
 Das Tor zum Stall schloss sich und ich blieb mit meinen Kameraden im Matsch stehen. Meine Beine wollten mein Gewicht beinahe nicht tragen und Gestank drang in meine Nase. Doch was sollte ich sonst tun? Ich hatte keine Möglichkeit mich zu befreien und so konnte ich nur abwarten, ob mich Odysseus erretten würde – doch darauf würde ich nicht wetten.
+*[...]
 ->Kirke_Schwein_sein
 
 === Kirke_selbst_zurueckverwandeln ===
@@ -261,6 +263,7 @@ Ich schlich mich leise aus dem Stall.
 
 === Kirke_Odysseus_Hilfe_holen ===
 #CLEARIMAGE
+#BACKGROUND:images/forest.svg
 #IMAGE:sprites/odysseus_happy.svg
 Sofort begann ich zu rennen. Ich rannte durch den Dschungel der Insel und doch hatte ich das Gefühl, verfolgt zu werden. Es war mir, als würden unsichtbare Augen auf mich gerichtet sein. Trotzdem schaffte ich es auf den Sandstrand. Dort traf ich auf Odysseus, der mir freudig zu winkte. Außer Atem wollte ich ihm von Kirke erzählen, doch Odysseus ließ mich nicht zu Wort kommen, sondern verlachte mich als Feigling.
 {Kirke_selbst_zurueckverwandeln: -> Kirke_Mann_erscheint }
@@ -416,7 +419,7 @@ Odysseus: Das können wir nicht mit unseren Kameraden machen lassen! Lasst uns z
 Damit forderte er den Boten auf, uns den Weg zu zeigen. Dieser ging zitternd voran. Schnell führte uns durch den Dschungel voran, zu Kirkes Haus.
 *[...]
 #IMAGE:sprites/kirke_evil.svg
-#BACKGROUND:images/forest.svg
+#BACKGROUND:images/foresthaus.svg
 
 Prachtvoll ragte es vor uns auf und die schöne Kirke begrüßte uns überschwänglich. Mit wippenden Zopf führte sie uns zusammen mit ihren Dienerinnen in die Speisehalle. Der Geruch des Essens ließ mir das Wasser im Mund zusammenlaufen. Mit ausgebreiteten Armen forderte uns Kirke zum Essen auf. 
 
