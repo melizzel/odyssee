@@ -7,6 +7,7 @@ Mit unseren zwölf Schiffen waren wir, nach langem hin und her und einem Zwische
 Odysseus war mit jedem Tag unruhiger geworden. Besorgt sah ich mir meinen Freund an; hoffentlich würde er, mit etwas Essen im Bauch, zu seinem alten Ich zurückfinden. Fahrig tastete er nach dem restlichen Wein, um ihn mitzunehmen.
 {spieler}: Sollten wir nicht lieber mit klarem Kopf auf die uns unbekannte Insel treten? 
     **[...]
+#IMAGE: sprites/odysseus_happy.svg
 Odysseus: Ach, woher denn. Wir haben 20 tapfere Männer ausgewählt. Und was, wenn wir auf Fremde treffen und etwas zum Handeln brauchen? Da wäre es doch nur nützlich, etwas so hochwertiges wie diesen Wein mit sich zu führen.
     ***[Bezichtige Odysseus, doch nur des Alkohols wegen den Wein mittragen zu wollen und überrede ihn, diesen auf dem Schiff zu lassen.]
         {spieler}: Du willst den Wein doch nur, um nicht nüchtern sein zu müssen. Wir haben viel zu lange nur von diesem Zeug gelebt. Lass ihn hier! 
@@ -25,7 +26,6 @@ Landesinnere marschieren. Doch der Steuermann Eurylochos blieb plötzlich wie er
 *[...]
 #BACKROUND:images/grasslandrocks.svg
 #IMAGE2: sprites/eurylochos_sad.svg
-#IMAGE: sprites/odysseus_happy.svg
 
 Eurylochos: Bei den Göttern, jetzt wo ich diese Berge genauer betrachte, erinnere ich mich. Sie kamen mir gleich bekannt vor, wir sollten sofort umkehren. Dies ist die Insel der Zyklopen. Sie sollen in Höhlen unter der Erde leben und alles fressen, was ihr Auge erblickt.
 Ein Schauer ging durch die 20 Männer. Auch Odysseus und ich blieben von der aufsteigenden Angst nicht verschont.
@@ -59,7 +59,7 @@ Anstatt, wie besprochen, schnell zu verschwinden, sah ich, wie Odysseus begann, 
 Das Geräusch wurde lauter, ich spürte, dass es zu spät war, noch bevor in der Höhle etwas das ganze Sonnenlicht verschlang. Wie erstarrt blickten die Männer an mir vorbei zum Höhleneingang, durch den man noch das friedliche Blöken der Schafherde vernehmen konnte.
 Die Männer sprangen schon auf und versuchten sich weiter in das Höhleninnere zurückzuziehen, doch es gab nur einen Ausgang. Und dort stand nun ein leibhaftiger Zyklop.
 *****[...]
-#IMAGE2:images/zyklop.svg
+#IMAGE2:sprites/zyklop.svg
 Als er sich umdrehte, schweifte sein Blick über seine Vorräte.
 Polyphem: Wer ist da in meine Höhle eingedrungen? Zeigt euch!! 
     ******[Beruhige die Männer und versuche, versteckt zu bleiben.]
