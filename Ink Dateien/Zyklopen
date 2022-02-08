@@ -4,6 +4,7 @@
 #AUDIO:audio/wellen.mp3
 Mit unseren zwölf Schiffen waren wir, nach langem hin und her und einem Zwischenstopp auf der Insel Kythera, nun endlich auf einer Insel mit Nahrung angekommen. Am Strand sahen wir einige Ziegen stehen, woraufhin wir sofort beschlossen, dort an Land zu gehen.
     *[...]
+#BACKROUND:images/grasslandrocks.svg
 Odysseus war mit jedem Tag unruhiger geworden. Besorgt sah ich mir meinen Freund an; hoffentlich würde er, mit etwas Essen im Bauch, zu seinem alten Ich zurückfinden. Fahrig tastete er nach dem restlichen Wein, um ihn mitzunehmen.
 {spieler}: Sollten wir nicht lieber mit klarem Kopf auf die uns unbekannte Insel treten? 
     **[...]
@@ -21,12 +22,11 @@ Odysseus: Ach, woher denn. Wir haben 20 tapfere Männer ausgewählt. Und was, we
         Ich verdrehte die Augen und half ihm aus dem Sitzen auf. Mit der Hilfe von 4 Männern trugen wir die letzten zwei Weinfässer hinaus.
 -
 #CLEARAUDIO
+#AUDIO:audio/
 Kaum standen wir mit beiden Beinen am Strand, wollte er auch schon mit den 20 Männern ins 
 Landesinnere marschieren. Doch der Steuermann Eurylochos blieb plötzlich wie erstarrt stehen.
 *[...]
-#BACKROUND:images/grasslandrocks.svg
-#IMAGE2: sprites/eurylochos_sad.svg
-
+#IMAGE2: sprites/Eurylochos_sad.svg
 Eurylochos: Bei den Göttern, jetzt wo ich diese Berge genauer betrachte, erinnere ich mich. Sie kamen mir gleich bekannt vor, wir sollten sofort umkehren. Dies ist die Insel der Zyklopen. Sie sollen in Höhlen unter der Erde leben und alles fressen, was ihr Auge erblickt.
 Ein Schauer ging durch die 20 Männer. Auch Odysseus und ich blieben von der aufsteigenden Angst nicht verschont.
 Eurylochos: Lasst uns lieber zur nächsten Insel reisen. Was tun wir, wenn wir einem dieser Zyklopen begegnen? Da haben wir keine Chance!
