@@ -22,7 +22,7 @@ Odysseus: Ach, woher denn. Wir haben 20 tapfere Männer ausgewählt. Und was, we
         Ich verdrehte die Augen und half ihm aus dem Sitzen auf. Mit der Hilfe von 4 Männern trugen wir die letzten zwei Weinfässer hinaus.
 -
 #CLEARAUDIO
-#AUDIO:audio/
+#AUDIO:audio/greek.mp3
 Kaum standen wir mit beiden Beinen am Strand, wollte er auch schon mit den 20 Männern ins 
 Landesinnere marschieren. Doch der Steuermann Eurylochos blieb plötzlich wie erstarrt stehen.
 *[...]
@@ -163,6 +163,7 @@ Die Mannschaft um Eurylochos stimmte dem Plan zu. Odysseus hatte es geschafft, i
 #CLEARIMAGE
 #IMAGE:stripes/zyklop.svg
 #IMAGE2:stripes/Odysseus_happy.svg
+#CLEARAUDIO
 #AUDIO:audio/schafe.mp3
         Während wir uns auf alles vorbereiteten, verloren wir das Gefühl für Zeit und als wir das Geräusch lauter Schritte und das Geräusch des großen Felsen hörten, half es wenig, dass wir den Plan so gut durchgegangen waren. 
         Noch bevor Polyphem die Höhle betrat, trieb er seine Schafe hinein, die sich blökend in eine Ecke der Höhle zurück zogen.
@@ -171,6 +172,7 @@ Die Mannschaft um Eurylochos stimmte dem Plan zu. Odysseus hatte es geschafft, i
         Odysseus: Guten Abend, oh großer Polyphem. Wir haben ein Gastgeschenk für euch. Dieser Wein hat uns auf unseren Reisen begleitet und etwas Besseres gibt es auf dieser Insel sicher nicht.
         ******[...]
 #CLEARAUDIO
+#Audio:audio/greek.mp3
         Polyphem: Beleidige nicht meine Insel, fremder Krieger. Ich werde entscheiden, ob dein Wein gut ist.
         Die beiden Männer stellten die Fässer gerade ab, als Polyphem schon nach dem ersten Fass griff. Unser Kamerad war nicht schnell genug und wurde samt des Fasses von Polyphem zu seinem Mund geführt. Ungeachtet dessen, dass noch etwas in seiner Hand war, öffnete er das Fass und trank einen großen Schluck daraus. Als er es von seinen Lippen absetzte, erblickte er unseren Kameraden und schlang ihn, ohne ein Wort, mit einem weiteren Schluck des Weines hinab.
         Sprachlos, gegenüber der selbstverständlichen Grausamkeit des Zyklopen, sah ich zu Odysseus, in der Hoffnung, dass er verstand, wie wichtig es war, die Ruhe zu bewahren. Der zweite der Männer war längst zu den anderen zurück geeilt und hatte  sich an den Speer gestellt. 
@@ -185,11 +187,13 @@ Die Mannschaft um Eurylochos stimmte dem Plan zu. Odysseus hatte es geschafft, i
 Nachdem wir eine kleine Ewigkeit gewartet hatten, winkten wir unsere Männer zu uns. In ihren Augen sah ich Zorn und Angst. Vorsichtig schlichen sie sich mit dem Speer an. Odysseus und ich stellten uns zuvorderst an den Speer.
 *[...]
 #CLEARIMAGE2
+#CLEARAUDIO
 #AUDIO:audio/zyklop_schrei.mp3
 Im nächsten Moment war es schon vollbracht. Vor mir schrie Polyphem voller Schmerzen auf. In seinem Auge steckte noch immer der Speer, den er sich selbst herauszog und wild von sich warf. Dabei stampfte er wütend auf und taumelte in unsere Richtung. Sein Gebrüll war unerträglich und in jenem Augenblick war ich mir sicher, dass wir niemals lebend diese Höhle verlassen würden. 
 Zwischen das Geheul von Polyphem mischte sich mit einem Mal ein Dröhnen und der Boden begann leicht zu beben. Vom Eingang der Höhle her drang eine dumpfe, aber laute Stimme.
 **[...]
 #CLEARAUDIO
+'Audio:audio/greek.mp3
 Stimme: Was schreist du so, Polyphem? Es ist tiefste Nacht und du reißt uns mit deinem Geheul aus dem Schlafe!
 Polyphem: Ich bin blind, ich wurde geblendet!
 Stimme: Wer hat das gewagt?? Sage uns den Namen und wir werden ihn bestrafen!!
@@ -207,6 +211,7 @@ Nach einer Ewigkeit drang etwas Sonnenlicht durch einen Spalt am Eingang. Ich sc
 ******[Etwas später...]
 Zuerst zuckten seine Finger ein wenig, dann begann er, sich aufzurichten. Er stemmte sich an der Höhlenwand hoch und drehte sich desorientiert einmal um sich selbst. Unvermittelt fing er wieder an zu brüllen und tastete sich die Wand entlang, zum Eingang der Höhle. Gespannt hielt ich den Atem an. Meine Finger waren fest in das Fell des Schafes gekrallt.
 *******[...]
+#CLEARAUDIO
 #AUDIO:audio/schafe.mp3
 Als Polyphem den großen Felsbrocken gefunden hatte, hob er ihn zur Seite und das Sonnenlicht drang in die Höhle. Voller Grauen sah ich auf die Stelle, an der Polyphems Auge gewesen war. Ich wusste genau, dass ich diesen Anblick nie vergessen werde. 
 Mit einem Ruck setzte sich die Schafherde in Bewegung. Wie erhofft, gingen sie schon von allein aus der Höhle hinaus. Polyphem stand am Eingang und drehte den Kopf, schien zu versuchen uns zu hören oder zu riechen. Ab und an strich er mit einer Hand über eins der Schafe. Tastete es ab. Erleichtert atmete ich aus, als mein Schaf aus der Höhle trat und ich unter mir Gras spürte. Vorsichtig drehte ich den Kopf, um zu sehen, wie es den anderen erging. Sie alle klammerten sich an den Bäuchen der Schafe fest. Von ihnen hinausgetragen, hatte Polyphem uns nicht wahrgenommen.
@@ -214,6 +219,7 @@ Mit einem Ruck setzte sich die Schafherde in Bewegung. Wie erhofft, gingen sie s
 Als die Schafe sich von dem Eingang entfernt hatten, hörten wir aus der Höhle Schreie und Gebrüll. Alarmiert ließ Odysseus sich von seinem Schaf fallen. Ich und alle anderen taten es ihm gleich. Immer wieder drehten wir uns um, als wir den Berg hinab rannten. Alle paar Schritte stolperte jemand, doch die Furcht trieb uns wieder hoch und weiter. Hinter uns hörten wir Polyphem schreien, doch da er uns nicht sah, konnte er uns auch nicht verfolgen.
 *********[...]
 #CLEARAUDIO
+#Audio:audio/greek.mp3
 #BACKROUND:images/beach.svg
 Außer Atem erreichten wir den Strand. Die Männer, die sich zu Beginn von uns getrennt hatten, kamen uns schon entgegengelaufen, Erleichterung auf den Gesichtern. Sie hatten den Zyklopen schon von weitem gesehen und gehört. Sie stellten uns Fragen, doch das einzige, woran ich denken konnte, war, von dieser Insel zu entkommen.
 **********[...]
